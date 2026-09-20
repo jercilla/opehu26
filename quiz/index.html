@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#1e3a5f">
+  <title>Quiz OPE Administracion EHU</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="app">
+    <!-- Pantalla: gestion de usuarios -->
+    <section id="screen-users" class="screen hidden">
+      <div class="container">
+        <header class="menu-header">
+          <button class="btn-icon" id="btn-back-from-users" title="Volver al menu">&#8592;</button>
+        </header>
+        <h1>Perfiles</h1>
+        <p class="subtitle">Elige un perfil o crea uno nuevo</p>
+        <div id="users-list" class="users-list"></div>
+        <form id="new-user-form" class="new-user-form">
+          <input type="text" id="new-user-name" placeholder="Nombre del perfil" maxlength="20" autocomplete="off">
+          <button type="submit" class="btn btn-primary">Crear perfil</button>
+        </form>
+        <button class="btn btn-danger btn-block" id="btn-clear-data" style="margin-top:1.5rem;">Limpiar datos locales</button>
+
+        <div class="data-transfer" style="margin-top:2rem;">
+          <h3 style="font-size:1rem;color:#94a3b8;margin-bottom:0.75rem;">Exportar / Importar</h3>
+          <button class="btn btn-secondary btn-block" id="btn-export-data">Exportar datos</button>
+          <label class="btn btn-secondary btn-block" style="display:inline-flex;margin-top:0.5rem;">
+            Importar datos
+            <input type="file" id="btn-import-data" accept=".json" style="display:none;">
+          </label>
+        </div>
+      </div>
+    </section>
+
+    <!-- Pantalla: menu principal -->
+    <section id="screen-menu" class="screen hidden">
+      <div class="container">
+        <header class="menu-header">
+          <div class="user-badge" id="menu-user-badge">
+            <span class="user-icon">&#128100;</span>
+            <span class="user-name" id="current-user-name">-</span>
+            <div id="user-dropdown" class="hidden"></div>
+          </div>
+          <button class="btn-icon" id="btn-switch-user" title="Gestionar perfiles">&#9881;</button>
+        </header>
+
+        <h1>OPE Administracion EHU</h1>
+
+        <div id="quizzes-list"></div>
+      </div>
+    </section>
+
+    <!-- Pantalla: configuracion de sesion -->
+    <section id="screen-session" class="screen hidden">
+      <div class="container">
+        <header class="menu-header">
+          <button class="btn-icon" id="btn-back-from-session" title="Volver">&#8592;</button>
+        </header>
+        <h1 id="session-quiz-title">Quiz</h1>
+
+        <div class="session-resume hidden" id="session-resume-box">
+          <p>Tienes una sesion en curso: <strong id="session-resume-text"></strong></p>
+          <button class="btn btn-primary btn-block" id="btn-continue-session">Continuar sesion</button>
+        </div>
+
+        <div class="mode-selector">
+          <h3>Nueva sesion</h3>
+          <label class="mode-option">
+            <input type="radio" name="session-mode" value="sequential" checked id="radio-sequential">
+            <span class="mode-label">Secuencial</span>
+            <span class="start-label">Entre</span>
+            <input type="number" id="seq-start" class="inline-num" min="1" value="1" title="Inicio">
+            <span class="start-label">y</span>
+            <input type="number" id="seq-end" class="inline-num" min="1" value="1" title="Fin">
+          </label>
+          <label class="mode-option">
+            <input type="radio" name="session-mode" value="random" id="radio-random">
+            <span class="mode-label">Aleatorio</span>
+            <span class="start-label">Entre</span>
+            <input type="number" id="rand-start" class="inline-num" min="1" value="1" title="Inicio">
+            <span class="start-label">y</span>
+            <input type="number" id="rand-end" class="inline-num" min="1" value="1" title="Fin">
+          </label>
+          <label class="mode-option">
+            <input type="radio" name="session-mode" value="difficulty" id="radio-difficulty">
+            <span class="mode-label">Por dificultad</span>
+            <span class="start-label">Entre</span>
+            <input type="number" id="diff-start" class="inline-num" min="1" value="1" title="Inicio">
+            <span class="start-label">y</span>
+            <input type="number" id="diff-end" class="inline-num" min="1" value="1" title="Fin">
+          </label>
+        </div>
+
+        <label class="session-toggle">
+          <input type="checkbox" id="chk-show-diffs" checked>
+          <span>Resaltar diferencias entre opciones similares</span>
+        </label>
+
+        <button class="btn btn-primary btn-block" id="btn-start-session">Empezar</button>
+        <button class="btn btn-secondary btn-block" id="btn-practice-session">Probar (sin estadísticas)</button>
+      </div>
+    </section>
+
+    <!-- Pantalla: quiz -->
+    <section id="screen-quiz" class="screen hidden">
+      <div class="container">
+        <header class="quiz-header">
+          <button class="btn-icon" id="btn-quit-quiz" title="Volver al menu">&#8592;</button>
+          <span class="quiz-progress" id="quiz-progress">1 / 200</span>
+          <span class="quiz-score" id="quiz-score">&#9989; 0 - &#10060; 0</span>
+        </header>
+        <div class="quiz-label" id="quiz-label">Quiz</div>
+
+        <div class="question-card">
+          <p class="question-text" id="question-text">Cargando...</p>
+          <div class="options-list" id="options-list"></div>
+        </div>
+
+        <div class="feedback hidden" id="feedback">
+          <p class="feedback-text" id="feedback-text"></p>
+        </div>
+
+        <div class="quiz-actions">
+          <button class="btn btn-primary btn-block" id="btn-validate">Validar</button>
+          <button class="btn btn-block hidden btn-cuesta" id="btn-cuesta">Esta me cuesta</button>
+          <button class="btn btn-secondary btn-block hidden" id="btn-next">Siguiente</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Pantalla: resultados de sesion -->
+    <section id="screen-results" class="screen hidden">
+      <div class="container">
+        <h1>Resultados</h1>
+        <div class="result-summary">
+          <div class="result-circle">
+            <span class="result-value" id="result-aciertos">0</span>
+            <span class="result-label">aciertos</span>
+          </div>
+          <div class="result-circle result-wrong">
+            <span class="result-value" id="result-fallos">0</span>
+            <span class="result-label">fallos</span>
+          </div>
+        </div>
+        <p class="result-detail" id="result-detail">0 de 0 preguntas</p>
+        <p class="result-cuesta hidden" id="result-cuesta"></p>
+        <button class="btn btn-primary btn-block" id="btn-back-menu">Volver al menu</button>
+        <div id="result-falladas" class="result-falladas"></div>
+      </div>
+    </section>
+    <!-- Modal: preview de eliminaciones de import -->
+    <div id="import-modal" class="modal hidden">
+      <div class="modal-backdrop"></div>
+      <div class="modal-content">
+        <h3>Subrayados eliminados en el archivo</h3>
+        <p class="modal-desc">Estos subrayados se eliminaron en el dispositivo de origen. ¿Quieres eliminarlos aquí también?</p>
+        <div id="import-conflicts-list" class="import-conflicts-list"></div>
+        <div class="modal-actions">
+          <button class="btn btn-secondary" id="btn-import-cancel">Mantener todo</button>
+          <button class="btn btn-danger" id="btn-import-confirm">Eliminar marcados</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="js/data.js"></script>
+  <script src="js/users.js"></script>
+  <script src="js/state.js"></script>
+  <script src="js/stats.js"></script>
+  <script src="js/quiz.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
