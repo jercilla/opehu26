@@ -6,7 +6,7 @@ const QUIZZES = {
       {
         "num": 1,
         "idpregunta": 1,
-        "pregunta": "LA CONSTITUCIÓN SE FUNDAMENTA:",
+        "pregunta": "1.- LA CONSTITUCIÓN SE FUNDAMENTA:",
         "opciones": {
           "A": "En la unidad de la Nación Española.",
           "B": "En el compromiso de unidad de todos los pueblos y nacionalidades integrantes de la Nación Española.",
@@ -18,7 +18,7 @@ const QUIZZES = {
       {
         "num": 2,
         "idpregunta": 2,
-        "pregunta": "LOS VALORES SUPERIORES DEL ORDENAMIENTO JURÍDICO PROPUGNADOS DESDE LA CONSTITUCIÓN SON:",
+        "pregunta": "2.- LOS VALORES SUPERIORES DEL ORDENAMIENTO JURÍDICO PROPUGNADOS DESDE LA CONSTITUCIÓN SON:",
         "opciones": {
           "A": "La libertad, la justicia, la igualdad y el pluralismo político.",
           "B": "La libertad, la justicia y la libre competencia.",
@@ -30,7 +30,7 @@ const QUIZZES = {
       {
         "num": 3,
         "idpregunta": 3,
-        "pregunta": "LA FORMA POLÍTICA DEL ESTADO ESPAÑOL ES:",
+        "pregunta": "3.- LA FORMA POLÍTICA DEL ESTADO ESPAÑOL ES:",
         "opciones": {
           "A": "El Parlamentarismo Bicameral.",
           "B": "La Monarquía Parlamentaria.",
@@ -42,7 +42,7 @@ const QUIZZES = {
       {
         "num": 4,
         "idpregunta": 4,
-        "pregunta": "LA SOBERANÍA NACIONAL:",
+        "pregunta": "4.- LA SOBERANÍA NACIONAL:",
         "opciones": {
           "A": "Reside en los/as ciudadanos/as mayores de edad.",
           "B": "Reside en el Congreso y en el Senado.",
@@ -54,7 +54,7 @@ const QUIZZES = {
       {
         "num": 5,
         "idpregunta": 5,
-        "pregunta": "SEGÚN LA CONSTITUCIÓN ESPAÑOLA, EL ESTADO ESPAÑOL SE HA CONSTITUIDO:",
+        "pregunta": "5.- SEGÚN LA CONSTITUCIÓN ESPAÑOLA, EL ESTADO ESPAÑOL SE HA CONSTITUIDO:",
         "opciones": {
           "A": "En una Nación socialdemocrática de Derecho.",
           "B": "En una Monarquía democrática de Derecho.",
@@ -66,7 +66,7 @@ const QUIZZES = {
       {
         "num": 6,
         "idpregunta": 6,
-        "pregunta": "LA ENSEÑANZA:",
+        "pregunta": "6.- LA ENSEÑANZA:",
         "opciones": {
           "A": "Básica es obligatoria y gratuita.",
           "B": "Primaria es potestativa.",
@@ -78,7 +78,7 @@ const QUIZZES = {
       {
         "num": 7,
         "idpregunta": 7,
-        "pregunta": "LA EDUCACIÓN TENDRÁ POR OBJETO:",
+        "pregunta": "7.- LA EDUCACIÓN TENDRÁ POR OBJETO:",
         "opciones": {
           "A": "El pleno desarrollo de la personalidad humana conforme a los planes educativos aprobados por el Consejo Escolar Nacional a instancia de las Asociaciones Nacionales de Padres de Alumnos.",
           "B": "El pleno desarrollo de la personalidad humana en el respeto de los principios democráticos de convivencia, y a los derechos y libertades culturales.",
@@ -90,7 +90,7 @@ const QUIZZES = {
       {
         "num": 8,
         "idpregunta": 8,
-        "pregunta": "EL DERECHO DE REUNIÓN RECONOCIDO CONSTITUCIONALMENTE:",
+        "pregunta": "8.- EL DERECHO DE REUNIÓN RECONOCIDO CONSTITUCIONALMENTE:",
         "opciones": {
           "A": "Sólo precisará autorización previa cuando se prevea que la reunión no va a discurrir por cauces pacíficos.",
           "B": "Sólo precisará autorización previa cuando en la reunión a celebrar se vayan a utilizar armas.",
@@ -102,7 +102,7 @@ const QUIZZES = {
       {
         "num": 9,
         "idpregunta": 9,
-        "pregunta": "SEGÚN LA CONSTITUCIÓN, EN TORNO AL MEDIO AMBIENTE:",
+        "pregunta": "9.- SEGÚN LA CONSTITUCIÓN, EN TORNO AL MEDIO AMBIENTE:",
         "opciones": {
           "A": "Se encuentra reconocido como Derecho en el artículo 44 de la Constitución.",
           "B": "La Constitución no impone el deber de conservarlo.",
@@ -114,7 +114,7 @@ const QUIZZES = {
       {
         "num": 10,
         "idpregunta": 10,
-        "pregunta": "DE ACUERDO CON EL ARTÍCULO 44 DE LA CONSTITUCIÓN, LOS PODERES PÚBLICOS:",
+        "pregunta": "10.- DE ACUERDO CON EL ARTÍCULO 44 DE LA CONSTITUCIÓN, LOS PODERES PÚBLICOS:",
         "opciones": {
           "A": "Promoverán la ciencia y la investigación científica y técnica.",
           "B": "Admitirán la federación de Comunidades Autónomas.",
@@ -126,7 +126,7 @@ const QUIZZES = {
       {
         "num": 11,
         "idpregunta": 11,
-        "pregunta": "DE CONFORMIDAD CON EL ARTÍCULO 82 DE LA CONSTITUCIÓN, LOS DECRETOS LEGISLATIVOS SON:",
+        "pregunta": "11.- DE CONFORMIDAD CON EL ARTÍCULO 82 DE LA CONSTITUCIÓN, LOS DECRETOS LEGISLATIVOS SON:",
         "opciones": {
           "A": "Normas con fuerza de ley dictadas por el Gobierno.",
           "B": "Disposiciones legislativas provisionales.",
@@ -138,7 +138,7 @@ const QUIZZES = {
       {
         "num": 12,
         "idpregunta": 12,
-        "pregunta": "SEÑALE LA AFIRMACIÓN CORRECTA SEGÚN EL ARTÍCULO 6 DEL ESTATUTO DE AUTONOMÍA DEL PAÍS VASCO:",
+        "pregunta": "12.- SEÑALE LA AFIRMACIÓN CORRECTA SEGÚN EL ARTÍCULO 6 DEL ESTATUTO DE AUTONOMÍA DEL PAÍS VASCO:",
         "opciones": {
           "A": "El euskera es lengua propia del Pueblo Vasco y es oficial junto al castellano.",
           "B": "El euskera y el castellano son lenguas propias del País Vasco y ambas oficiales.",
@@ -150,7 +150,7 @@ const QUIZZES = {
       {
         "num": 13,
         "idpregunta": 13,
-        "pregunta": "SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 1 DEL ESTATUTO DE AUTONOMÍA DEL PAÍS VASCO, ¿CUÁL O CUÁLES SON LAS NORMAS INSTITUCIONALES BÁSICAS DEL PUEBLO VASCO O EUSKAL HERRIA?",
+        "pregunta": "13.- SEGÚN LO ESTABLECIDO EN EL ARTÍCULO 1 DEL ESTATUTO DE AUTONOMÍA DEL PAÍS VASCO, ¿CUÁL O CUÁLES SON LAS NORMAS INSTITUCIONALES BÁSICAS DEL PUEBLO VASCO O EUSKAL HERRIA?",
         "opciones": {
           "A": "La Constitución.",
           "B": "El Estatuto.",
@@ -162,7 +162,7 @@ const QUIZZES = {
       {
         "num": 14,
         "idpregunta": 14,
-        "pregunta": "DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO 9 DEL ESTATUTO DE AUTONOMÍA DEL PAÍS VASCO, ¿QUIÉN VELARÁ Y GARANTIZARÁ EL ADECUADO EJERCICIO DE LOS DERECHOS Y DEBERES FUNDAMENTALES DE LOS/AS CIUDADANOS/AS DEL PAÍS VASCO?",
+        "pregunta": "14.- DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO 9 DEL ESTATUTO DE AUTONOMÍA DEL PAÍS VASCO, ¿QUIÉN VELARÁ Y GARANTIZARÁ EL ADECUADO EJERCICIO DE LOS DERECHOS Y DEBERES FUNDAMENTALES DE LOS/AS CIUDADANOS/AS DEL PAÍS VASCO?",
         "opciones": {
           "A": "El Lehendakari.",
           "B": "Los poderes públicos vascos.",
@@ -174,7 +174,7 @@ const QUIZZES = {
       {
         "num": 15,
         "idpregunta": 15,
-        "pregunta": "DE ACUERDO CON EL ESTATUTO DE AUTONOMÍA DEL PAÍS VASCO, CORRESPONDE A LA COMUNIDAD AUTÓNOMA LA EJECUCIÓN DE LA LEGISLACIÓN DEL ESTADO EN:",
+        "pregunta": "15.- DE ACUERDO CON EL ESTATUTO DE AUTONOMÍA DEL PAÍS VASCO, CORRESPONDE A LA COMUNIDAD AUTÓNOMA LA EJECUCIÓN DE LA LEGISLACIÓN DEL ESTADO EN:",
         "opciones": {
           "A": "Propiedad intelectual e industrial.",
           "B": "Legislación penitenciaria.",
@@ -186,7 +186,7 @@ const QUIZZES = {
       {
         "num": 16,
         "idpregunta": 16,
-        "pregunta": "SEGÚN EL ESTATUTO DE AUTONOMÍA DEL PAÍS VASCO, LA REAL ACADEMIA DE LA LENGUA VASCA EUSKALTZAINDIA ES:",
+        "pregunta": "16.- SEGÚN EL ESTATUTO DE AUTONOMÍA DEL PAÍS VASCO, LA REAL ACADEMIA DE LA LENGUA VASCA EUSKALTZAINDIA ES:",
         "opciones": {
           "A": "Institución del Gobierno Vasco para servir de archivo oficial del euskera.",
           "B": "Institución consultiva oficial en lo referente al Euskera.",
@@ -198,7 +198,7 @@ const QUIZZES = {
       {
         "num": 17,
         "idpregunta": 17,
-        "pregunta": "SEGÚN EL ESTATUTO DE AUTONOMÍA DEL PAÍS VASCO, LAS COMPETENCIAS DE DESARROLLO LEGISLATIVO Y EJECUCIÓN SON MATERIAS:",
+        "pregunta": "17.- SEGÚN EL ESTATUTO DE AUTONOMÍA DEL PAÍS VASCO, LAS COMPETENCIAS DE DESARROLLO LEGISLATIVO Y EJECUCIÓN SON MATERIAS:",
         "opciones": {
           "A": "En las que al Estado corresponde la fijación de las normas básicas y a la Comunidad Autónoma el desarrollo legislativo.",
           "B": "En las que al Estado corresponde la fijación de las normas básicas y al Territorio Histórico el desarrollo legislativo y ejecución.",
@@ -210,7 +210,7 @@ const QUIZZES = {
       {
         "num": 18,
         "idpregunta": 18,
-        "pregunta": "EN MATERIA DE INVESTIGACIÓN CIENTÍFICA Y TÉCNICA LA COMUNIDAD AUTÓNOMA DEL PAÍS VASCO TIENE COMPETENCIA:",
+        "pregunta": "18.- EN MATERIA DE INVESTIGACIÓN CIENTÍFICA Y TÉCNICA LA COMUNIDAD AUTÓNOMA DEL PAÍS VASCO TIENE COMPETENCIA:",
         "opciones": {
           "A": "Exclusiva en coordinación con el Estado.",
           "B": "Absoluta en coordinación con el Estado.",
@@ -222,7 +222,7 @@ const QUIZZES = {
       {
         "num": 19,
         "idpregunta": 19,
-        "pregunta": "EL TRIBUNAL VASCO DE CUENTAS PÚBLICAS DEPENDE DIRECTAMENTE DE:",
+        "pregunta": "19.- EL TRIBUNAL VASCO DE CUENTAS PÚBLICAS DEPENDE DIRECTAMENTE DE:",
         "opciones": {
           "A": "De las Juntas Generales de los tres Territorios Históricos.",
           "B": "Del Parlamento Vasco.",
@@ -234,7 +234,7 @@ const QUIZZES = {
       {
         "num": 20,
         "idpregunta": 20,
-        "pregunta": "DE ACUERDO CON LA LEY 12/2002, DE 23 DE MAYO, POR LA QUE SE APRUEBA EL CONCIERTO ECONÓMICO CON LA COMUNIDAD AUTÓNOMA DEL PAÍS VASCO, EL IMPUESTO SOBRE SOCIEDADES ES:",
+        "pregunta": "20.- DE ACUERDO CON LA LEY 12/2002, DE 23 DE MAYO, POR LA QUE SE APRUEBA EL CONCIERTO ECONÓMICO CON LA COMUNIDAD AUTÓNOMA DEL PAÍS VASCO, EL IMPUESTO SOBRE SOCIEDADES ES:",
         "opciones": {
           "A": "Un tributo concertado de normativa autónoma para los sujetos pasivos que tengan su domicilio fiscal en el País Vasco.",
           "B": "Una competencia exclusiva del Estado.",
@@ -246,7 +246,7 @@ const QUIZZES = {
       {
         "num": 21,
         "idpregunta": 21,
-        "pregunta": "SEÑALE LA RESPUESTA INCORRECTA. EL REGLAMENTO EUROPEO:",
+        "pregunta": "21.- SEÑALE LA RESPUESTA INCORRECTA. EL REGLAMENTO EUROPEO:",
         "opciones": {
           "A": "es obligatorio en todos sus elementos.",
           "B": "es directamente aplicable en cada Estado Miembro.",
@@ -258,7 +258,7 @@ const QUIZZES = {
       {
         "num": 22,
         "idpregunta": 22,
-        "pregunta": "EL CONSEJO EUROPEO:",
+        "pregunta": "22.- EL CONSEJO EUROPEO:",
         "opciones": {
           "A": "Ejercerá juntamente con el Parlamento Europeo la función legislativa y la función presupuestaria.",
           "B": "Dará a la Unión los impulsos necesarios para su desarrollo y definirá sus orientaciones y prioridades políticas generales.",
@@ -270,7 +270,7 @@ const QUIZZES = {
       {
         "num": 23,
         "idpregunta": 23,
-        "pregunta": "SEÑALE LA RESPUESTA CORRECTA:",
+        "pregunta": "23.- SEÑALE LA RESPUESTA CORRECTA:",
         "opciones": {
           "A": "El Consejo Europeo no tiene competencia legislativa.",
           "B": "El Consejo Europeo estará compuesto por los Ministros de Asuntos Exteriores de los Estados miembros.",
@@ -282,7 +282,7 @@ const QUIZZES = {
       {
         "num": 24,
         "idpregunta": 24,
-        "pregunta": "EN RELACIÓN CON LAS INSTITUCIONES EUROPEAS, SEÑALE LA RESPUESTA INCORRECTA:",
+        "pregunta": "24.- EN RELACIÓN CON LAS INSTITUCIONES EUROPEAS, SEÑALE LA RESPUESTA INCORRECTA:",
         "opciones": {
           "A": "Cuando el orden del día lo exija, los miembros del Consejo Europeo podrán decidir contar, cada uno de ellos, con la asistencia de un ministro.",
           "B": "Cuando la situación lo exija, el Presidente convocará una reunión extraordinaria del Consejo Europeo.",
@@ -294,7 +294,7 @@ const QUIZZES = {
       {
         "num": 25,
         "idpregunta": 25,
-        "pregunta": "PARA EJERCER LAS COMPETENCIAS DE LA UNIÓN, LAS INSTITUCIONES DE LA UNIÓN EUROPEA ADOPTARÁN:",
+        "pregunta": "25.- PARA EJERCER LAS COMPETENCIAS DE LA UNIÓN, LAS INSTITUCIONES DE LA UNIÓN EUROPEA ADOPTARÁN:",
         "opciones": {
           "A": "Decretos.",
           "B": "Dictámenes, que serán vinculantes.",
@@ -306,7 +306,7 @@ const QUIZZES = {
       {
         "num": 26,
         "idpregunta": 26,
-        "pregunta": "EL REGLAMENTO COMUNITARIO:",
+        "pregunta": "26.- EL REGLAMENTO COMUNITARIO:",
         "opciones": {
           "A": "Se integra en el Derecho Interno de cada miembro comunitario, sin que se requiera ningún otro trámite.",
           "B": "No son de aplicación directa, por lo que obliga a los Estados miembros a aprobar una serie de medidas para incorporarlo a su Derecho Nacional.",
@@ -318,7 +318,7 @@ const QUIZZES = {
       {
         "num": 27,
         "idpregunta": 27,
-        "pregunta": "SEÑALE LA AFIRMACIÓN CORRECTA EN RELACIÓN CON EL TRIBUNAL DE JUSTICIA DE LA UNIÓN EUROPEA.",
+        "pregunta": "27.- SEÑALE LA AFIRMACIÓN CORRECTA EN RELACIÓN CON EL TRIBUNAL DE JUSTICIA DE LA UNIÓN EUROPEA.",
         "opciones": {
           "A": "El Tribunal de Justicia de la Unión Europea comprenderá el Tribunal de Justicia, el Tribunal General y los tribunales especializados.",
           "B": "El Tribunal General estará asistido por abogados generales.",
@@ -330,7 +330,7 @@ const QUIZZES = {
       {
         "num": 28,
         "idpregunta": 28,
-        "pregunta": "EL TRIBUNAL DE JUSTICIA DE LA UNIÓN EUROPEA SE PRONUNCIARÁ, DE CONFORMIDAD CON LOS TRATADOS SOBRE LOS RECURSOS INTERPUESTOS POR:",
+        "pregunta": "28.- EL TRIBUNAL DE JUSTICIA DE LA UNIÓN EUROPEA SE PRONUNCIARÁ, DE CONFORMIDAD CON LOS TRATADOS SOBRE LOS RECURSOS INTERPUESTOS POR:",
         "opciones": {
           "A": "Un Estado miembro.",
           "B": "Una institución.",
@@ -342,7 +342,7 @@ const QUIZZES = {
       {
         "num": 29,
         "idpregunta": 29,
-        "pregunta": "LA APROBACIÓN DE UNA LEY ORGÁNICA EXIGE:",
+        "pregunta": "29.- LA APROBACIÓN DE UNA LEY ORGÁNICA EXIGE:",
         "opciones": {
           "A": "La mayoría simple del Congreso y del Senado reunidos en sesión conjunta.",
           "B": "La mayoría de 2/3 del Congreso y la mayoría absoluta del Senado sobre el conjunto del proyecto.",
@@ -354,7 +354,7 @@ const QUIZZES = {
       {
         "num": 30,
         "idpregunta": 30,
-        "pregunta": "LOS DECRETOS-LEYES:",
+        "pregunta": "30.- LOS DECRETOS-LEYES:",
         "opciones": {
           "A": "Son Disposiciones Legislativas provisionales emanadas por el Gobierno y dictadas en casos de extraordinaria y urgente necesidad.",
           "B": "Son Disposiciones Legislativas definitivas emanadas por el Gobierno y dictadas en casos de extraordinaria y urgente necesidad.",
@@ -366,7 +366,7 @@ const QUIZZES = {
       {
         "num": 31,
         "idpregunta": 31,
-        "pregunta": "¿QUÉ TIPOS DE INTEROPERABILIDAD SE DISTINGUEN EN EL ESQUEMA NACIONAL DE INTEROPERABILIDAD (ENI)?:",
+        "pregunta": "31.- ¿QUÉ TIPOS DE INTEROPERABILIDAD SE DISTINGUEN EN EL ESQUEMA NACIONAL DE INTEROPERABILIDAD (ENI)?:",
         "opciones": {
           "A": "Organizativa.",
           "B": "Léxica.",
@@ -378,7 +378,7 @@ const QUIZZES = {
       {
         "num": 32,
         "idpregunta": 32,
-        "pregunta": "EN VIRTUD DEL PRINCIPIO DE RESERVA DE LEY:",
+        "pregunta": "32.- EN VIRTUD DEL PRINCIPIO DE RESERVA DE LEY:",
         "opciones": {
           "A": "Un reglamento no puede regular determinadas materias para las cuales la Constitución exige una norma con rango de ley.",
           "B": "Un reglamento no puede regular materias que, aunque la Constitución no exija para su regulación rango de ley, ya hayan sido reguladas por una norma de este rango.",
@@ -390,7 +390,7 @@ const QUIZZES = {
       {
         "num": 33,
         "idpregunta": 33,
-        "pregunta": "CONFORME A LA LEY 33/2003, DE 3 DE NOVIEMBRE, DEL PATRIMONIO DE LAS ADMINISTRACIONES PÚBLICAS, SEÑALE LA RESPUESTA INCORRECTA. LA GESTIÓN Y ADMINISTRACIÓN DE LOS BIENES Y DERECHOS DEMANIALES POR LAS ADMINISTRACIONES PÚBLICAS SE AJUSTARÁN A LOS SIGUIENTES PRINCIPIOS:",
+        "pregunta": "33.- CONFORME A LA LEY 33/2003, DE 3 DE NOVIEMBRE, DEL PATRIMONIO DE LAS ADMINISTRACIONES PÚBLICAS, SEÑALE LA RESPUESTA INCORRECTA. LA GESTIÓN Y ADMINISTRACIÓN DE LOS BIENES Y DERECHOS DEMANIALES POR LAS ADMINISTRACIONES PÚBLICAS SE AJUSTARÁN A LOS SIGUIENTES PRINCIPIOS:",
         "opciones": {
           "A": "Inalienabilidad.",
           "B": "Inembargabilidad.",
@@ -402,7 +402,7 @@ const QUIZZES = {
       {
         "num": 34,
         "idpregunta": 34,
-        "pregunta": "SEGÚN LO ESTABLECIDO EN LA LEY 11/2022, DE 1 DE DCIEMBRE DE EMPLEO PÚBLICO VASCO, LAS PERSONAS EMPLEADAS PÚBLICAS SON RESPONSABLES DE LA BUENA GESTIÓN DE LOS SERVICIOS ENCOMENDADOS:",
+        "pregunta": "34.- SEGÚN LO ESTABLECIDO EN LA LEY 11/2022, DE 1 DE DCIEMBRE DE EMPLEO PÚBLICO VASCO, LAS PERSONAS EMPLEADAS PÚBLICAS SON RESPONSABLES DE LA BUENA GESTIÓN DE LOS SERVICIOS ENCOMENDADOS:",
         "opciones": {
           "A": "Sin perjuicio de la responsabilidad que corresponde a sus superiores jerárquicos.",
           "B": "En todo momento deberán dar cuenta de las anomalías que hubieran observado en el servicio.",
@@ -414,7 +414,7 @@ const QUIZZES = {
       {
         "num": 35,
         "idpregunta": 35,
-        "pregunta": "CONFORME A LA LEY 33/2003, DE 3 DE NOVIEMBRE, DEL PATRIMONIO DE LAS ADMINISTRACIONES PÚBLICAS, SEÑALE LA RESPUESTA INCORRECTA. LA GESTIÓN Y ADMINISTRACIÓN DE LOS BIENES Y DERECHOS PATRIMONIALES POR LAS ADMINISTRACIONES PÚBLICAS SE AJUSTARÁN A LOS SIGUIENTES PRINCIPIOS:",
+        "pregunta": "35.- CONFORME A LA LEY 33/2003, DE 3 DE NOVIEMBRE, DEL PATRIMONIO DE LAS ADMINISTRACIONES PÚBLICAS, SEÑALE LA RESPUESTA INCORRECTA. LA GESTIÓN Y ADMINISTRACIÓN DE LOS BIENES Y DERECHOS PATRIMONIALES POR LAS ADMINISTRACIONES PÚBLICAS SE AJUSTARÁN A LOS SIGUIENTES PRINCIPIOS:",
         "opciones": {
           "A": "Eficiencia y economía en su gestión.",
           "B": "Eficacia y rentabilidad en la explotación de estos bienes y derechos.",
@@ -426,7 +426,7 @@ const QUIZZES = {
       {
         "num": 36,
         "idpregunta": 36,
-        "pregunta": "SE CONSIDERA PATRIMONIO DE LA EHU:",
+        "pregunta": "36.- SE CONSIDERA PATRIMONIO DE LA EHU:",
         "opciones": {
           "A": "El conjunto de bienes cuya propiedad ostente la EHU.",
           "B": "El conjunto de bienes y derechos cuya propiedad ostente la EHU.",
@@ -438,7 +438,7 @@ const QUIZZES = {
       {
         "num": 37,
         "idpregunta": 37,
-        "pregunta": "ADEMÁS DEL PATRIMONIO YA CONSTITUIDO PODRÁN INCORPORARSE:",
+        "pregunta": "37.- ADEMÁS DEL PATRIMONIO YA CONSTITUIDO PODRÁN INCORPORARSE:",
         "opciones": {
           "A": "Las donaciones que se reciban según el procedimiento establecido por la EHU y el material inventariable que se adquiera.",
           "B": "El material inventariable que se adquiera y el bibliográfico.",
@@ -450,7 +450,7 @@ const QUIZZES = {
       {
         "num": 38,
         "idpregunta": 38,
-        "pregunta": "LA CONSERVACIÓN Y CORRECTA UTILIZACIÓN DEL PATRIMONIO DE LA EHU INCUMBE A:",
+        "pregunta": "38.- LA CONSERVACIÓN Y CORRECTA UTILIZACIÓN DEL PATRIMONIO DE LA EHU INCUMBE A:",
         "opciones": {
           "A": "A toda la comunidad universitaria.",
           "B": "Al Servicio de Patrimonio y Contratación.",
@@ -462,7 +462,7 @@ const QUIZZES = {
       {
         "num": 39,
         "idpregunta": 39,
-        "pregunta": "SEGÚN LA LEY 33/2003, DE 3 DE NOVIEMBRE, DEL PATRIMONIO DE LAS ADMINISTRACIONES PÚBLICAS, EL USO PRIVATIVO DE LOS BIENES DE DOMINIO PÚBLICO:",
+        "pregunta": "39.- SEGÚN LA LEY 33/2003, DE 3 DE NOVIEMBRE, DEL PATRIMONIO DE LAS ADMINISTRACIONES PÚBLICAS, EL USO PRIVATIVO DE LOS BIENES DE DOMINIO PÚBLICO:",
         "opciones": {
           "A": "determina la ocupación de una porción del dominio público, de modo que se limita o excluye la utilización del mismo por otros interesados.",
           "B": "puede determinar la ocupación con obras o instalaciones fijas sin concesión administrativa.",
@@ -474,7 +474,7 @@ const QUIZZES = {
       {
         "num": 40,
         "idpregunta": 40,
-        "pregunta": "SEGÚN LA LEY 33/2003, DE 3 DE NOVIEMBRE, DEL PATRIMONIO DE LAS ADMINISTRACIONES PÚBLICAS, EL APROVECHAMIENTO ESPECIAL DE LOS BIENES DE DOMINIO PÚBLICO, ASÍ COMO SU USO PRIVATIVO CUANDO LA OCUPACIÓN SE EFECTÚE ÚNICAMENTE CON INSTALACIONES DESMONTABLES:",
+        "pregunta": "40.- SEGÚN LA LEY 33/2003, DE 3 DE NOVIEMBRE, DEL PATRIMONIO DE LAS ADMINISTRACIONES PÚBLICAS, EL APROVECHAMIENTO ESPECIAL DE LOS BIENES DE DOMINIO PÚBLICO, ASÍ COMO SU USO PRIVATIVO CUANDO LA OCUPACIÓN SE EFECTÚE ÚNICAMENTE CON INSTALACIONES DESMONTABLES:",
         "opciones": {
           "A": "Es un aprovechamiento especial sujeto a concesión si la duración del aprovechamiento o uso excede de un año.",
           "B": "Estarán sujetos a autorización o, si la duración del aprovechamiento o uso excede de cuatro años, a concesión.",
@@ -486,7 +486,7 @@ const QUIZZES = {
       {
         "num": 41,
         "idpregunta": 41,
-        "pregunta": "LOS PRECIOS PÚBLICOS DE LAS ENSEÑANZAS UNIVERSITARIAS OFICIALES LOS FIJARÁ:",
+        "pregunta": "41.- LOS PRECIOS PÚBLICOS DE LAS ENSEÑANZAS UNIVERSITARIAS OFICIALES LOS FIJARÁ:",
         "opciones": {
           "A": "El Consejo de Gobierno de la universidad para las titulaciones que imparta.",
           "B": "El Ministerio de Educación y Formación Profesional.",
@@ -498,7 +498,7 @@ const QUIZZES = {
       {
         "num": 42,
         "idpregunta": 42,
-        "pregunta": "LA LOSU RECONOCE A LA UNIVERSIDAD COMO AGENTE CLAVE EN:",
+        "pregunta": "42.- LA LOSU RECONOCE A LA UNIVERSIDAD COMO AGENTE CLAVE EN:",
         "opciones": {
           "A": "La regulación del mercado laboral.",
           "B": "La gestión sanitaria.",
@@ -510,7 +510,7 @@ const QUIZZES = {
       {
         "num": 43,
         "idpregunta": 43,
-        "pregunta": "¿QUÉ BUSCA LA LOSU AL FOMENTAR LA COOPERACIÓN ENTRE UNIVERSIDADES?",
+        "pregunta": "43.- ¿QUÉ BUSCA LA LOSU AL FOMENTAR LA COOPERACIÓN ENTRE UNIVERSIDADES?",
         "opciones": {
           "A": "Competencia por recursos.",
           "B": "Reducción de la oferta académica.",
@@ -522,7 +522,7 @@ const QUIZZES = {
       {
         "num": 44,
         "idpregunta": 44,
-        "pregunta": "¿QUÉ PRINCIPIO RIGE LA FINANCIACIÓN UNIVERSITARIA SEGÚN LOSU?",
+        "pregunta": "44.- ¿QUÉ PRINCIPIO RIGE LA FINANCIACIÓN UNIVERSITARIA SEGÚN LOSU?",
         "opciones": {
           "A": "Competencia directa entre universidades.",
           "B": "Financiación exclusivamente por matrícula.",
@@ -534,7 +534,7 @@ const QUIZZES = {
       {
         "num": 45,
         "idpregunta": 45,
-        "pregunta": "SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, DEL PROCEDIMIENTO ADMINISTRATIVO COMÚN DE LAS ADMINISTRACIONES PÚBLICAS, EL EJERCICIO DE LA POTESTAD REGLAMENTARIA CORRESPONDE:",
+        "pregunta": "45.- SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, DEL PROCEDIMIENTO ADMINISTRATIVO COMÚN DE LAS ADMINISTRACIONES PÚBLICAS, EL EJERCICIO DE LA POTESTAD REGLAMENTARIA CORRESPONDE:",
         "opciones": {
           "A": "Al Gobierno de la Nación, a los órganos de Gobierno de las Comunidades Autónomas y a los órganos de gobierno locales.",
           "B": "Al Gobierno de la Nación y a los órganos de Gobierno de las Comunidades Autónomas, pero no a los órganos de gobiernos locales.",
@@ -546,7 +546,7 @@ const QUIZZES = {
       {
         "num": 46,
         "idpregunta": 46,
-        "pregunta": "RESPETO A LA POTESTAD REGLAMENTARIA, SEÑALE LA RESPUESTA INCORRECTA:",
+        "pregunta": "46.- RESPETO A LA POTESTAD REGLAMENTARIA, SEÑALE LA RESPUESTA INCORRECTA:",
         "opciones": {
           "A": "Los reglamentos y disposiciones administrativas no podrán tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones.",
           "B": "Los reglamentos y disposiciones administrativas no podrán establecer tributos, exacciones parafiscales u otras cargas o prestaciones personales o patrimoniales de carácter público.",
@@ -558,7 +558,7 @@ const QUIZZES = {
       {
         "num": 47,
         "idpregunta": 47,
-        "pregunta": "SEÑALE CUÁL DE ESTAS AFIRMACIONES ES CORRECTA:",
+        "pregunta": "47.- SEÑALE CUÁL DE ESTAS AFIRMACIONES ES CORRECTA:",
         "opciones": {
           "A": "La encomienda de gestión, la delegación de firma y la suplencia no suponen alteración de la titularidad de la competencia.",
           "B": "Cuando se produzca una delegación de competencias a favor de un órgano no jerárquicamente dependiente del delegante, tanto el órgano delegante como los superiores jerárquicos del delegado podrán avocar para sí el conocimiento del asunto.",
@@ -570,7 +570,7 @@ const QUIZZES = {
       {
         "num": 48,
         "idpregunta": 48,
-        "pregunta": "SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, DEL PROCEDIMIENTO ADMINISTRATIVO COMÚN, ¿CUÁL DE LOS SIGUIENTES NO TIENE LA CONSIDERACIÓN DE PERSONA INTERESADA EN EL PROCEDIMIENTO ADMINISTRATIVO?",
+        "pregunta": "48.- SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, DEL PROCEDIMIENTO ADMINISTRATIVO COMÚN, ¿CUÁL DE LOS SIGUIENTES NO TIENE LA CONSIDERACIÓN DE PERSONA INTERESADA EN EL PROCEDIMIENTO ADMINISTRATIVO?",
         "opciones": {
           "A": "Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos.",
           "B": "Aquellos/as cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.",
@@ -582,7 +582,7 @@ const QUIZZES = {
       {
         "num": 49,
         "idpregunta": 49,
-        "pregunta": "SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, CON RESPECTO A LA ORDENACIÓN DEL PROCEDIMIENTO, CUANDO EN VIRTUD DE UNA NORMA SEA PRECISO REMITIR EL EXPEDIENTE ELECTRÓNICO:",
+        "pregunta": "49.- SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, CON RESPECTO A LA ORDENACIÓN DEL PROCEDIMIENTO, CUANDO EN VIRTUD DE UNA NORMA SEA PRECISO REMITIR EL EXPEDIENTE ELECTRÓNICO:",
         "opciones": {
           "A": "Se hará de acuerdo con las características y medios disponibles del empleado/a público/a que lo tramite.",
           "B": "No es necesario en su tramitación que vaya acompañado del índice.",
@@ -594,7 +594,7 @@ const QUIZZES = {
       {
         "num": 50,
         "idpregunta": 50,
-        "pregunta": "LAS NUEVAS OBLIGACIONES INTRODUCIDAS POR LA LEY 39/2015, DE 1 DE OCTUBRE, DEL PROCEDIMIENTO ADMINISTRATIVO COMÚN DE LAS ADMINISTRACIONES PÚBLICAS Y POR LA LEY 40/2015, DE 1 DE OCTUBRE, DE RÉGIMEN JURÍDICO DEL SECTOR PÚBLICO SE PUEDEN RESUMIR EN:",
+        "pregunta": "50.- LAS NUEVAS OBLIGACIONES INTRODUCIDAS POR LA LEY 39/2015, DE 1 DE OCTUBRE, DEL PROCEDIMIENTO ADMINISTRATIVO COMÚN DE LAS ADMINISTRACIONES PÚBLICAS Y POR LA LEY 40/2015, DE 1 DE OCTUBRE, DE RÉGIMEN JURÍDICO DEL SECTOR PÚBLICO SE PUEDEN RESUMIR EN:",
         "opciones": {
           "A": "Garantizar la seguridad en la tramitación electrónica.",
           "B": "Tramitar electrónicamente los expedientes.",
@@ -606,7 +606,7 @@ const QUIZZES = {
       {
         "num": 51,
         "idpregunta": 51,
-        "pregunta": "EL DERECHO Y OBLIGACIÓN DE RELACIONARSE ELECTRÓNICAMENTE CON LA ADMINISTRACIÓN, VIENE RECOGIDO EN EL:",
+        "pregunta": "51.- EL DERECHO Y OBLIGACIÓN DE RELACIONARSE ELECTRÓNICAMENTE CON LA ADMINISTRACIÓN, VIENE RECOGIDO EN EL:",
         "opciones": {
           "A": "Art. 14 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y por la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
           "B": "Art. 14 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
@@ -624,7 +624,7 @@ const QUIZZES = {
       {
         "num": 52,
         "idpregunta": 52,
-        "pregunta": "SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, PONDRÁN FIN AL PROCEDIMIENTO ADMINISTRATIVO:",
+        "pregunta": "52.- SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, PONDRÁN FIN AL PROCEDIMIENTO ADMINISTRATIVO:",
         "opciones": {
           "A": "La resolución y el desistimiento.",
           "B": "La imposibilidad material de continuarlo por causas sobrevenidas. La resolución que se dicte deberá ser motivada en todo caso.",
@@ -636,7 +636,7 @@ const QUIZZES = {
       {
         "num": 53,
         "idpregunta": 53,
-        "pregunta": "SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, ¿DÓNDE DEBEN LAS ADMINISTRACIONES PÚBLICAS PUBLICAR Y MANTENER ACTUALIZADAS A EFECTOS INFORMATIVOS LAS RELACIONES DE PROCEDIMIENTOS DE SU COMPETENCIA CON INDICACIÓN DE LOS PLAZOS MÁXIMOS DE DURACIÓN DE LOS MISMOS, ASÍ COMO DE LOS EFECTOS QUE PRODUZCA EL SILENCIO ADMINISTRATIVO?",
+        "pregunta": "53.- SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, ¿DÓNDE DEBEN LAS ADMINISTRACIONES PÚBLICAS PUBLICAR Y MANTENER ACTUALIZADAS A EFECTOS INFORMATIVOS LAS RELACIONES DE PROCEDIMIENTOS DE SU COMPETENCIA CON INDICACIÓN DE LOS PLAZOS MÁXIMOS DE DURACIÓN DE LOS MISMOS, ASÍ COMO DE LOS EFECTOS QUE PRODUZCA EL SILENCIO ADMINISTRATIVO?",
         "opciones": {
           "A": "En sus portales web.",
           "B": "En el Boletín Oficial del Estado.",
@@ -648,7 +648,7 @@ const QUIZZES = {
       {
         "num": 54,
         "idpregunta": 54,
-        "pregunta": "SEGÚN EL ARTÍCULO 23 DE LA LEY 40/2015, DE 1 DE OCTUBRE, DE RÉGIMEN JURÍDICO DEL SECTOR PÚBLICO, SON MOTIVOS DE ABSTENCIÓN:",
+        "pregunta": "54.- SEGÚN EL ARTÍCULO 23 DE LA LEY 40/2015, DE 1 DE OCTUBRE, DE RÉGIMEN JURÍDICO DEL SECTOR PÚBLICO, SON MOTIVOS DE ABSTENCIÓN:",
         "opciones": {
           "A": "Tener interés personal en el asunto de que se trate o en otro en cuya resolución pudiera influir la de aquél.",
           "B": "Ser administrador de sociedad o entidad interesada.",
@@ -660,7 +660,7 @@ const QUIZZES = {
       {
         "num": 55,
         "idpregunta": 55,
-        "pregunta": "SEGÚN LA LEY 40/2015, DE 1 DE OCTUBRE, DE RÉGIMEN JURÍDICO DEL SECTOR PÚBLICO, CUÁL DE LOS SIGUIENTES REQUISITOS EXIGIRÁ LA CREACIÓN DE CUALQUIER ÓRGANO ADMINISTRATIVO:",
+        "pregunta": "55.- SEGÚN LA LEY 40/2015, DE 1 DE OCTUBRE, DE RÉGIMEN JURÍDICO DEL SECTOR PÚBLICO, CUÁL DE LOS SIGUIENTES REQUISITOS EXIGIRÁ LA CREACIÓN DE CUALQUIER ÓRGANO ADMINISTRATIVO:",
         "opciones": {
           "A": "Determinación de su forma de integración en la Administración Pública de que se trate y su dependencia jerárquica.",
           "B": "Delimitación de sus funciones y competencias.",
@@ -672,7 +672,7 @@ const QUIZZES = {
       {
         "num": 56,
         "idpregunta": 56,
-        "pregunta": "DE ACUERDO CON EL ARTÍCULO 9 DE LA LEY 40/2015, DE 1 DE OCTUBRE, DE RÉGIMEN JURÍDICO DEL SECTOR PÚBLICO, LOS ÓRGANOS DE LA ADMINISTRACIÓN GENERAL DEL ESTADO PODRÁN DELEGAR EL EJERCICIO DE SUS COMPETENCIAS PROPIAS EN SUS ORGANISMOS PÚBLICOS Y ENTIDADES VINCULADOS O DEPENDIENTES:",
+        "pregunta": "56.- DE ACUERDO CON EL ARTÍCULO 9 DE LA LEY 40/2015, DE 1 DE OCTUBRE, DE RÉGIMEN JURÍDICO DEL SECTOR PÚBLICO, LOS ÓRGANOS DE LA ADMINISTRACIÓN GENERAL DEL ESTADO PODRÁN DELEGAR EL EJERCICIO DE SUS COMPETENCIAS PROPIAS EN SUS ORGANISMOS PÚBLICOS Y ENTIDADES VINCULADOS O DEPENDIENTES:",
         "opciones": {
           "A": "Cuando resulte conveniente para alcanzar los fines que tengan asignados y mejorar la eficacia de su gestión.",
           "B": "Para mejorar la eficacia de gestión de su personal.",
@@ -684,7 +684,7 @@ const QUIZZES = {
       {
         "num": 57,
         "idpregunta": 57,
-        "pregunta": "DE ACUERDO CON LO ESTABLECIDO EN EL ARTÍCULO 103 DE LA LEY 40/2015 DE RÉGIMEN JURÍDICO DEL SECTOR PÚBLICO, LAS ENTIDADES PÚBLICAS EMPRESARIALES DE ÁMBITO ESTATAL SON ENTIDADES:",
+        "pregunta": "57.- DE ACUERDO CON LO ESTABLECIDO EN EL ARTÍCULO 103 DE LA LEY 40/2015 DE RÉGIMEN JURÍDICO DEL SECTOR PÚBLICO, LAS ENTIDADES PÚBLICAS EMPRESARIALES DE ÁMBITO ESTATAL SON ENTIDADES:",
         "opciones": {
           "A": "Que no tienen personalidad jurídica propia.",
           "B": "De Derecho público.",
@@ -696,7 +696,7 @@ const QUIZZES = {
       {
         "num": 58,
         "idpregunta": 58,
-        "pregunta": "DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO 35 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, NO NECESITAN NECESARIAMENTE SER MOTIVADOS:",
+        "pregunta": "58.- DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO 35 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, NO NECESITAN NECESARIAMENTE SER MOTIVADOS:",
         "opciones": {
           "A": "Los acuerdos de suspensión de actos.",
           "B": "Los actos sancionadores.",
@@ -708,7 +708,7 @@ const QUIZZES = {
       {
         "num": 59,
         "idpregunta": 59,
-        "pregunta": "LA JUBILACIÓN DEL PERSONAL FUNCIONARIO NO PODRÁ SER:",
+        "pregunta": "59.- LA JUBILACIÓN DEL PERSONAL FUNCIONARIO NO PODRÁ SER:",
         "opciones": {
           "A": "Voluntaria.",
           "B": "Parcial con contrato de relevo.",
@@ -720,7 +720,7 @@ const QUIZZES = {
       {
         "num": 60,
         "idpregunta": 60,
-        "pregunta": "SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, ¿EN QUÉ MOMENTO DEL PROCEDIMIENTO PUEDEN ELEGIR LAS PERSONAS FÍSICAS SI SE COMUNICAN CON LAS ADMINISTRACIONES PÚBLICAS PARA EL EJERCICIO DE SUS DERECHOS Y OBLIGACIONES A TRAVÉS DE MEDIOS ELECTRÓNICOS?",
+        "pregunta": "60.- SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, ¿EN QUÉ MOMENTO DEL PROCEDIMIENTO PUEDEN ELEGIR LAS PERSONAS FÍSICAS SI SE COMUNICAN CON LAS ADMINISTRACIONES PÚBLICAS PARA EL EJERCICIO DE SUS DERECHOS Y OBLIGACIONES A TRAVÉS DE MEDIOS ELECTRÓNICOS?",
         "opciones": {
           "A": "Mientras el procedimiento se encuentre en la fase de ordenación.",
           "B": "Antes de la finalización de la instrucción",
@@ -732,7 +732,7 @@ const QUIZZES = {
       {
         "num": 61,
         "idpregunta": 61,
-        "pregunta": "EL MANTENIMIENTO DEL REGISTRO GENERAL DE LA EHU ES FUNCIÓN DE",
+        "pregunta": "61.- EL MANTENIMIENTO DEL REGISTRO GENERAL DE LA EHU ES FUNCIÓN DE",
         "opciones": {
           "A": "La Secretaria o Secretario General.",
           "B": "La Rectora o Rector.",
@@ -744,7 +744,7 @@ const QUIZZES = {
       {
         "num": 62,
         "idpregunta": 62,
-        "pregunta": "LA TRAMITACIÓN SIMPLIFICADA DEL PROCEDIMIENTO PODRÁ SER ACORDADA POR LAS ADMINISTRACIONES PÚBLICAS",
+        "pregunta": "62.- LA TRAMITACIÓN SIMPLIFICADA DEL PROCEDIMIENTO PODRÁ SER ACORDADA POR LAS ADMINISTRACIONES PÚBLICAS",
         "opciones": {
           "A": "De oficio, cuando la falta de complejidad del procedimiento así lo aconsejen.",
           "B": "De oficio, cuando razones de interés público así lo aconsejen.",
@@ -756,7 +756,7 @@ const QUIZZES = {
       {
         "num": 63,
         "idpregunta": 63,
-        "pregunta": "SEGÚN LO DISPUESTO EN LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, COMO REGLA GENERAL, SEÑALE EN QUÉ LENGUA SE TRAMITARÁN LOS PROCEDIMIENTOS ADMINISTRATIVOS POR PARTE DE LA EHU.",
+        "pregunta": "63.- SEGÚN LO DISPUESTO EN LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, COMO REGLA GENERAL, SEÑALE EN QUÉ LENGUA SE TRAMITARÁN LOS PROCEDIMIENTOS ADMINISTRATIVOS POR PARTE DE LA EHU.",
         "opciones": {
           "A": "En castellano.",
           "B": "En castellano y en las demás lenguas cooficiales.",
@@ -768,7 +768,7 @@ const QUIZZES = {
       {
         "num": 64,
         "idpregunta": 64,
-        "pregunta": "DESDE QUE SE DICTÓ EL ACTO ADMINISTRATIVO, LA DECLARACIÓN DE LESIVIDAD NO PODRÁ ADOPTARSE UNA VEZ TRANSCURRIDO:",
+        "pregunta": "64.- DESDE QUE SE DICTÓ EL ACTO ADMINISTRATIVO, LA DECLARACIÓN DE LESIVIDAD NO PODRÁ ADOPTARSE UNA VEZ TRANSCURRIDO:",
         "opciones": {
           "A": "3 meses.",
           "B": "1 año.",
@@ -780,7 +780,7 @@ const QUIZZES = {
       {
         "num": 65,
         "idpregunta": 65,
-        "pregunta": "EL RECURSO EXTRAORDINARIO DE REVISIÓN SE INTERPONDRÁ DENTRO DE UN PLAZO DE 4 AÑOS SIGUIENTES A LA FECHA DE LA NOTIFICACIÓN DE LA RESOLUCIÓN IMPUGNADA CUANDO:",
+        "pregunta": "65.- EL RECURSO EXTRAORDINARIO DE REVISIÓN SE INTERPONDRÁ DENTRO DE UN PLAZO DE 4 AÑOS SIGUIENTES A LA FECHA DE LA NOTIFICACIÓN DE LA RESOLUCIÓN IMPUGNADA CUANDO:",
         "opciones": {
           "A": "Al dictarlos se hubiera incurrido en error de hecho, que resulte de los propios documentos incorporados al expediente.",
           "B": "Aparezcan documentos de valor esencial para la resolución del asunto que, aunque sean posteriores, evidencie el error de la resolución recurrida.",
@@ -792,7 +792,7 @@ const QUIZZES = {
       {
         "num": 66,
         "idpregunta": 66,
-        "pregunta": "ANTE LAS ADMINISTRACIONES PÚBLICAS, PODRÁN ACTUAR EN REPRESENTACIÓN DE OTRAS:",
+        "pregunta": "66.- ANTE LAS ADMINISTRACIONES PÚBLICAS, PODRÁN ACTUAR EN REPRESENTACIÓN DE OTRAS:",
         "opciones": {
           "A": "Las personas físicas con o sin capacidad de obrar y las personas jurídicas, aunque no esté previsto en sus Estatutos.",
           "B": "Las personas físicas con capacidad de obrar y las personas jurídicas, siempre que ello esté previsto en sus Estatutos.",
@@ -804,7 +804,7 @@ const QUIZZES = {
       {
         "num": 67,
         "idpregunta": 67,
-        "pregunta": "LA INTERPOSICIÓN DE UN RECURSO DEBERÁ EXPRESAR:",
+        "pregunta": "67.- LA INTERPOSICIÓN DE UN RECURSO DEBERÁ EXPRESAR:",
         "opciones": {
           "A": "El nombre y apellidos del recurrente, así como la identificación personal del mismo, junto con el acto que se recurre y la razón de su impugnación.",
           "B": "Lugar, fecha, firma del recurrente, identificación del medio y, en su caso, del lugar que se señale a efectos de notificaciones, así como el órgano, centro o unidad administrativa al que se dirige y su correspondiente código de identificación.",
@@ -816,7 +816,7 @@ const QUIZZES = {
       {
         "num": 68,
         "idpregunta": 68,
-        "pregunta": "SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, LOS REGISTROS ELECTRÓNICOS DE TODAS Y CADA UNA DE LAS ADMINISTRACIONES DEBEN CUMPLIR UNA CARACTERÍSTICA ESENCIAL:",
+        "pregunta": "68.- SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, LOS REGISTROS ELECTRÓNICOS DE TODAS Y CADA UNA DE LAS ADMINISTRACIONES DEBEN CUMPLIR UNA CARACTERÍSTICA ESENCIAL:",
         "opciones": {
           "A": "Que sean técnicamente intercambiables, de modo que se garantice su compatibilidad informática e interconexión, así como la transmisión telemática de los asientos registrales y de los documentos que se presenten en cualquiera de los registros.",
           "B": "Que deberán ser plenamente interoperables, de modo que se garantice su compatibilidad informática e interconexión, así como la transmisión telemática de los asientos registrales y de los documentos que se presenten en cualquiera de los registros.",
@@ -834,7 +834,7 @@ const QUIZZES = {
       {
         "num": 69,
         "idpregunta": 69,
-        "pregunta": "DE ACUERDO CON LA LEY 39/2015 PAC, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, ¿EN QUÉ PROCEDIMIENTO TIENEN LAS ADMINISTRACIONES PÚBLICAS OBLIGACIÓN DE RESOLVER?",
+        "pregunta": "69.- DE ACUERDO CON LA LEY 39/2015 PAC, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, ¿EN QUÉ PROCEDIMIENTO TIENEN LAS ADMINISTRACIONES PÚBLICAS OBLIGACIÓN DE RESOLVER?",
         "opciones": {
           "A": "Especialmente en todos los procedimientos que se inicien de oficio por denuncia.",
           "B": "Como regla general, en todos los procedimientos que se inicien de oficio.",
@@ -846,7 +846,7 @@ const QUIZZES = {
       {
         "num": 70,
         "idpregunta": 70,
-        "pregunta": "SEGÚN EL ARTÍCULO 40 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, ¿CUÁL ES EL PLAZO DE NOTIFICACIÓN DE LOS ACTOS ADMINISTRATIVOS DESDE QUE SON DICTADOS?",
+        "pregunta": "70.- SEGÚN EL ARTÍCULO 40 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, ¿CUÁL ES EL PLAZO DE NOTIFICACIÓN DE LOS ACTOS ADMINISTRATIVOS DESDE QUE SON DICTADOS?",
         "opciones": {
           "A": "7 días.",
           "B": "10 días.",
@@ -858,7 +858,7 @@ const QUIZZES = {
       {
         "num": 71,
         "idpregunta": 71,
-        "pregunta": "SEGÚN EL ARTÍCULO 41 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, LAS NOTIFICACIONES SE PRACTICARÁN PREFERENTEMENTE:",
+        "pregunta": "71.- SEGÚN EL ARTÍCULO 41 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, LAS NOTIFICACIONES SE PRACTICARÁN PREFERENTEMENTE:",
         "opciones": {
           "A": "Por la vía postal.",
           "B": "Por la vía telefónica.",
@@ -870,7 +870,7 @@ const QUIZZES = {
       {
         "num": 72,
         "idpregunta": 72,
-        "pregunta": "SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, LAS RESOLUCIONES ADMINISTRATIVAS QUE VULNEREN LO ESTABLECIDO EN UNA DISPOSICIÓN REGLAMENTARIA SON:",
+        "pregunta": "72.- SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, LAS RESOLUCIONES ADMINISTRATIVAS QUE VULNEREN LO ESTABLECIDO EN UNA DISPOSICIÓN REGLAMENTARIA SON:",
         "opciones": {
           "A": "Válidas.",
           "B": "Nulas.",
@@ -882,7 +882,7 @@ const QUIZZES = {
       {
         "num": 73,
         "idpregunta": 73,
-        "pregunta": "SEGÚN EL ARTÍCULO 21 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, ¿CUÁL ES EL PLAZO DE NOTIFICACIÓN DE LA RESOLUCIÓN EXPRESA, SI EL PROCEDIMIENTO TIENE NORMA REGULADORA ESPECÍFICA PERO NO FIJA EL PLAZO?",
+        "pregunta": "73.- SEGÚN EL ARTÍCULO 21 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, ¿CUÁL ES EL PLAZO DE NOTIFICACIÓN DE LA RESOLUCIÓN EXPRESA, SI EL PROCEDIMIENTO TIENE NORMA REGULADORA ESPECÍFICA PERO NO FIJA EL PLAZO?",
         "opciones": {
           "A": "En el plazo fijado por la norma reguladora específica de una materia afín.",
           "B": "En el plazo de 3 meses.",
@@ -894,7 +894,7 @@ const QUIZZES = {
       {
         "num": 74,
         "idpregunta": 74,
-        "pregunta": "SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, LOS ACTOS ADMINISTRATIVOS PRODUCIDOS POR SILENCIO ADMINISTRATIVO PUEDEN HACERSE VALER ANTE:",
+        "pregunta": "74.- SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, LOS ACTOS ADMINISTRATIVOS PRODUCIDOS POR SILENCIO ADMINISTRATIVO PUEDEN HACERSE VALER ANTE:",
         "opciones": {
           "A": "Exclusivamente ante la Administración instructora del expediente.",
           "B": "Ante la Administración, así como ante cualquier persona física o jurídica, pública o privada.",
@@ -906,7 +906,7 @@ const QUIZZES = {
       {
         "num": 75,
         "idpregunta": 75,
-        "pregunta": "EL ARTÍCULO 35 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, ESTABLECE QUE SERÁN MOTIVADOS, CON SUCINTA REFERENCIA DE HECHOS Y FUNDAMENTOS DE DERECHO:",
+        "pregunta": "75.- EL ARTÍCULO 35 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, ESTABLECE QUE SERÁN MOTIVADOS, CON SUCINTA REFERENCIA DE HECHOS Y FUNDAMENTOS DE DERECHO:",
         "opciones": {
           "A": "Los que resuelvan procedimientos de revisión de oficio de disposiciones o actos administrativos.",
           "B": "Los que resuelvan recursos administrativos.",
@@ -918,7 +918,7 @@ const QUIZZES = {
       {
         "num": 76,
         "idpregunta": 76,
-        "pregunta": "SEGÚN EL ARTÍCULO 27 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, LAS COPIAS AUTENTICADAS REALIZADAS POR UNA ADMINISTRACIÓN PÚBLICA.",
+        "pregunta": "76.- SEGÚN EL ARTÍCULO 27 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, LAS COPIAS AUTENTICADAS REALIZADAS POR UNA ADMINISTRACIÓN PÚBLICA.",
         "opciones": {
           "A": "Surten únicamente efectos administrativos.",
           "B": "No tendrán ningún efecto administrativo.",
@@ -930,7 +930,7 @@ const QUIZZES = {
       {
         "num": 77,
         "idpregunta": 77,
-        "pregunta": "LA COMPARECENCIA DE LOS/AS CIUDADANOS/AS ANTE LAS OFICINAS PÚBLICAS, YA SEA PRESENCIALMENTE O POR MEDIOS ELECTRÓNICOS, SÓLO SERÁ OBLIGATORIA:",
+        "pregunta": "77.- LA COMPARECENCIA DE LOS/AS CIUDADANOS/AS ANTE LAS OFICINAS PÚBLICAS, YA SEA PRESENCIALMENTE O POR MEDIOS ELECTRÓNICOS, SÓLO SERÁ OBLIGATORIA:",
         "opciones": {
           "A": "Cuando razones de interés público así lo aconsejen.",
           "B": "Cuando esté previsto en una norma con rango de Ley.",
@@ -942,7 +942,7 @@ const QUIZZES = {
       {
         "num": 78,
         "idpregunta": 78,
-        "pregunta": "¿CUÁNDO SE ENTIENDE PRACTICADA UNA NOTIFICACIÓN DE UN ACTO ADMINISTRATIVO POR MEDIOS ELECTRÓNICOS?",
+        "pregunta": "78.- ¿CUÁNDO SE ENTIENDE PRACTICADA UNA NOTIFICACIÓN DE UN ACTO ADMINISTRATIVO POR MEDIOS ELECTRÓNICOS?",
         "opciones": {
           "A": "Cuando se reciba en la bandeja de entrada del correo electrónico de la persona interesada.",
           "B": "Cuando se produzca el acceso a su contenido mediante comparecencia en la sede electrónica de la Administración u Organismo actuante.",
@@ -954,7 +954,7 @@ const QUIZZES = {
       {
         "num": 79,
         "idpregunta": 79,
-        "pregunta": "LA RESPONSABILIDAD SOBRE LA GESTIÓN DE UNA SEDE ELECTRÓNICA CORRESPONDE:",
+        "pregunta": "79.- LA RESPONSABILIDAD SOBRE LA GESTIÓN DE UNA SEDE ELECTRÓNICA CORRESPONDE:",
         "opciones": {
           "A": "A su titular.",
           "B": "Al usuario que accede.",
@@ -966,7 +966,7 @@ const QUIZZES = {
       {
         "num": 80,
         "idpregunta": 80,
-        "pregunta": "SERÁN NULAS DE PLENO DERECHO LAS DISPOSICIONES ADMINISTRATIVAS (SEÑALE LA OPCIÓN INCORRECTA):",
+        "pregunta": "80.- SERÁN NULAS DE PLENO DERECHO LAS DISPOSICIONES ADMINISTRATIVAS (SEÑALE LA OPCIÓN INCORRECTA):",
         "opciones": {
           "A": "Que vulneren la Constitución.",
           "B": "Que vulneren las leyes u otras disposiciones administrativas de rango superior.",
@@ -978,7 +978,7 @@ const QUIZZES = {
       {
         "num": 81,
         "idpregunta": 81,
-        "pregunta": "SEGÚN LA LEY DE EMPLEO PÚBLICO VASCO, SI A UN FUNCIONARIO INTERINO SE LE NOMBRA POR LA EXISTENCIA DE UNA PLAZA VACANTE ÉSTA DEBERÁ INCLUIRSE, EN UN PRINCIPIO EN:",
+        "pregunta": "81.- SEGÚN LA LEY DE EMPLEO PÚBLICO VASCO, SI A UN FUNCIONARIO INTERINO SE LE NOMBRA POR LA EXISTENCIA DE UNA PLAZA VACANTE ÉSTA DEBERÁ INCLUIRSE, EN UN PRINCIPIO EN:",
         "opciones": {
           "A": "La oferta pública de empleo del ejercicio siguiente al que se produce su nombramiento.",
           "B": "La oferta pública de empleo del ejercicio en el que se produce su nombramiento.",
@@ -990,7 +990,7 @@ const QUIZZES = {
       {
         "num": 82,
         "idpregunta": 82,
-        "pregunta": "SEGÚN LA LEY DE EMPLEO PÚBLICO VASCO ES CORRECTO SEÑALAR:",
+        "pregunta": "82.- SEGÚN LA LEY DE EMPLEO PÚBLICO VASCO ES CORRECTO SEÑALAR:",
         "opciones": {
           "A": "El personal funcionario que permanezca en situaciones con o sin derecho a reserva de puesto podrá participar en las convocatorias de provisión de puestos de trabajo y promoción profesional.",
           "B": "El personal funcionario que permanezca en situaciones con derecho a reserva de puesto podrá participar en las convocatorias de provisión de puestos de trabajo y promoción profesional.",
@@ -1008,7 +1008,7 @@ const QUIZZES = {
       {
         "num": 83,
         "idpregunta": 83,
-        "pregunta": "CUANDO EL PERSONAL FUNCIONARIO PROLONGUE VOLUNTARIAMENTE SU PERMANENCIA EN EL SERVICIO ACTIVO UNA VEZ REBASADA LA EDAD LEGAL DE JUBILACIÓN ORDINARIA:",
+        "pregunta": "83.- CUANDO EL PERSONAL FUNCIONARIO PROLONGUE VOLUNTARIAMENTE SU PERMANENCIA EN EL SERVICIO ACTIVO UNA VEZ REBASADA LA EDAD LEGAL DE JUBILACIÓN ORDINARIA:",
         "opciones": {
           "A": "No podrá declararse la excedencia forzosa.",
           "B": "No podrá declararse la situación de expectativa de destino.",
@@ -1020,7 +1020,7 @@ const QUIZZES = {
       {
         "num": 84,
         "idpregunta": 84,
-        "pregunta": "EN VIRTUD DE LO ESTABLECIDO EN LA LEY DE EMPLEO PÚIBLICO VASCO, UN FUNCIONARIO PODRÁ SOLICITAR UNA EXCEDENCIA VOLUNTARIA POR INTERÉS PARTICULAR:",
+        "pregunta": "84.- EN VIRTUD DE LO ESTABLECIDO EN LA LEY DE EMPLEO PÚIBLICO VASCO, UN FUNCIONARIO PODRÁ SOLICITAR UNA EXCEDENCIA VOLUNTARIA POR INTERÉS PARTICULAR:",
         "opciones": {
           "A": "Cuando haya prestado servicios efectivos de forma continuada en cualquiera de las Administraciones Públicas o en el sector público durante los dos años inmediatamente anteriores y en ella no se podrá permanecer menos de dos años continuados.",
           "B": "Cuando haya prestado servicios efectivos en cualquiera de las Administraciones Públicas durante los tres años inmediatamente anteriores y en ella no se podrá permanecer menos de dos años continuados.",
@@ -1038,7 +1038,7 @@ const QUIZZES = {
       {
         "num": 85,
         "idpregunta": 85,
-        "pregunta": "DE ACUERDO CON LA LEY 11/2022, DE 1 DE DICIEMBRE, DE EMPLEO PÚBLICO VASCO, NO ES CORRECTO SEÑALAR:",
+        "pregunta": "85.- DE ACUERDO CON LA LEY 11/2022, DE 1 DE DICIEMBRE, DE EMPLEO PÚBLICO VASCO, NO ES CORRECTO SEÑALAR:",
         "opciones": {
           "A": "Los cambios de situación administrativa se acordarán por resolución del órgano competente en materia de empleo público de la administración u organismo público correspondiente.",
           "B": "Los cambios de situación administrativa deberán anotarse en el registro de personal.",
@@ -1050,7 +1050,7 @@ const QUIZZES = {
       {
         "num": 86,
         "idpregunta": 86,
-        "pregunta": "RESPECTO AL RÉGIMEN DE INCOMPATIBILIDADES DE LOS FUNCIONARIOS AL SERVICIO DE LAS ADMINISTRACIONES PÚBLICAS VASCAS:",
+        "pregunta": "86.- RESPECTO AL RÉGIMEN DE INCOMPATIBILIDADES DE LOS FUNCIONARIOS AL SERVICIO DE LAS ADMINISTRACIONES PÚBLICAS VASCAS:",
         "opciones": {
           "A": "El desempeño de un segundo puesto de trabajo en el sector privado requerirá la previa y expresa autorización de compatibilidad, mientras que si ese segundo puesto de trabajo se desarrolla en el sector público el funcionario únicamente deberá notificar este hecho a las respectivas Administraciones afectadas.",
           "B": "No podrá autorizarse o reconocerse la compatibilidad de un funcionario cuando en las retribuciones complementarias que tenga derecho a percibir se incluya el factor de incompatibilidad.",
@@ -1062,7 +1062,7 @@ const QUIZZES = {
       {
         "num": 87,
         "idpregunta": 87,
-        "pregunta": "SEGÚN LA LEY 11/2022, DE EMPLEO PÚBLICO VASCO, RESPECTO AL PERSONAL EVENTUAL:",
+        "pregunta": "87.- SEGÚN LA LEY 11/2022, DE EMPLEO PÚBLICO VASCO, RESPECTO AL PERSONAL EVENTUAL:",
         "opciones": {
           "A": "Su nombramiento se realiza por concurso de méritos.",
           "B": "Su cese se produce únicamente por decisión expresa de la autoridad que lo nombró.",
@@ -1074,7 +1074,7 @@ const QUIZZES = {
       {
         "num": 88,
         "idpregunta": 88,
-        "pregunta": "DE ACUERDO CON EL ARTÍCULO 122 DE LA LEY 11/2022, DE 1 DE DICIEMBRE, DE EMPLEO PÚBLICO VASCO, SON RETRIBUCIONES COMPLEMENTARIAS:",
+        "pregunta": "88.- DE ACUERDO CON EL ARTÍCULO 122 DE LA LEY 11/2022, DE 1 DE DICIEMBRE, DE EMPLEO PÚBLICO VASCO, SON RETRIBUCIONES COMPLEMENTARIAS:",
         "opciones": {
           "A": "El complemento de destino correspondiente al nivel del puesto que se desempeñe, cuya cuantía se fijará anualmente en los Presupuestos Generales de la Comunidad Autónoma.",
           "B": "El complemento específico, que, a salvo de norma o pacto en contrario, será único por cada puesto de trabajo que lo tenga asignado. Este complemento retribuye las condiciones particulares de cada puesto en razón de la especial dificultad técnica, responsabilidad, dedicación, penosidad o peligrosidad, así como cualquier otra condición que concurra en el puesto de trabajo.",
@@ -1086,7 +1086,7 @@ const QUIZZES = {
       {
         "num": 89,
         "idpregunta": 89,
-        "pregunta": "RESPECTO AL COMPLEMENTO DE ESPECIAL DEDICACIÓN EN LAS RETRIBUCIONES DEL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS FUNCIONARIO DE LA EHU:",
+        "pregunta": "89.- RESPECTO AL COMPLEMENTO DE ESPECIAL DEDICACIÓN EN LAS RETRIBUCIONES DEL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS FUNCIONARIO DE LA EHU:",
         "opciones": {
           "A": "Su cuantía no podrá exceder del 50% del importe del nivel de clasificación del puesto de trabajo.",
           "B": "Su percepción no anula otros derechos a compensación por la jornada de trabajo que exceda de la normalizada.",
@@ -1098,7 +1098,7 @@ const QUIZZES = {
       {
         "num": 90,
         "idpregunta": 90,
-        "pregunta": "RESPECTO A LOS PROCESOS DE PROMOCIÓN INTERNA DEL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS FUNCIONARIO DE LA EHU:",
+        "pregunta": "90.- RESPECTO A LOS PROCESOS DE PROMOCIÓN INTERNA DEL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS FUNCIONARIO DE LA EHU:",
         "opciones": {
           "A": "Podrán incluir pruebas de conocimientos generales o específicos.",
           "B": "Corresponde a la Sección de Personal técnico, de gestión y administración y servicios de la EHU desarrollar la normativa sobre la carrera profesional de este personal.",
@@ -1110,7 +1110,7 @@ const QUIZZES = {
       {
         "num": 91,
         "idpregunta": 91,
-        "pregunta": "DE CONFORMIDAD CON EL ARTÍCULO 178 LA LEY 11/2022, DE 1 DE DICIEMBRE DE EMPLEO PÚBLICO VASCO, SE CONSIDERAN FALTAS MUY GRAVES:",
+        "pregunta": "91.- DE CONFORMIDAD CON EL ARTÍCULO 178 LA LEY 11/2022, DE 1 DE DICIEMBRE DE EMPLEO PÚBLICO VASCO, SE CONSIDERAN FALTAS MUY GRAVES:",
         "opciones": {
           "A": "La falta grave de consideración con los/as administrados/as.",
           "B": "Cualquier actuación que suponga discriminación por razón de origen racial o étnico, religión o convicciones, discapacidad, edad, orientación sexual, lengua, opinión, lugar de nacimiento o vecindad, sexo, o cualquier otra condición o circunstancia personal o social.",
@@ -1122,7 +1122,7 @@ const QUIZZES = {
       {
         "num": 92,
         "idpregunta": 92,
-        "pregunta": "DE CONFORMIDAD CON EL ARTÍCULO 179 LA LEY 11/2022, DE 1 DE DICIEMBRE DE EMPLEO PÚBLICO VASCO, SE CONSIDERAN FALTAS GRAVES:",
+        "pregunta": "92.- DE CONFORMIDAD CON EL ARTÍCULO 179 LA LEY 11/2022, DE 1 DE DICIEMBRE DE EMPLEO PÚBLICO VASCO, SE CONSIDERAN FALTAS GRAVES:",
         "opciones": {
           "A": "El abandono del servicio.",
           "B": "La adopción de resoluciones o acuerdos manifiestamente ilegales que causen grave perjuicio a la Administración o a los/as ciudadanos/as.",
@@ -1134,7 +1134,7 @@ const QUIZZES = {
       {
         "num": 93,
         "idpregunta": 93,
-        "pregunta": "DE CONFORMIDAD CON EL ARTÍCULO 180 LA LEY 11/2022, DE 1 DE DICIEMBRE DE EMPLEO PÚBLICO VASCO, SON FALTAS LEVES:",
+        "pregunta": "93.- DE CONFORMIDAD CON EL ARTÍCULO 180 LA LEY 11/2022, DE 1 DE DICIEMBRE DE EMPLEO PÚBLICO VASCO, SON FALTAS LEVES:",
         "opciones": {
           "A": "El incumplimiento injustificado del horario de trabajo, cuando no suponga falta grave.",
           "B": "La falta de asistencia injustificada de un día.",
@@ -1146,7 +1146,7 @@ const QUIZZES = {
       {
         "num": 94,
         "idpregunta": 94,
-        "pregunta": "DE ACUERDO CON LA LEY 11/2022, DE 1 DE DICIEMBRE DE EMPLEO PÚBLICO VASCO, ES PERSONAL LABORAL EL QUE EN VIRTUD DE:",
+        "pregunta": "94.- DE ACUERDO CON LA LEY 11/2022, DE 1 DE DICIEMBRE DE EMPLEO PÚBLICO VASCO, ES PERSONAL LABORAL EL QUE EN VIRTUD DE:",
         "opciones": {
           "A": "Contrato de trabajo formalizado por escrito presta servicios retribuidos por las Administraciones Públicas Vascas.",
           "B": "Contrato de trabajo formalizado por escrito o de forma verbal presta servicios retribuidos por las Administraciones Públicas Vascas.",
@@ -1158,7 +1158,7 @@ const QUIZZES = {
       {
         "num": 95,
         "idpregunta": 95,
-        "pregunta": "DE ACUERDO CON LA LEY 11/2022, DE 1 DE DICIEMBRE DE EMPLEO PÚBLICO VASCO, NO ES UNA SITUACIÓN ADMINISTRATIVA:",
+        "pregunta": "95.- DE ACUERDO CON LA LEY 11/2022, DE 1 DE DICIEMBRE DE EMPLEO PÚBLICO VASCO, NO ES UNA SITUACIÓN ADMINISTRATIVA:",
         "opciones": {
           "A": "El servicio activo.",
           "B": "La suspensión.",
@@ -1170,7 +1170,7 @@ const QUIZZES = {
       {
         "num": 96,
         "idpregunta": 96,
-        "pregunta": "EL EXAMEN Y RESOLUCIÓN DE CUESTIONES DERIVADAS DE LA INTERPRETACIÓN DEL III CONVENIO DEL PERSONAL LABORAL DE ADMINISTRACIONES Y SERVICIOS DE LA EHU CORRESPONDE A:",
+        "pregunta": "96.- EL EXAMEN Y RESOLUCIÓN DE CUESTIONES DERIVADAS DE LA INTERPRETACIÓN DEL III CONVENIO DEL PERSONAL LABORAL DE ADMINISTRACIONES Y SERVICIOS DE LA EHU CORRESPONDE A:",
         "opciones": {
           "A": "La Comisión Paritaria.",
           "B": "La Comisión Negociadora.",
@@ -1182,7 +1182,7 @@ const QUIZZES = {
       {
         "num": 97,
         "idpregunta": 97,
-        "pregunta": "EL SERVICIO DE PREVENCIÓN DE LA EHU ES:",
+        "pregunta": "97.- EL SERVICIO DE PREVENCIÓN DE LA EHU ES:",
         "opciones": {
           "A": "Un servicio propio.",
           "B": "Un servicio ajeno.",
@@ -1194,7 +1194,7 @@ const QUIZZES = {
       {
         "num": 98,
         "idpregunta": 98,
-        "pregunta": "LA EHU EN EL ARTÍCULO 5.3 DE SUS ESTATUTOS RECONOCE Y GARANTIZA:",
+        "pregunta": "98.- LA EHU EN EL ARTÍCULO 5.3 DE SUS ESTATUTOS RECONOCE Y GARANTIZA:",
         "opciones": {
           "A": "La libertad de expresión.",
           "B": "La libertad religiosa.",
@@ -1206,7 +1206,7 @@ const QUIZZES = {
       {
         "num": 99,
         "idpregunta": 99,
-        "pregunta": "LA COMUNIDAD UNIVERSITARIA ESTÁ FORMADA POR LOS SIGUIENTES COLECTIVOS:",
+        "pregunta": "99.- LA COMUNIDAD UNIVERSITARIA ESTÁ FORMADA POR LOS SIGUIENTES COLECTIVOS:",
         "opciones": {
           "A": "Alumnado, personal docente e investigador y personal técnico, de gestión y administración y servicios.",
           "B": "Alumnado y trabajadores/as autónomos/as.",
@@ -1218,7 +1218,7 @@ const QUIZZES = {
       {
         "num": 100,
         "idpregunta": 100,
-        "pregunta": "SEGÚN LOS ESTATUTOS DE LA EHU, EL RÉGIMEN RETRIBUTIVO DEL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS LO ESTABLECERÁ:",
+        "pregunta": "100.- SEGÚN LOS ESTATUTOS DE LA EHU, EL RÉGIMEN RETRIBUTIVO DEL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS LO ESTABLECERÁ:",
         "opciones": {
           "A": "El Rector o Rectora.",
           "B": "El Claustro Universitario.",
@@ -1230,7 +1230,7 @@ const QUIZZES = {
       {
         "num": 101,
         "idpregunta": 101,
-        "pregunta": "SEGÚN LOS ESTATUTOS DE LA EHU, EL PERSONAL LABORAL SE CLASIFICARÁ CONFORME A:",
+        "pregunta": "101.- SEGÚN LOS ESTATUTOS DE LA EHU, EL PERSONAL LABORAL SE CLASIFICARÁ CONFORME A:",
         "opciones": {
           "A": "Los acuerdos de las Juntas de Centro.",
           "B": "Su convenio colectivo en vigor.",
@@ -1242,7 +1242,7 @@ const QUIZZES = {
       {
         "num": 102,
         "idpregunta": 102,
-        "pregunta": "LAS RECOMENDACIONES DEL O DE LA ALDEZLE SERÁN SUSCEPTIBLES DE RECURSO:",
+        "pregunta": "102.- LAS RECOMENDACIONES DEL O DE LA ALDEZLE SERÁN SUSCEPTIBLES DE RECURSO:",
         "opciones": {
           "A": "Si el Rector o Rectora es parte implicada.",
           "B": "No serán susceptibles de recurso.",
@@ -1254,7 +1254,7 @@ const QUIZZES = {
       {
         "num": 103,
         "idpregunta": 103,
-        "pregunta": "LA BIBLIOTECA UNIVERSITARIA ES UN CENTRO DE RECURSOS PARA LA DOCENCIA, EL APRENDIZAJE, LA INVESTIGACIÓN Y LAS ACTIVIDADES RELACIONADAS CON:",
+        "pregunta": "103.- LA BIBLIOTECA UNIVERSITARIA ES UN CENTRO DE RECURSOS PARA LA DOCENCIA, EL APRENDIZAJE, LA INVESTIGACIÓN Y LAS ACTIVIDADES RELACIONADAS CON:",
         "opciones": {
           "A": "El funcionamiento y la gestión de la universidad en su conjunto.",
           "B": "El desarrollo de la capacidad de estudio del alumnado.",
@@ -1266,7 +1266,7 @@ const QUIZZES = {
       {
         "num": 104,
         "idpregunta": 104,
-        "pregunta": "SEGÚN LOS ESTATUTOS DE LA EHU, LAS BASES DE LAS CONVOCATORIAS DE PRUEBAS SELECTIVAS PARA EL ACCESO A LA CONDICIÓN DE PERSONAL FUNCIONARIO O PERSONAL CONTRATADO LABORAL FIJO AL SERVICIO DE LA EHU DEBERÁ CONTENER NECESARIAMENTE:",
+        "pregunta": "104.- SEGÚN LOS ESTATUTOS DE LA EHU, LAS BASES DE LAS CONVOCATORIAS DE PRUEBAS SELECTIVAS PARA EL ACCESO A LA CONDICIÓN DE PERSONAL FUNCIONARIO O PERSONAL CONTRATADO LABORAL FIJO AL SERVICIO DE LA EHU DEBERÁ CONTENER NECESARIAMENTE:",
         "opciones": {
           "A": "Los requisitos que deben reunir los y las aspirantes.",
           "B": "Los nombres y apellidos de los miembros del tribunal.",
@@ -1278,7 +1278,7 @@ const QUIZZES = {
       {
         "num": 105,
         "idpregunta": 105,
-        "pregunta": "EL ÓRGANO DE REPRESENTACIÓN UNITARIA DEL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS FUNCIONARIO ES:",
+        "pregunta": "105.- EL ÓRGANO DE REPRESENTACIÓN UNITARIA DEL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS FUNCIONARIO ES:",
         "opciones": {
           "A": "La Junta de personal técnico, de gestión y administración y servicios.",
           "B": "El Comité de Empresa.",
@@ -1290,7 +1290,7 @@ const QUIZZES = {
       {
         "num": 106,
         "idpregunta": 106,
-        "pregunta": "LAS DECISIONES RELATIVAS AL RÉGIMEN DISCIPLINARIO DE ESTUDIANTES, PERSONAL DOCENTE E INVESTIGADOR Y PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS QUE LA LEGISLACIÓN VIGENTE NO ATRIBUYA A OTRO ÓRGANO SERÁN ADOPTADAS POR:",
+        "pregunta": "106.- LAS DECISIONES RELATIVAS AL RÉGIMEN DISCIPLINARIO DE ESTUDIANTES, PERSONAL DOCENTE E INVESTIGADOR Y PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS QUE LA LEGISLACIÓN VIGENTE NO ATRIBUYA A OTRO ÓRGANO SERÁN ADOPTADAS POR:",
         "opciones": {
           "A": "El o la Aldezle.",
           "B": "La Rectora o El Rector.",
@@ -1302,7 +1302,7 @@ const QUIZZES = {
       {
         "num": 107,
         "idpregunta": 107,
-        "pregunta": "EN LA EHU, LA INSTITUCIÓN INDEPENDIENTE E IMPARCIAL QUE PROMOVERÁ LA UTILIZACIÓN DE MODOS ALTERNATIVOS, NO ADVERSARIALES, PARA PREVENIR Y RESOLVER PROBLEMAS Y CONFLICTOS RELACIONADOS CON LA ACTIVIDAD UNIVERSITARIA EN TODOS SUS NIVELES ES:",
+        "pregunta": "107.- EN LA EHU, LA INSTITUCIÓN INDEPENDIENTE E IMPARCIAL QUE PROMOVERÁ LA UTILIZACIÓN DE MODOS ALTERNATIVOS, NO ADVERSARIALES, PARA PREVENIR Y RESOLVER PROBLEMAS Y CONFLICTOS RELACIONADOS CON LA ACTIVIDAD UNIVERSITARIA EN TODOS SUS NIVELES ES:",
         "opciones": {
           "A": "El o la Aldezle.",
           "B": "Comité de Empresa.",
@@ -1314,7 +1314,7 @@ const QUIZZES = {
       {
         "num": 108,
         "idpregunta": 108,
-        "pregunta": "EN LA EHU, EL ÓRGANO QUE DETERMINA LAS PLAZAS PARA LAS QUE ES PRECEPTIVO EL CONOCIMIENTO DE EUSKERA Y CASTELLANO ES:",
+        "pregunta": "108.- EN LA EHU, EL ÓRGANO QUE DETERMINA LAS PLAZAS PARA LAS QUE ES PRECEPTIVO EL CONOCIMIENTO DE EUSKERA Y CASTELLANO ES:",
         "opciones": {
           "A": "El Consejo de Gobierno.",
           "B": "El Claustro Universitario.",
@@ -1326,7 +1326,7 @@ const QUIZZES = {
       {
         "num": 109,
         "idpregunta": 109,
-        "pregunta": "EN LA EHU, LA MODIFICACIÓN DE CAMPUS UNIVERSITARIOS CORRESPONDE A:",
+        "pregunta": "109.- EN LA EHU, LA MODIFICACIÓN DE CAMPUS UNIVERSITARIOS CORRESPONDE A:",
         "opciones": {
           "A": "El Consejo de Gobierno a propuesta del Claustro Universitario.",
           "B": "El Claustro Universitario a propuesta del Consejo de Gobierno.",
@@ -1338,7 +1338,7 @@ const QUIZZES = {
       {
         "num": 110,
         "idpregunta": 110,
-        "pregunta": "SIN PERJUICIO DE LAS DELEGACIONES QUE EFECTÚE, EL ÓRGANO DE CONTRATACIÓN DE LA EHU ES:",
+        "pregunta": "110.- SIN PERJUICIO DE LAS DELEGACIONES QUE EFECTÚE, EL ÓRGANO DE CONTRATACIÓN DE LA EHU ES:",
         "opciones": {
           "A": "El o la Gerente.",
           "B": "La Rectora o El Rector.",
@@ -1350,7 +1350,7 @@ const QUIZZES = {
       {
         "num": 111,
         "idpregunta": 111,
-        "pregunta": "EL DERECHO A LA LIBERTAD DE CÁTEDRA, RECONOCIDO EN EL TEXTO CONSTITUCIONAL, IMPLICA QUE:",
+        "pregunta": "111.- EL DERECHO A LA LIBERTAD DE CÁTEDRA, RECONOCIDO EN EL TEXTO CONSTITUCIONAL, IMPLICA QUE:",
         "opciones": {
           "A": "Las/os catedráticas/os y profesoras/es tienen derecho a enseñar conforme a sus propios criterios y con los métodos que consideren más convenientes.",
           "B": "Los alumnos pueden elegir libremente las asignaturas que estimen más convenientes para su formación universitaria o profesional.",
@@ -1368,7 +1368,7 @@ const QUIZZES = {
       {
         "num": 112,
         "idpregunta": 112,
-        "pregunta": "EL ESTATUTO BÁSICO DEL EMPLEADO PÚBLICO ENTRE OTROS SE APLICA A...",
+        "pregunta": "112.- EL ESTATUTO BÁSICO DEL EMPLEADO PÚBLICO ENTRE OTROS SE APLICA A...",
         "opciones": {
           "A": "Únicamente al personal funcionario de las Universidades Públicas.",
           "B": "Únicamente al personal laboral de las Universidades Públicas.",
@@ -1380,7 +1380,7 @@ const QUIZZES = {
       {
         "num": 113,
         "idpregunta": 113,
-        "pregunta": "EL PERSONAL EMPLEADO PÚBLICO SE CLASIFICA EN...",
+        "pregunta": "113.- EL PERSONAL EMPLEADO PÚBLICO SE CLASIFICA EN...",
         "opciones": {
           "A": "Personal funcionario de carrera, personal funcionario interino, personal laboral, ya sea fijo, por tiempo indefinido o temporal y personal eventual.",
           "B": "Personal funcionario de carrera y personal funcionario Interino.",
@@ -1392,7 +1392,7 @@ const QUIZZES = {
       {
         "num": 114,
         "idpregunta": 114,
-        "pregunta": "SEGÚN EL ESTATUTO BÁSICO DEL EMPLEADO PÚBLICO, ES PERSONAL LABORAL...",
+        "pregunta": "114.- SEGÚN EL ESTATUTO BÁSICO DEL EMPLEADO PÚBLICO, ES PERSONAL LABORAL...",
         "opciones": {
           "A": "Quien, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente.",
           "B": "Quien, en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Pública.",
@@ -1404,7 +1404,7 @@ const QUIZZES = {
       {
         "num": 115,
         "idpregunta": 115,
-        "pregunta": "¿QUIÉN APRUEBA DE FORMA DEFINITIVA EL PRESUPUESTO DE LA EHU?",
+        "pregunta": "115.- ¿QUIÉN APRUEBA DE FORMA DEFINITIVA EL PRESUPUESTO DE LA EHU?",
         "opciones": {
           "A": "La Rectora o El Rector.",
           "B": "La Decana o El Decano.",
@@ -1416,7 +1416,7 @@ const QUIZZES = {
       {
         "num": 116,
         "idpregunta": 116,
-        "pregunta": "LOS COMITÉS DE SEGURIDAD Y SALUD DE LA EHU SON:",
+        "pregunta": "116.- LOS COMITÉS DE SEGURIDAD Y SALUD DE LA EHU SON:",
         "opciones": {
           "A": "Un Comité Intercampus, un Comité de Seguridad y Salud por cada Campus y un Comité para la Seguridad Medioambiental.",
           "B": "Un Comité Intercampus, un Comité para la Seguridad Medioambiental e Inspección de Trabajo.",
@@ -1428,7 +1428,7 @@ const QUIZZES = {
       {
         "num": 117,
         "idpregunta": 117,
-        "pregunta": "SON MIEMBROS DEL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS DE LA EHU...",
+        "pregunta": "117.- SON MIEMBROS DEL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS DE LA EHU...",
         "opciones": {
           "A": "Personal funcionario, personal contratado laboral y funcionarios y funcionarias de otras Administraciones Públicas que, de acuerdo con la legislación vigente, presten servicio en la EHU.",
           "B": "Personal funcionario y funcionarios y funcionarias de otras Administraciones Públicas que, de acuerdo con la legislación vigente, presten servicio en la EHU.",
@@ -1446,7 +1446,7 @@ const QUIZZES = {
       {
         "num": 118,
         "idpregunta": 118,
-        "pregunta": "SEGÚN LOS ESTATUTOS DE LA EHU, LAS ENSEÑANZAS UNIVERSITARIAS OFICIALES SE ESTRUCTURARÁN EN...",
+        "pregunta": "118.- SEGÚN LOS ESTATUTOS DE LA EHU, LAS ENSEÑANZAS UNIVERSITARIAS OFICIALES SE ESTRUCTURARÁN EN...",
         "opciones": {
           "A": "Tres ciclos: grado, máster y doctorado.",
           "B": "Dos ciclos: grado y máster.",
@@ -1458,7 +1458,7 @@ const QUIZZES = {
       {
         "num": 119,
         "idpregunta": 119,
-        "pregunta": "SEGÚN LOS ESTATUTOS DE LA EHU, LA EHU ES UNA UNIVERSIDAD...",
+        "pregunta": "119.- SEGÚN LOS ESTATUTOS DE LA EHU, LA EHU ES UNA UNIVERSIDAD...",
         "opciones": {
           "A": "Multicampus.",
           "B": "Pluricampus.",
@@ -1470,7 +1470,7 @@ const QUIZZES = {
       {
         "num": 120,
         "idpregunta": 120,
-        "pregunta": "SEGÚN LOS ESTATUTOS DE LA EHU, SON CENTROS DOCENTES...",
+        "pregunta": "120.- SEGÚN LOS ESTATUTOS DE LA EHU, SON CENTROS DOCENTES...",
         "opciones": {
           "A": "Las escuelas y facultades.",
           "B": "Los campus universitarios.",
@@ -1482,7 +1482,7 @@ const QUIZZES = {
       {
         "num": 121,
         "idpregunta": 121,
-        "pregunta": "DE ACUERDO CON EL ARTÍCULO 26 DEL REAL DECRETO 412/2014, DE 6 DE JUNIO, POR EL QUE SE ESTABLECE LA NORMATIVA BÁSICA DE LOS PROCEDIMIENTOS DE ADMISIÓN A LAS ENSEÑANZAS UNIVERSITARIAS OFICIALES DE GRADO, EXISTE UN PORCENTAJE DE PLAZAS RESERVADAS A ESTUDIANTES CON DISCAPACIDAD. ESTE PORCENTAJE ES:",
+        "pregunta": "121.- DE ACUERDO CON EL ARTÍCULO 26 DEL REAL DECRETO 412/2014, DE 6 DE JUNIO, POR EL QUE SE ESTABLECE LA NORMATIVA BÁSICA DE LOS PROCEDIMIENTOS DE ADMISIÓN A LAS ENSEÑANZAS UNIVERSITARIAS OFICIALES DE GRADO, EXISTE UN PORCENTAJE DE PLAZAS RESERVADAS A ESTUDIANTES CON DISCAPACIDAD. ESTE PORCENTAJE ES:",
         "opciones": {
           "A": "3%.",
           "B": "4%.",
@@ -1494,7 +1494,7 @@ const QUIZZES = {
       {
         "num": 122,
         "idpregunta": 122,
-        "pregunta": "EN RELACIÓN CON PERSONAS CON DISCAPACIDAD. SEÑALE LA AFIRMACIÓN CORRECTA:",
+        "pregunta": "122.- EN RELACIÓN CON PERSONAS CON DISCAPACIDAD. SEÑALE LA AFIRMACIÓN CORRECTA:",
         "opciones": {
           "A": "En las ofertas de empleo público se reservará un cupo no inferior al tres por ciento de las vacantes para ser cubiertas entre personas con discapacidad.",
           "B": "El Estatuto Básico del Empleado Público no contempla ninguna medida respecto al acceso de las personas con discapacidad a la función pública.",
@@ -1512,7 +1512,7 @@ const QUIZZES = {
       {
         "num": 123,
         "idpregunta": 123,
-        "pregunta": "¿QUIÉN TIENE COMPETENCIA PARA APROBAR EL REGLAMENTO DE UN CENTRO DOCENTE?",
+        "pregunta": "123.- ¿QUIÉN TIENE COMPETENCIA PARA APROBAR EL REGLAMENTO DE UN CENTRO DOCENTE?",
         "opciones": {
           "A": "La Junta de Centro.",
           "B": "El Consejo de Dirección.",
@@ -1524,7 +1524,7 @@ const QUIZZES = {
       {
         "num": 124,
         "idpregunta": 124,
-        "pregunta": "¿QUIÉN NOMBRA A LOS/AS DECANOS/AS Y A LOS/AS DIRECTORES/AS DE LOS CENTROS?",
+        "pregunta": "124.- ¿QUIÉN NOMBRA A LOS/AS DECANOS/AS Y A LOS/AS DIRECTORES/AS DE LOS CENTROS?",
         "opciones": {
           "A": "La Junta de Centro.",
           "B": "El/ La Rector/a.",
@@ -1536,7 +1536,7 @@ const QUIZZES = {
       {
         "num": 125,
         "idpregunta": 125,
-        "pregunta": "SEGÚN LOS ESTATUTOS DE LA EHU, LA PERSONA RESPONSABLE DE LA ORGANIZACIÓN Y GESTIÓN DE LOS SERVICIOS ADMINISTRATIVOS Y ECONÓMICOS DE LA EHU ES:",
+        "pregunta": "125.- SEGÚN LOS ESTATUTOS DE LA EHU, LA PERSONA RESPONSABLE DE LA ORGANIZACIÓN Y GESTIÓN DE LOS SERVICIOS ADMINISTRATIVOS Y ECONÓMICOS DE LA EHU ES:",
         "opciones": {
           "A": "La Rectora o El Rector",
           "B": "La Gerente o El Gerente.",
@@ -1548,7 +1548,7 @@ const QUIZZES = {
       {
         "num": 126,
         "idpregunta": 126,
-        "pregunta": "¿QUÉ ES LA PLANTILLA DE REFERENCIA DEL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS?",
+        "pregunta": "126.- ¿QUÉ ES LA PLANTILLA DE REFERENCIA DEL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS?",
         "opciones": {
           "A": "Es un instrumento de gestión para los recursos humanos.",
           "B": "Es un instrumento de planificación de los recursos humanos.",
@@ -1560,7 +1560,7 @@ const QUIZZES = {
       {
         "num": 127,
         "idpregunta": 127,
-        "pregunta": "LAS SECCIONES DEPARTAMENTALES:",
+        "pregunta": "127.- LAS SECCIONES DEPARTAMENTALES:",
         "opciones": {
           "A": "Podrán constituirse únicamente en aquellos Departamentos que desarrollen sus actividades en distintos Campus. La creación o supresión de secciones requerirá la reforma del Reglamento.",
           "B": "Podrán constituirse únicamente en aquellos Departamentos que desarrollen sus actividades en distintos Centros Docentes. La creación o supresión de secciones requerirá la reforma del Reglamento.",
@@ -1578,7 +1578,7 @@ const QUIZZES = {
       {
         "num": 128,
         "idpregunta": 128,
-        "pregunta": "CUÁL DE LAS SIGUIENTES AFIRMACIONES ES INCORRECTA RESPECTO AL CONSEJO DE ESTUDIANTES DE CAMPUS:",
+        "pregunta": "128.- CUÁL DE LAS SIGUIENTES AFIRMACIONES ES INCORRECTA RESPECTO AL CONSEJO DE ESTUDIANTES DE CAMPUS:",
         "opciones": {
           "A": "Estará compuesto por dos representantes del alumnado de cada uno de los Centros Docentes pertenecientes al Campus.",
           "B": "Lo integrarán, entre otros, la representación del alumnado del respectivo Campus en el Consejo de Gobierno.",
@@ -1590,7 +1590,7 @@ const QUIZZES = {
       {
         "num": 129,
         "idpregunta": 129,
-        "pregunta": "CUÁL DE LOS SIGUIENTES SE CONSIDERA UN ÓRGANO COLEGIADO DE GOBIERNO Y REPRESENTACIÓN DE LA EHU:",
+        "pregunta": "129.- CUÁL DE LOS SIGUIENTES SE CONSIDERA UN ÓRGANO COLEGIADO DE GOBIERNO Y REPRESENTACIÓN DE LA EHU:",
         "opciones": {
           "A": "El Consejo Jurídico.",
           "B": "El Consejo Económico.",
@@ -1602,7 +1602,7 @@ const QUIZZES = {
       {
         "num": 130,
         "idpregunta": 130,
-        "pregunta": "EL CONSEJO DE GOBIERNO DICTARÁ LAS NORMAS REGULADORAS DE LAS CONVOCATORIAS DE CONCURSO DE ACCESO DE PROFESORADO:",
+        "pregunta": "130.- EL CONSEJO DE GOBIERNO DICTARÁ LAS NORMAS REGULADORAS DE LAS CONVOCATORIAS DE CONCURSO DE ACCESO DE PROFESORADO:",
         "opciones": {
           "A": "A propuesta del Vicerrector o Vicerrectora de Personal Docente e Investigador.",
           "B": "A propuesta directa del Rector o Rectora.",
@@ -1614,7 +1614,7 @@ const QUIZZES = {
       {
         "num": 131,
         "idpregunta": 131,
-        "pregunta": "LA APROBACIÓN DE LA NORMATIVA REGULADORA DE DOCTORADO Y SUS EFECTOS EN EL ENCARGO DOCENTE CORRESPONDE A:",
+        "pregunta": "131.- LA APROBACIÓN DE LA NORMATIVA REGULADORA DE DOCTORADO Y SUS EFECTOS EN EL ENCARGO DOCENTE CORRESPONDE A:",
         "opciones": {
           "A": "El Consejo de Gobierno, a propuesta del Consejo de Departamento correspondiente.",
           "B": "La Comisión de Postgrado.",
@@ -1626,7 +1626,7 @@ const QUIZZES = {
       {
         "num": 132,
         "idpregunta": 132,
-        "pregunta": "CONSTITUYEN EL CONSEJO DE GOBIERNO DE LA EHU:",
+        "pregunta": "132.- CONSTITUYEN EL CONSEJO DE GOBIERNO DE LA EHU:",
         "opciones": {
           "A": "7 representantes del profesorado Doctor con vinculación permanente a la Universidad.",
           "B": "7 representantes del PERSONAL técnico, de gestión y administración y servicios.",
@@ -1638,7 +1638,7 @@ const QUIZZES = {
       {
         "num": 133,
         "idpregunta": 133,
-        "pregunta": "CON RELACIÓN AL PERSONAL EVENTUAL:",
+        "pregunta": "133.- CON RELACIÓN AL PERSONAL EVENTUAL:",
         "opciones": {
           "A": "Su nombramiento y cese son libres.",
           "B": "Es personal con carácter no permanente.",
@@ -1650,7 +1650,7 @@ const QUIZZES = {
       {
         "num": 134,
         "idpregunta": 134,
-        "pregunta": "LA COMISIÓN DE PROFESORADO DE LA EHU:",
+        "pregunta": "134.- LA COMISIÓN DE PROFESORADO DE LA EHU:",
         "opciones": {
           "A": "Estará presidida por el Decano o la Decana de Facultad de mayor antigüedad en la EHU.",
           "B": "Estará presidida por el Vicerrector o Vicerrectora de Personal Docente e Investigador.",
@@ -1662,7 +1662,7 @@ const QUIZZES = {
       {
         "num": 135,
         "idpregunta": 135,
-        "pregunta": "EN RELACIÓN CON EL PROFESORADO FUNCIONARIO DE LA EHU, LAS RECLAMACIONES PLANTEADAS POR DIVERGENCIAS FRENTE AL HORARIO Y CALENDARIO ACADÉMICOS SERÁN ESTUDIADAS Y RESUELTAS POR:",
+        "pregunta": "135.- EN RELACIÓN CON EL PROFESORADO FUNCIONARIO DE LA EHU, LAS RECLAMACIONES PLANTEADAS POR DIVERGENCIAS FRENTE AL HORARIO Y CALENDARIO ACADÉMICOS SERÁN ESTUDIADAS Y RESUELTAS POR:",
         "opciones": {
           "A": "El Consejo de Departamento.",
           "B": "El Consejo Social.",
@@ -1674,7 +1674,7 @@ const QUIZZES = {
       {
         "num": 136,
         "idpregunta": 136,
-        "pregunta": "RESPECTO AL ANTICIPO DE NÓMINA DEL PERSONAL DOCENTE E INVESTIGADOR LABORAL DE LA EHU:",
+        "pregunta": "136.- RESPECTO AL ANTICIPO DE NÓMINA DEL PERSONAL DOCENTE E INVESTIGADOR LABORAL DE LA EHU:",
         "opciones": {
           "A": "El importe máximo del adelanto a conceder será de 6.000 euros.",
           "B": "Deberá transcurrir un periodo mínimo de un año entre la cancelación de un adelanto de nómina y la solicitud de otro.",
@@ -1686,7 +1686,7 @@ const QUIZZES = {
       {
         "num": 137,
         "idpregunta": 137,
-        "pregunta": "CUÁL DE LAS SIGUIENTES AFIRMACIONES ES CIERTA RESPECTO A LA JORNADA LABORAL DEL PROFESORADO DE LA EHU:",
+        "pregunta": "137.- CUÁL DE LAS SIGUIENTES AFIRMACIONES ES CIERTA RESPECTO A LA JORNADA LABORAL DEL PROFESORADO DE LA EHU:",
         "opciones": {
           "A": "Las obligaciones docentes semanales de los Titulares de Universidad con régimen de dedicación a tiempo completo serán de un máximo de 12 horas lectivas.",
           "B": "Las obligaciones docentes semanales de los Asociados de Escuela Universitaria con régimen de dedicación a tiempo completo contemplan un máximo de 8 horas de tutoría.",
@@ -1698,7 +1698,7 @@ const QUIZZES = {
       {
         "num": 138,
         "idpregunta": 138,
-        "pregunta": "RESPECTO A LA DURACIÓN DEL CONTRATO DEL PERSONAL LABORAL DOCENTE E INVESTIGADOR DE LA EHU:",
+        "pregunta": "138.- RESPECTO A LA DURACIÓN DEL CONTRATO DEL PERSONAL LABORAL DOCENTE E INVESTIGADOR DE LA EHU:",
         "opciones": {
           "A": "El contrato de profesorado adjunto tendrá una duración máxima de 4 años.",
           "B": "El contrato de profesorado ayudante tendrá una duración mínima de 2 años.",
@@ -1710,7 +1710,7 @@ const QUIZZES = {
       {
         "num": 139,
         "idpregunta": 139,
-        "pregunta": "EN LOS PROCESOS SELECTIVOS DE PERSONAL FUNCIONARIO DE CARRERA PODRÁ APLICARSE ÚNICAMENTE EL SISTEMA DE CONCURSO:",
+        "pregunta": "139.- EN LOS PROCESOS SELECTIVOS DE PERSONAL FUNCIONARIO DE CARRERA PODRÁ APLICARSE ÚNICAMENTE EL SISTEMA DE CONCURSO:",
         "opciones": {
           "A": "En ningún caso.",
           "B": "Sólo en virtud de ley podrá aplicarse, y con carácter excepcional.",
@@ -1722,7 +1722,7 @@ const QUIZZES = {
       {
         "num": 140,
         "idpregunta": 140,
-        "pregunta": "¿QUÉ UNIVERSIDADES COMPONEN EL SISTEMA UNIVERSITARIO VASCO?",
+        "pregunta": "140.- ¿QUÉ UNIVERSIDADES COMPONEN EL SISTEMA UNIVERSITARIO VASCO?",
         "opciones": {
           "A": "El Sistema Universitario Vasco está formado por las universidades públicas con sede en el territorio de la Comunidad Autónoma Vasca.",
           "B": "El Sistema Universitario Vasco está formado por todas las universidades con sede en el territorio de la Comunidad Autónoma del País Vasco.",
@@ -1740,7 +1740,7 @@ const QUIZZES = {
       {
         "num": 141,
         "idpregunta": 141,
-        "pregunta": "LOS ACTOS ADMINISTRATIVOS SUJETOS A DERECHO ADMINISTRATIVO:",
+        "pregunta": "141.- LOS ACTOS ADMINISTRATIVOS SUJETOS A DERECHO ADMINISTRATIVO:",
         "opciones": {
           "A": "Se presumen válidos.",
           "B": "Se presumen expresos.",
@@ -1752,7 +1752,7 @@ const QUIZZES = {
       {
         "num": 142,
         "idpregunta": 142,
-        "pregunta": "DE ACUERDO CON LA LEY 3/2004 DEL SISTEMA UNIVERSITARIO VASCO UNA DE ESTAS AFIRMACIONES ES FALSA:",
+        "pregunta": "142.- DE ACUERDO CON LA LEY 3/2004 DEL SISTEMA UNIVERSITARIO VASCO UNA DE ESTAS AFIRMACIONES ES FALSA:",
         "opciones": {
           "A": "La comunidad universitaria está integrada por los estudiantes matriculados, el personal investigador, el personal docente e investigador y el PERSONAL técnico, de gestión y administración y servicios.",
           "B": "El reconocimiento de Universidades privadas se hará mediante ley.",
@@ -1764,7 +1764,7 @@ const QUIZZES = {
       {
         "num": 143,
         "idpregunta": 143,
-        "pregunta": "DE ACUERDO CON LOS ESTATUTOS DE LA EHU UNA DE ESTAS AFIRMACIONES ES FALSA:",
+        "pregunta": "143.- DE ACUERDO CON LOS ESTATUTOS DE LA EHU UNA DE ESTAS AFIRMACIONES ES FALSA:",
         "opciones": {
           "A": "La EHU es una Institución de Derecho Público, que goza de autonomía, está dotada de personalidad y capacidad jurídica, y sin patrimonio propio.",
           "B": "Es un fin de la EHU la educación superior de calidad que contribuya a la formación integral de los estudiantes.",
@@ -1776,7 +1776,7 @@ const QUIZZES = {
       {
         "num": 144,
         "idpregunta": 144,
-        "pregunta": "EN TODO CASO, LA EJECUCIÓN DE LA OFERTA PÚBLICA DE EMPLEO DEBERÁ DESARROLLARSE DENTRO DEL PLAZO IMPRORROGABLE DE:",
+        "pregunta": "144.- EN TODO CASO, LA EJECUCIÓN DE LA OFERTA PÚBLICA DE EMPLEO DEBERÁ DESARROLLARSE DENTRO DEL PLAZO IMPRORROGABLE DE:",
         "opciones": {
           "A": "Tres años.",
           "B": "Cuatro años.",
@@ -1788,7 +1788,7 @@ const QUIZZES = {
       {
         "num": 145,
         "idpregunta": 145,
-        "pregunta": "LA EHU:",
+        "pregunta": "145.- LA EHU:",
         "opciones": {
           "A": "Es una institución de Derecho Foral.",
           "B": "Es una institución de Derecho Civil.",
@@ -1800,7 +1800,7 @@ const QUIZZES = {
       {
         "num": 146,
         "idpregunta": 146,
-        "pregunta": "EL DL1/2023 DE 16 MARZO, POR EL QUE SE APRUEBA EL TEXTO REFUNDIDO DE LA LEY PARA LA IGUALDAD DE MUJERES Y HOMBRES Y VIDAS LIBRES DE VIOLENCIA MACHISTA PARA LAS MUJERES, ¿QUÉ PORCENTAJE MÍNIMO DE REPRESENTACIÓN DE CADA SEXO ESTABLECE PARA QUE EXISTA REPRESENTACIÓN EQUILIBRADA EN ÓRGANOS PLURIPERSONALES DE MÁS DE CUATRO MIEMBROS?",
+        "pregunta": "146.- EL DL1/2023 DE 16 MARZO, POR EL QUE SE APRUEBA EL TEXTO REFUNDIDO DE LA LEY PARA LA IGUALDAD DE MUJERES Y HOMBRES Y VIDAS LIBRES DE VIOLENCIA MACHISTA PARA LAS MUJERES, ¿QUÉ PORCENTAJE MÍNIMO DE REPRESENTACIÓN DE CADA SEXO ESTABLECE PARA QUE EXISTA REPRESENTACIÓN EQUILIBRADA EN ÓRGANOS PLURIPERSONALES DE MÁS DE CUATRO MIEMBROS?",
         "opciones": {
           "A": "30 %.",
           "B": "35 %.",
@@ -1812,7 +1812,7 @@ const QUIZZES = {
       {
         "num": 147,
         "idpregunta": 147,
-        "pregunta": "¿QUÉ TIPO DE PROFESORES COMPONEN LOS CUERPOS DOCENTES UNIVERSITARIOS?",
+        "pregunta": "147.- ¿QUÉ TIPO DE PROFESORES COMPONEN LOS CUERPOS DOCENTES UNIVERSITARIOS?",
         "opciones": {
           "A": "Catedráticos/as de universidad, profesores/as titulares de universidad, catedráticos/as de escuela universitaria y profesores/as titulares de escuela universitaria.",
           "B": "Catedráticos/as de universidad, catedráticos/as de escuela universitaria, profesores/as asociados/as y profesores/as visitantes.",
@@ -1824,7 +1824,7 @@ const QUIZZES = {
       {
         "num": 148,
         "idpregunta": 148,
-        "pregunta": "SEÑALE LA RESPUESTA CORRECTA:",
+        "pregunta": "148.- SEÑALE LA RESPUESTA CORRECTA:",
         "opciones": {
           "A": "El IV Plan de Igualdad de Mujeres y Hombres de la EHU abarca el periodo 2024/2028.",
           "B": "El II Plan de Igualdad de Mujeres y Hombres de la EHU abarca el periodo 2019/2022.",
@@ -1836,7 +1836,7 @@ const QUIZZES = {
       {
         "num": 149,
         "idpregunta": 149,
-        "pregunta": "LAS RELACIONES DE PUESTOS DE TRABAJO DEBERÁN INCLUIR:",
+        "pregunta": "149.- LAS RELACIONES DE PUESTOS DE TRABAJO DEBERÁN INCLUIR:",
         "opciones": {
           "A": "La totalidad de los existentes que se hallen dotados presupuestariamente.",
           "B": "Sólo los reservados a personal funcionario que se hallen dotados presupuestariamente.",
@@ -1848,7 +1848,7 @@ const QUIZZES = {
       {
         "num": 150,
         "idpregunta": 150,
-        "pregunta": "LOS DELEGADOS Y DELEGADAS DE PREVENCIÓN SON:",
+        "pregunta": "150.- LOS DELEGADOS Y DELEGADAS DE PREVENCIÓN SON:",
         "opciones": {
           "A": "Los/as responsables de diseñar los Planes de Emergencia.",
           "B": "Junto con los/as Técnicos/as de Prevención planificarán anualmente la actividad preventiva.",
@@ -1860,7 +1860,7 @@ const QUIZZES = {
       {
         "num": 151,
         "idpregunta": 151,
-        "pregunta": "NO ES FUNCIÓN DE LOS CENTROS DOCENTES",
+        "pregunta": "151.- NO ES FUNCIÓN DE LOS CENTROS DOCENTES",
         "opciones": {
           "A": "Adaptar y desarrollar en el Centro la planificación lingüística general.",
           "B": "Promover la realización de actividades de carácter científico.",
@@ -1872,7 +1872,7 @@ const QUIZZES = {
       {
         "num": 152,
         "idpregunta": 152,
-        "pregunta": "¿QUÉ TIPOS DE CENTROS UNIVERSITARIOS CONFIGURAN LA EHU?",
+        "pregunta": "152.- ¿QUÉ TIPOS DE CENTROS UNIVERSITARIOS CONFIGURAN LA EHU?",
         "opciones": {
           "A": "Propios y Sección de Centros.",
           "B": "Propios y adscritos.",
@@ -1884,7 +1884,7 @@ const QUIZZES = {
       {
         "num": 153,
         "idpregunta": 153,
-        "pregunta": "DE ACUERDO CON SUS ESTATUTOS Y EN EL MARCO DE LAS LEYES, LA EHU ACTÚA EN RÉGIMEN:",
+        "pregunta": "153.- DE ACUERDO CON SUS ESTATUTOS Y EN EL MARCO DE LAS LEYES, LA EHU ACTÚA EN RÉGIMEN:",
         "opciones": {
           "A": "Foral.",
           "B": "De autonomía.",
@@ -1896,7 +1896,7 @@ const QUIZZES = {
       {
         "num": 154,
         "idpregunta": 154,
-        "pregunta": "¿DE QUIÉN DEPENDE ORGÁNICA Y FUNCIONALMENTE LA GERENCIA?",
+        "pregunta": "154.- ¿DE QUIÉN DEPENDE ORGÁNICA Y FUNCIONALMENTE LA GERENCIA?",
         "opciones": {
           "A": "Del Consejo de Gobierno.",
           "B": "Del/la Vicerrector/a Asuntos Económicos.",
@@ -1908,7 +1908,7 @@ const QUIZZES = {
       {
         "num": 155,
         "idpregunta": 155,
-        "pregunta": "EL CONSEJO SOCIAL DE LA EHU",
+        "pregunta": "155.- EL CONSEJO SOCIAL DE LA EHU",
         "opciones": {
           "A": "Ejerce la potestad reglamentaria aprobando las normas de desarrollo y aplicación de los Estatutos de la EHU.",
           "B": "Puede crear las Comisiones que considere convenientes para el mejor ejercicio de sus funciones.",
@@ -1920,7 +1920,7 @@ const QUIZZES = {
       {
         "num": 156,
         "idpregunta": 156,
-        "pregunta": "PARA LA ELECCIÓN DE REPRESENTANTES AL CLAUSTRO UNIVERSITARIO POR EL PERSONAL DOCENTE E INVESTIGADOR PERMANENTE DOCTOR, LA DEMARCACIÓN ELECTORAL SERÁ:",
+        "pregunta": "156.- PARA LA ELECCIÓN DE REPRESENTANTES AL CLAUSTRO UNIVERSITARIO POR EL PERSONAL DOCENTE E INVESTIGADOR PERMANENTE DOCTOR, LA DEMARCACIÓN ELECTORAL SERÁ:",
         "opciones": {
           "A": "El Campus.",
           "B": "El Centro.",
@@ -1932,7 +1932,7 @@ const QUIZZES = {
       {
         "num": 157,
         "idpregunta": 157,
-        "pregunta": "LA LEY 39/2015, DE 1 DE OCTUBRE, DEL PROCEDIMIENTO ADMINISTRATIVO COMÚN DE LAS ADMINISTRACIONES PÚBLICAS SE APLICA AL SECTOR PÚBLICO QUE COMPRENDE...",
+        "pregunta": "157.- LA LEY 39/2015, DE 1 DE OCTUBRE, DEL PROCEDIMIENTO ADMINISTRATIVO COMÚN DE LAS ADMINISTRACIONES PÚBLICAS SE APLICA AL SECTOR PÚBLICO QUE COMPRENDE...",
         "opciones": {
           "A": "La Administración General del Estado y las Administraciones de las Comunidades Autónomas.",
           "B": "La Administración General del Estado y las Entidades que integran la Administración Local y el sector público institucional.",
@@ -1944,7 +1944,7 @@ const QUIZZES = {
       {
         "num": 158,
         "idpregunta": 158,
-        "pregunta": "SEGÚN EL ARTÍCULO 2 DE LA LEY 10/1982 BÁSICA DE NORMALIZACIÓN, DE NORMALIZACIÓN DEL USO DEL EUSKERA, LA LENGUA PROPIA DEL PAÍS VASCO ES:",
+        "pregunta": "158.- SEGÚN EL ARTÍCULO 2 DE LA LEY 10/1982 BÁSICA DE NORMALIZACIÓN, DE NORMALIZACIÓN DEL USO DEL EUSKERA, LA LENGUA PROPIA DEL PAÍS VASCO ES:",
         "opciones": {
           "A": "El euskera.",
           "B": "El euskera, aunque también se puede utilizar el castellano como lengua oficial.",
@@ -1956,7 +1956,7 @@ const QUIZZES = {
       {
         "num": 159,
         "idpregunta": 159,
-        "pregunta": "SEGÚN EL ARTÍCULO 15 DE LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, SE RECONOCE A TODO EL ALUMNADO EL DERECHO DE RECIBIR LA ENSEÑANZA ...:",
+        "pregunta": "159.- SEGÚN EL ARTÍCULO 15 DE LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, SE RECONOCE A TODO EL ALUMNADO EL DERECHO DE RECIBIR LA ENSEÑANZA ...:",
         "opciones": {
           "A": "....en euskera obligatoriamente en todos los niveles educativos.",
           "B": "...en castellano obligatoriamente en todos los niveles educativos.",
@@ -1968,7 +1968,7 @@ const QUIZZES = {
       {
         "num": 160,
         "idpregunta": 160,
-        "pregunta": "SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, EL GOBIERNO VASCO REGULARÁ LOS MODELOS LINGÜÍSTICOS A IMPARTIR EN CADA CENTRO EDUCATIVO TENIENDO EN CUENTA:",
+        "pregunta": "160.- SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, EL GOBIERNO VASCO REGULARÁ LOS MODELOS LINGÜÍSTICOS A IMPARTIR EN CADA CENTRO EDUCATIVO TENIENDO EN CUENTA:",
         "opciones": {
           "A": "La voluntad de los padres o tutores/as y la situación socio-lingüística de la zona.",
           "B": "La voluntad de los padres o tutores y la situación socio-económica de las familias.",
@@ -1980,7 +1980,7 @@ const QUIZZES = {
       {
         "num": 161,
         "idpregunta": 161,
-        "pregunta": "SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, LAS LENGUAS OFICIALES EN LA COMUNIDAD AUTÓNOMA DEL PAÍS VASCO, SON:",
+        "pregunta": "161.- SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, LAS LENGUAS OFICIALES EN LA COMUNIDAD AUTÓNOMA DEL PAÍS VASCO, SON:",
         "opciones": {
           "A": "El castellano, que es la única lengua oficial.",
           "B": "El euskera, que es la única lengua oficial.",
@@ -1992,7 +1992,7 @@ const QUIZZES = {
       {
         "num": 162,
         "idpregunta": 162,
-        "pregunta": "SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, EL EUSKERA ES:",
+        "pregunta": "162.- SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, EL EUSKERA ES:",
         "opciones": {
           "A": "La lengua propia del País Vasco, junto con el castellano.",
           "B": "La única lengua propia del País Vasco",
@@ -2004,7 +2004,7 @@ const QUIZZES = {
       {
         "num": 163,
         "idpregunta": 163,
-        "pregunta": "SEGÚN EL ARTÍCULO 14 DE LA 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, ¿CUÁL DE LAS SIGUIENTES AFIRMACIONES ES LA CORRECTA?",
+        "pregunta": "163.- SEGÚN EL ARTÍCULO 14 DE LA 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, ¿CUÁL DE LAS SIGUIENTES AFIRMACIONES ES LA CORRECTA?",
         "opciones": {
           "A": "Los poderes públicos adoptarán las medidas tendentes a la progresiva euskaldunización del personal afecto a la Administración Pública de la Comunidad Autónoma del País Vasco.",
           "B": "En las pruebas selectivas que se realicen para el acceso a las demás plazas se considerará, entre otros méritos, el nivel de conocimiento de las lenguas oficiales en la Comunidad Autónoma Vasca.",
@@ -2016,7 +2016,7 @@ const QUIZZES = {
       {
         "num": 164,
         "idpregunta": 164,
-        "pregunta": "SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, SE RECONOCEN A LOS/AS CIUDADANOS/AS DEL PAÍS VASCO LOS SIGUIENTES DERECHOS LINGÜÍSTICOS FUNDAMENTALES:",
+        "pregunta": "164.- SEGÚN LA LEY 10/1982, BÁSICA DE NORMALIZACIÓN DEL USO DEL EUSKERA, SE RECONOCEN A LOS/AS CIUDADANOS/AS DEL PAÍS VASCO LOS SIGUIENTES DERECHOS LINGÜÍSTICOS FUNDAMENTALES:",
         "opciones": {
           "A": "Derecho a recibir la enseñanza en ambas lenguas oficiales.",
           "B": "Derecho a recibir en euskera publicaciones periódicas, programaciones de radio y televisión y de otros medios de comunicación.",
@@ -2028,7 +2028,7 @@ const QUIZZES = {
       {
         "num": 165,
         "idpregunta": 165,
-        "pregunta": "LOS ACTOS ADMINISTRATIVOS PRODUCIDOS POR SILENCIO ADMINISTRATIVO SE DENOMINAN:",
+        "pregunta": "165.- LOS ACTOS ADMINISTRATIVOS PRODUCIDOS POR SILENCIO ADMINISTRATIVO SE DENOMINAN:",
         "opciones": {
           "A": "Resoluciones.",
           "B": "Actos de gravamen.",
@@ -2040,7 +2040,7 @@ const QUIZZES = {
       {
         "num": 166,
         "idpregunta": 166,
-        "pregunta": "LOS ACTOS ADMINISTRATIVOS QUE PONEN FIN A UN PROCEDIMIENTO SE DENOMINAN:",
+        "pregunta": "166.- LOS ACTOS ADMINISTRATIVOS QUE PONEN FIN A UN PROCEDIMIENTO SE DENOMINAN:",
         "opciones": {
           "A": "Actos de trámite.",
           "B": "Resoluciones.",
@@ -2052,7 +2052,7 @@ const QUIZZES = {
       {
         "num": 167,
         "idpregunta": 167,
-        "pregunta": "¿EN CUÁL DE LOS SIGUIENTES SUPUESTOS NO SE PODRÁ OTORGAR EFICACIA RETROACTIVA A UN ACTO ADMINISTRATIVO?",
+        "pregunta": "167.- ¿EN CUÁL DE LOS SIGUIENTES SUPUESTOS NO SE PODRÁ OTORGAR EFICACIA RETROACTIVA A UN ACTO ADMINISTRATIVO?",
         "opciones": {
           "A": "Cuando se trate de una resolución.",
           "B": "Cuando se trate de un acto sancionador.",
@@ -2064,7 +2064,7 @@ const QUIZZES = {
       {
         "num": 168,
         "idpregunta": 168,
-        "pregunta": "¿QUÉ RESPUESTA ES LA CORRECTA SEGÚN LOS ESTATUTOS DE LA EHU?",
+        "pregunta": "168.- ¿QUÉ RESPUESTA ES LA CORRECTA SEGÚN LOS ESTATUTOS DE LA EHU?",
         "opciones": {
           "A": "Las Escuelas, Facultades y Departamentos son los Centros encargados de la organización de la enseñanza, dirigiendo, coordinando y gestionando los procesos académicos conducentes a la obtención de títulos de grado u otras ofertas docentes.",
           "B": "Las Escuelas, Facultades y Departamentos son los Centros encargados de la organización de la enseñanza, dirigiendo, coordinando y gestionando procesos académicos y administrativos conducentes a la obtención de títulos de grado",
@@ -2082,7 +2082,7 @@ const QUIZZES = {
       {
         "num": 169,
         "idpregunta": 169,
-        "pregunta": "¿QUÉ RESPUESTA ES LA CORRECTA SEGÚN LOS ESTATUTOS DE LA EHU?",
+        "pregunta": "169.- ¿QUÉ RESPUESTA ES LA CORRECTA SEGÚN LOS ESTATUTOS DE LA EHU?",
         "opciones": {
           "A": "El/la Rector/a es la máxima autoridad académica universitaria de la EHU, ostenta su representación y ejerce su dirección y gobierno.",
           "B": "El/la Rector/a es la persona responsable de la organización y gestión de los servicios administrativos y económicos de la EHU, de acuerdo con las directrices marcadas por sus órganos de gobierno.",
@@ -2094,7 +2094,7 @@ const QUIZZES = {
       {
         "num": 170,
         "idpregunta": 170,
-        "pregunta": "LOS ÓRGANOS DE GOBIERNO, REPRESENTACIÓN, DIRECCIÓN Y GESTIÓN DE UN CENTRO DOCENTE SON AL MENOS LOS SIGUIENTES:",
+        "pregunta": "170.- LOS ÓRGANOS DE GOBIERNO, REPRESENTACIÓN, DIRECCIÓN Y GESTIÓN DE UN CENTRO DOCENTE SON AL MENOS LOS SIGUIENTES:",
         "opciones": {
           "A": "La Junta de Centro, el Decanato o la Dirección, y la Secretaría Académica.",
           "B": "La Junta de Centro, el Decanato o la Dirección, la Secretaría Académica y la Administración.",
@@ -2106,7 +2106,7 @@ const QUIZZES = {
       {
         "num": 171,
         "idpregunta": 171,
-        "pregunta": "DIGA CUÁL DE ESTAS AFIRMACIONES ES CORRECTA DE ACUERDO CON EL ART. 2 DEL REGLAMENTO MARCO DE LOS DEPARTAMENTOS DE LA EHU:",
+        "pregunta": "171.- DIGA CUÁL DE ESTAS AFIRMACIONES ES CORRECTA DE ACUERDO CON EL ART. 2 DEL REGLAMENTO MARCO DE LOS DEPARTAMENTOS DE LA EHU:",
         "opciones": {
           "A": "Los Departamentos determinan las necesidades de plantilla de profesores y PERSONAL técnico, de gestión y administración y servicios.",
           "B": "Los Departamentos eligen al Decano/a o Director/a del Centro.",
@@ -2118,7 +2118,7 @@ const QUIZZES = {
       {
         "num": 172,
         "idpregunta": 172,
-        "pregunta": "ENTRE LOS DEBERES DEL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS RECOGIDOS EN LOS ESTATUTOS FIGURA EL DE:",
+        "pregunta": "172.- ENTRE LOS DEBERES DEL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS RECOGIDOS EN LOS ESTATUTOS FIGURA EL DE:",
         "opciones": {
           "A": "Asegurar la continuidad en la buena marcha del servicio, en los supuestos de ausencia de las personas superiores jerárquicas, compañeras o subordinadas.",
           "B": "Conocer al detalle el plan de estudios de su centro, sabiendo distinguir entre asignaturas troncales y optativas.",
@@ -2130,7 +2130,7 @@ const QUIZZES = {
       {
         "num": 173,
         "idpregunta": 173,
-        "pregunta": "CORRESPONDE AL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS DE LA EHU:",
+        "pregunta": "173.- CORRESPONDE AL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS DE LA EHU:",
         "opciones": {
           "A": "El desarrollo de los procesos de gestión y de soporte necesarios para el cumplimiento por parte de la EHU de sus objetivos y funciones.",
           "B": "El apoyo, asistencia y asesoramiento a los órganos de gobierno universitario.",
@@ -2142,7 +2142,7 @@ const QUIZZES = {
       {
         "num": 174,
         "idpregunta": 174,
-        "pregunta": "EL/LA SECRETARIO/A ACADÉMICO/A DE UN CENTRO ES:",
+        "pregunta": "174.- EL/LA SECRETARIO/A ACADÉMICO/A DE UN CENTRO ES:",
         "opciones": {
           "A": "La persona que ejerce la dirección jerárquica del personal técnico, de gestión y administración y servicios de la Secretaría del Centro.",
           "B": "La persona fedataria de los actos y acuerdos de los órganos colegiados de gobierno, representación y administración del centro.",
@@ -2154,7 +2154,7 @@ const QUIZZES = {
       {
         "num": 175,
         "idpregunta": 175,
-        "pregunta": "(SEÑALE LA AFIRMACIÓN CORRECTA). ES PERSONAL FUNCIONARIO INTERINO:",
+        "pregunta": "175.- (SEÑALE LA AFIRMACIÓN CORRECTA). ES PERSONAL FUNCIONARIO INTERINO:",
         "opciones": {
           "A": "Quien en virtud de nombramiento y por razones de urgencia y necesidad sustituya a personal funcionario de carrera en el desempeño de su puesto de trabajo en los casos de ausencia temporal.",
           "B": "Quien en virtud de contrato laboral y por razones de urgencia sustituya a personal funcionario de carrera en el desempeño de su puesto de trabajo en los casos de ausencia temporal.",
@@ -2172,7 +2172,7 @@ const QUIZZES = {
       {
         "num": 176,
         "idpregunta": 176,
-        "pregunta": "DE LAS FUNCIONES SEÑALADAS, ¿CUÁL NO PUEDE DESEMPEÑARSE POR EL CAMPUS, SEGÚN LOS ESTATUTOS DE LA EHU?",
+        "pregunta": "176.- DE LAS FUNCIONES SEÑALADAS, ¿CUÁL NO PUEDE DESEMPEÑARSE POR EL CAMPUS, SEGÚN LOS ESTATUTOS DE LA EHU?",
         "opciones": {
           "A": "Adoptar, desarrollar y ejecutar Programas o Medidas Generales",
           "B": "Desarrollar y potenciar las relaciones institucionales, así como la extensión cultural y universitaria.",
@@ -2184,7 +2184,7 @@ const QUIZZES = {
       {
         "num": 177,
         "idpregunta": 177,
-        "pregunta": "SEGÚN LOS ESTATUTOS DE LA EHU, SON ENSEÑANZAS UNIVERSITARIAS:",
+        "pregunta": "177.- SEGÚN LOS ESTATUTOS DE LA EHU, SON ENSEÑANZAS UNIVERSITARIAS:",
         "opciones": {
           "A": "Las enseñanzas conducentes a la obtención de títulos oficiales reconocidos u homologados.",
           "B": "Las enseñanzas conducentes a la obtención del Título de Bachiller.",
@@ -2196,7 +2196,7 @@ const QUIZZES = {
       {
         "num": 178,
         "idpregunta": 178,
-        "pregunta": "DE LOS SIGUIENTES, INDIQUE EL ÚNICO QUE ES UN CENTRO ADSCRITO A LA EHU:",
+        "pregunta": "178.- DE LOS SIGUIENTES, INDIQUE EL ÚNICO QUE ES UN CENTRO ADSCRITO A LA EHU:",
         "opciones": {
           "A": "Escuela de Ingeniería de Gipuzkoa",
           "B": "Escuela de Ingeniería de Bilbao",
@@ -2208,7 +2208,7 @@ const QUIZZES = {
       {
         "num": 179,
         "idpregunta": 179,
-        "pregunta": "CONFORME AL PLAN ACTUAL DE IGUALDAD DE MUJERES Y HOMBRES LA EHU DEBE GARANTIZAR LA IGUALDAD:",
+        "pregunta": "179.- CONFORME AL PLAN ACTUAL DE IGUALDAD DE MUJERES Y HOMBRES LA EHU DEBE GARANTIZAR LA IGUALDAD:",
         "opciones": {
           "A": "Sólo en el PDI.",
           "B": "Sólo en el PTGAS.",
@@ -2220,7 +2220,7 @@ const QUIZZES = {
       {
         "num": 180,
         "idpregunta": 180,
-        "pregunta": "SEGÚN EL DL1/2023 DE 16 MARZO, POR EL QUE SE APRUEBA EL TEXTO REFUNDIDO DE LA LEY PARA LA IGUALDAD DE MUJERES Y HOMBRES Y VIDAS LIBRES DE VIOLENCIA MACHISTA PARA LAS MUJERES, LA FORMACIÓN EN MATERIA DE IGUALDAD DE MUJERES Y HOMBRES PARA EL PERSONAL DE LOS PODERES PÚBLICOS VASCOS DEBE SER:",
+        "pregunta": "180.- SEGÚN EL DL1/2023 DE 16 MARZO, POR EL QUE SE APRUEBA EL TEXTO REFUNDIDO DE LA LEY PARA LA IGUALDAD DE MUJERES Y HOMBRES Y VIDAS LIBRES DE VIOLENCIA MACHISTA PARA LAS MUJERES, LA FORMACIÓN EN MATERIA DE IGUALDAD DE MUJERES Y HOMBRES PARA EL PERSONAL DE LOS PODERES PÚBLICOS VASCOS DEBE SER:",
         "opciones": {
           "A": "Voluntaria, progresiva y periódica.",
           "B": "Básica, progresiva, permanente y obligatoria.",
@@ -2232,7 +2232,7 @@ const QUIZZES = {
       {
         "num": 181,
         "idpregunta": 181,
-        "pregunta": "RELACIONADO CON EL PRESUPUESTO DE UNA ENTIDAD PÚBLICA, SEÑALA LA AFIRMACIÓN CORRECTA:",
+        "pregunta": "181.- RELACIONADO CON EL PRESUPUESTO DE UNA ENTIDAD PÚBLICA, SEÑALA LA AFIRMACIÓN CORRECTA:",
         "opciones": {
           "A": "Los Presupuestos de una Entidad Pública están constituidos por las obligaciones que prevé reconocer durante el ejercicio correspondiente y por los derechos, que como máximo, puede liquidar dicha Entidad.",
           "B": "Los Presupuestos de una Entidad Pública están constituidos por las obligaciones y derechos, que como máximo, puede reconocer dicha Entidad.",
@@ -2250,7 +2250,7 @@ const QUIZZES = {
       {
         "num": 182,
         "idpregunta": 182,
-        "pregunta": "EL PROYECTO DE LEY DE PRESUPUESTOS DE EUSKADI SE PRESENTARÁ ANTE EL PARLAMENTO:",
+        "pregunta": "182.- EL PROYECTO DE LEY DE PRESUPUESTOS DE EUSKADI SE PRESENTARÁ ANTE EL PARLAMENTO:",
         "opciones": {
           "A": "por el Gobierno, con anterioridad al 1 de noviembre del ejercicio anterior a que se refiere el citado proyecto.",
           "B": "por el Departamento de Hacienda y Administración Pública.",
@@ -2262,7 +2262,7 @@ const QUIZZES = {
       {
         "num": 183,
         "idpregunta": 183,
-        "pregunta": "LOS PRESUPUESTOS GENERALES DE EUSKADI ESTÁN INTEGRADOS POR LOS CORRESPONDIENTES A CADA UNA DE LAS ENTIDADES QUE COMPONEN EL SECTOR PÚBLICO DE LA COMUNIDAD:",
+        "pregunta": "183.- LOS PRESUPUESTOS GENERALES DE EUSKADI ESTÁN INTEGRADOS POR LOS CORRESPONDIENTES A CADA UNA DE LAS ENTIDADES QUE COMPONEN EL SECTOR PÚBLICO DE LA COMUNIDAD:",
         "opciones": {
           "A": "Administración de la Comunidad Autónoma, sociedades públicas y fundaciones del sector público de la Comunidad Autónoma.",
           "B": "Administración de la Comunidad Autónoma, organismos autónomos, sociedades públicas, fundaciones del sector público de la Comunidad Autónoma y consorcios del sector público de la Comunidad Autónoma.",
@@ -2274,7 +2274,7 @@ const QUIZZES = {
       {
         "num": 184,
         "idpregunta": 184,
-        "pregunta": "QUÉ RESPUESTA NO ES CORRECTA SOBRE LOS PRESUPUESTOS GENERALES:",
+        "pregunta": "184.- QUÉ RESPUESTA NO ES CORRECTA SOBRE LOS PRESUPUESTOS GENERALES:",
         "opciones": {
           "A": "Los presupuestos son una previsión de ingresos y gastos para un periodo de tiempo.",
           "B": "Los presupuestos se basan en la certeza de unos ingresos y en la previsión de unos gastos.",
@@ -2286,7 +2286,7 @@ const QUIZZES = {
       {
         "num": 185,
         "idpregunta": 185,
-        "pregunta": "SEGÚN LOS ESTATUTOS DE LA EHU, NO SE CONSIDERAN REMANENTES ESPECÍFICOS Y, POR LO TANTO, NO GENERAN CRÉDITO EN EL EJERCICIO SIGUIENTE:",
+        "pregunta": "185.- SEGÚN LOS ESTATUTOS DE LA EHU, NO SE CONSIDERAN REMANENTES ESPECÍFICOS Y, POR LO TANTO, NO GENERAN CRÉDITO EN EL EJERCICIO SIGUIENTE:",
         "opciones": {
           "A": "Los créditos pendientes de ejecución correspondientes a proyectos e infraestructuras de investigación.",
           "B": "Los créditos pendientes de ejecución y que han sido dotados con la subvención ordinaria de la Comunidad Autónoma del País Vasco.",
@@ -2298,7 +2298,7 @@ const QUIZZES = {
       {
         "num": 186,
         "idpregunta": 186,
-        "pregunta": "SEGÚN LOS ESTATUTOS DE LA UNIVERSIDAD, LAS ACTIVIDADES ORDINARIAS DE LA EHU SON CUBIERTAS POR:",
+        "pregunta": "186.- SEGÚN LOS ESTATUTOS DE LA UNIVERSIDAD, LAS ACTIVIDADES ORDINARIAS DE LA EHU SON CUBIERTAS POR:",
         "opciones": {
           "A": "Los rendimientos procedentes de su patrimonio.",
           "B": "Los ingresos procedentes de los contratos previstos en el art.83 de la Ley Orgánica 6/2000, de Universidades, de acuerdo con el régimen económico que para dichos contratos establezca el Consejo de Gobierno.",
@@ -2310,7 +2310,7 @@ const QUIZZES = {
       {
         "num": 187,
         "idpregunta": 187,
-        "pregunta": "EL ACTO POR EL CUAL SE FORMALIZA LA REALIZACIÓN CONCRETA DE OBRAS Y LA PRESTACIÓN O SUMINISTRO DE BIENES Y SERVICIOS CON LA CONSIGUIENTE RESERVA DE CRÉDITO DE PAGO POR IMPORTE Y CONDICIONES EXACTAMENTE DETERMINADAS, ES:",
+        "pregunta": "187.- EL ACTO POR EL CUAL SE FORMALIZA LA REALIZACIÓN CONCRETA DE OBRAS Y LA PRESTACIÓN O SUMINISTRO DE BIENES Y SERVICIOS CON LA CONSIGUIENTE RESERVA DE CRÉDITO DE PAGO POR IMPORTE Y CONDICIONES EXACTAMENTE DETERMINADAS, ES:",
         "opciones": {
           "A": "La autorización del gasto.",
           "B": "La disposición del gasto.",
@@ -2322,7 +2322,7 @@ const QUIZZES = {
       {
         "num": 188,
         "idpregunta": 188,
-        "pregunta": "CONFORME AL ARTÍCULO 133 DE LOS ESTATUTOS DE LA EHU PARA LA CONSTITUCIÓN DE UN DEPARTAMENTO EL NÚMERO MÍNIMO DE PDI SERÁ:",
+        "pregunta": "188.- CONFORME AL ARTÍCULO 133 DE LOS ESTATUTOS DE LA EHU PARA LA CONSTITUCIÓN DE UN DEPARTAMENTO EL NÚMERO MÍNIMO DE PDI SERÁ:",
         "opciones": {
           "A": "12 personas del personal docente e investigador con vinculación permanente a tiempo completo o equivalente que deberán ser, además, doctores/as y, al menos, una dotación de personal técnico, de gestión y administración y servicios.",
           "B": "18 personas del personal docente e investigador con vinculación permanente a tiempo completo o equivalente, de las cuales, al menos 12 serán doctores/as.",
@@ -2340,7 +2340,7 @@ const QUIZZES = {
       {
         "num": 189,
         "idpregunta": 189,
-        "pregunta": "LOS DEPARTAMENTOS UNIVERSITARIOS SON LOS ENCARGADOS DE COORDINAR E IMPARTIR LAS ENSEÑANZAS EN UNO O VARIOS CENTROS ¿CUÁL ES EL CRITERIO DE CONSTITUCIÓN DE LOS DEPARTAMENTOS?",
+        "pregunta": "189.- LOS DEPARTAMENTOS UNIVERSITARIOS SON LOS ENCARGADOS DE COORDINAR E IMPARTIR LAS ENSEÑANZAS EN UNO O VARIOS CENTROS ¿CUÁL ES EL CRITERIO DE CONSTITUCIÓN DE LOS DEPARTAMENTOS?",
         "opciones": {
           "A": "Por ámbitos de conocimiento.",
           "B": "Por Centros en los que imparten docencia.",
@@ -2352,7 +2352,7 @@ const QUIZZES = {
       {
         "num": 190,
         "idpregunta": 190,
-        "pregunta": "DE ACUERDO CON LOS ESTATUTOS DE LA EHU, LA DIRECCIÓN FUNCIONAL DEL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS DE LOS DEPARTAMENTOS LE CORRESPONDE:",
+        "pregunta": "190.- DE ACUERDO CON LOS ESTATUTOS DE LA EHU, LA DIRECCIÓN FUNCIONAL DEL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS DE LOS DEPARTAMENTOS LE CORRESPONDE:",
         "opciones": {
           "A": "Al Decano o Director del Centro.",
           "B": "Al Administrador del Centro.",
@@ -2364,7 +2364,7 @@ const QUIZZES = {
       {
         "num": 191,
         "idpregunta": 191,
-        "pregunta": "¿CÚAL DE LOS SIGUIENTES ELEMENTOS NO ES SOFTWARE?:",
+        "pregunta": "191.- ¿CÚAL DE LOS SIGUIENTES ELEMENTOS NO ES SOFTWARE?:",
         "opciones": {
           "A": "Hoja de cálculo.",
           "B": "Procesador de texto.",
@@ -2376,7 +2376,7 @@ const QUIZZES = {
       {
         "num": 192,
         "idpregunta": 192,
-        "pregunta": "DE LOS SIGUIENTES DISPOSITIVOS CUAL NO PERTENECE A LA PERIFERIA DE UN ORDENADOR:",
+        "pregunta": "192.- DE LOS SIGUIENTES DISPOSITIVOS CUAL NO PERTENECE A LA PERIFERIA DE UN ORDENADOR:",
         "opciones": {
           "A": "El escáner.",
           "B": "El teclado.",
@@ -2388,7 +2388,7 @@ const QUIZZES = {
       {
         "num": 193,
         "idpregunta": 193,
-        "pregunta": "¿QUE ES UNA INTRANET?",
+        "pregunta": "193.- ¿QUE ES UNA INTRANET?",
         "opciones": {
           "A": "Es una red privada ubicada en Internet a la que sólo pueden acceder un grupo de usuarios/as cumpliendo unas condiciones determinadas.",
           "B": "Es una red privada y clandestina ubicada en Internet.",
@@ -2400,7 +2400,7 @@ const QUIZZES = {
       {
         "num": 194,
         "idpregunta": 194,
-        "pregunta": "EL TÉRMINO \"MULTIMEDIA\" ESTÁ ASOCIADO:",
+        "pregunta": "194.- EL TÉRMINO \"MULTIMEDIA\" ESTÁ ASOCIADO:",
         "opciones": {
           "A": "Al manejo exclusivo de texto.",
           "B": "Al manejo exclusivo de texto y gráficos.",
@@ -2412,7 +2412,7 @@ const QUIZZES = {
       {
         "num": 195,
         "idpregunta": 195,
-        "pregunta": "¿QUÉ SIGNIFICADO TIENE EL QUE UNA HERRAMIENTA SEA MULTIPLATAFORMA?:",
+        "pregunta": "195.- ¿QUÉ SIGNIFICADO TIENE EL QUE UNA HERRAMIENTA SEA MULTIPLATAFORMA?:",
         "opciones": {
           "A": "Que puede correr en máquinas con múltiples procesadores.",
           "B": "Que es independiente del hardware y del Sistema Operativo de la máquina en la que se ejecuta.",
@@ -2424,7 +2424,7 @@ const QUIZZES = {
       {
         "num": 196,
         "idpregunta": 196,
-        "pregunta": "EN EL PAQUETE OFIMÁTICO MICROSOFT OFFICE LA HERRAMIENTA DE BASE DE DATOS ES:",
+        "pregunta": "196.- EN EL PAQUETE OFIMÁTICO MICROSOFT OFFICE LA HERRAMIENTA DE BASE DE DATOS ES:",
         "opciones": {
           "A": "Access.",
           "B": "Word.",
@@ -2436,7 +2436,7 @@ const QUIZZES = {
       {
         "num": 197,
         "idpregunta": 197,
-        "pregunta": "LA HERRAMIENTA \"POWER POINT\" LA RELACIONARÍA PRINCIPALMENTE CON:",
+        "pregunta": "197.- LA HERRAMIENTA \"POWER POINT\" LA RELACIONARÍA PRINCIPALMENTE CON:",
         "opciones": {
           "A": "Exposiciones y presentaciones.",
           "B": "Control de agendas.",
@@ -2448,7 +2448,7 @@ const QUIZZES = {
       {
         "num": 198,
         "idpregunta": 198,
-        "pregunta": "UNA DE LAS FUNCIONALIDADES COMUNES A LA MAYOR PARTE DE PRODUCTOS OFIMÁTICOS ES LA DISPONIBILIDAD DE BARRAS DE BOTONES. EL OBJETIVO DE LAS MISMAS ES:",
+        "pregunta": "198.- UNA DE LAS FUNCIONALIDADES COMUNES A LA MAYOR PARTE DE PRODUCTOS OFIMÁTICOS ES LA DISPONIBILIDAD DE BARRAS DE BOTONES. EL OBJETIVO DE LAS MISMAS ES:",
         "opciones": {
           "A": "Evitar la utilización del ratón.",
           "B": "Proporcionar acceso rápido a funcionalidades que pueden hacerse a través del teclado o a través de comandos del menú.",
@@ -2460,7 +2460,7 @@ const QUIZZES = {
       {
         "num": 199,
         "idpregunta": 199,
-        "pregunta": "SI DESEO INTERCAMBIAR INFORMACIÓN ENTRE APLICACIONES, ÉSTAS DEBERÁN SER:",
+        "pregunta": "199.- SI DESEO INTERCAMBIAR INFORMACIÓN ENTRE APLICACIONES, ÉSTAS DEBERÁN SER:",
         "opciones": {
           "A": "Complementarias.",
           "B": "Amigables.",
@@ -2472,7 +2472,7 @@ const QUIZZES = {
       {
         "num": 200,
         "idpregunta": 200,
-        "pregunta": "LAS CONDICIONES DE ESPECIAL DIFICULTAD TÉCNICA, DEDICACIÓN, RESPONSABILIDAD, INCOMPATIBILIDAD Y PELIGROSIDAD O PENOSIDAD DE UN PUESTO DE TRABAJO SON RETRIBUIDAS POR:",
+        "pregunta": "200.- LAS CONDICIONES DE ESPECIAL DIFICULTAD TÉCNICA, DEDICACIÓN, RESPONSABILIDAD, INCOMPATIBILIDAD Y PELIGROSIDAD O PENOSIDAD DE UN PUESTO DE TRABAJO SON RETRIBUIDAS POR:",
         "opciones": {
           "A": "El sueldo.",
           "B": "El sueldo y el complemento de destino.",
@@ -2484,7 +2484,7 @@ const QUIZZES = {
       {
         "num": 201,
         "idpregunta": 201,
-        "pregunta": "EL TÉRMINO \"OFIMÁTICA\" SE ASOCIA A:",
+        "pregunta": "201.- EL TÉRMINO \"OFIMÁTICA\" SE ASOCIA A:",
         "opciones": {
           "A": "Automatización de las oficinas y de los procesos allí realizados.",
           "B": "A la informática de forma general.",
@@ -2496,7 +2496,7 @@ const QUIZZES = {
       {
         "num": 202,
         "idpregunta": 202,
-        "pregunta": "EN TÉRMINOS INFORMÁTICOS CUANDO HABLAMOS DE UN \"TUTORIAL\" ESTAMOS HACIENDO REFERENCIA A:",
+        "pregunta": "202.- EN TÉRMINOS INFORMÁTICOS CUANDO HABLAMOS DE UN \"TUTORIAL\" ESTAMOS HACIENDO REFERENCIA A:",
         "opciones": {
           "A": "Punto de consulta telefónica sobre un producto.",
           "B": "Tipo de ayuda a modo libro en formato electrónico donde se describen las principales características y funcionalidades de un producto.",
@@ -2508,7 +2508,7 @@ const QUIZZES = {
       {
         "num": 203,
         "idpregunta": 203,
-        "pregunta": "LA CORRECCIÓN ORTOGRÁFICA EN UN PROCESADOR DE TEXTO HACE USO DEL:",
+        "pregunta": "203.- LA CORRECCIÓN ORTOGRÁFICA EN UN PROCESADOR DE TEXTO HACE USO DEL:",
         "opciones": {
           "A": "Ratón.",
           "B": "Teclado.",
@@ -2520,7 +2520,7 @@ const QUIZZES = {
       {
         "num": 204,
         "idpregunta": 204,
-        "pregunta": "LAS LICENCIAS POR PATERNIDAD:",
+        "pregunta": "204.- LAS LICENCIAS POR PATERNIDAD:",
         "opciones": {
           "A": "Su concesión se condiciona a la autorización del superior jerárquico.",
           "B": "Serán retribuidas.",
@@ -2532,7 +2532,7 @@ const QUIZZES = {
       {
         "num": 205,
         "idpregunta": 205,
-        "pregunta": "(SEÑALE LA RESPUESTA CORRECTA). LOS PERMISOS POR ASUNTOS PROPIOS:",
+        "pregunta": "205.- (SEÑALE LA RESPUESTA CORRECTA). LOS PERMISOS POR ASUNTOS PROPIOS:",
         "opciones": {
           "A": "No darán lugar a retribución alguna.",
           "B": "Su duración acumulada no podrá exceder de tres meses cada dos años.",
@@ -2544,7 +2544,7 @@ const QUIZZES = {
       {
         "num": 206,
         "idpregunta": 206,
-        "pregunta": "EN LA EHU LA ELABORACIÓN DE LOS PLANES DE FORMACIÓN DEL PERSONAL CORRESPONDE A:",
+        "pregunta": "206.- EN LA EHU LA ELABORACIÓN DE LOS PLANES DE FORMACIÓN DEL PERSONAL CORRESPONDE A:",
         "opciones": {
           "A": "La Comisión de Planificación.",
           "B": "El Comité de Planes Formativos.",
@@ -2556,7 +2556,7 @@ const QUIZZES = {
       {
         "num": 207,
         "idpregunta": 207,
-        "pregunta": "LA REDUCCIÓN DE LA JORNADA LABORAL PODRÁ CONCEDERSE, ENTRE OTRAS SITUACIONES, POR UNA DE LAS SIGUIENTES:",
+        "pregunta": "207.- LA REDUCCIÓN DE LA JORNADA LABORAL PODRÁ CONCEDERSE, ENTRE OTRAS SITUACIONES, POR UNA DE LAS SIGUIENTES:",
         "opciones": {
           "A": "Guarda legal de menor de doce años.",
           "B": "Cuidado de parientes de hasta 2º grado de consanguinidad o afinidad.",
@@ -2568,7 +2568,7 @@ const QUIZZES = {
       {
         "num": 208,
         "idpregunta": 208,
-        "pregunta": "A EFECTOS DE LA CONCESIÓN DE LICENCIAS NO SE CONSIDERAN DEBERES INEXCUSABLES DE CARÁCTER PÚBLICO O PERSONAL:",
+        "pregunta": "208.- A EFECTOS DE LA CONCESIÓN DE LICENCIAS NO SE CONSIDERAN DEBERES INEXCUSABLES DE CARÁCTER PÚBLICO O PERSONAL:",
         "opciones": {
           "A": "Examen del carnet de conducir.",
           "B": "Citaciones en Juzgados.",
@@ -2580,7 +2580,7 @@ const QUIZZES = {
       {
         "num": 209,
         "idpregunta": 209,
-        "pregunta": "DE ENTRE LOS SIGUIENTES SÓLO UN PUESTO DE TRABAJO CORRESPONDE AL PERSONAL FUNCIONARIO DE LA EHU.",
+        "pregunta": "209.- DE ENTRE LOS SIGUIENTES SÓLO UN PUESTO DE TRABAJO CORRESPONDE AL PERSONAL FUNCIONARIO DE LA EHU.",
         "opciones": {
           "A": "Técnico/a Auxiliar de Biblioteca.",
           "B": "Técnico/a Especialista de Laboratorio.",
@@ -2592,7 +2592,7 @@ const QUIZZES = {
       {
         "num": 210,
         "idpregunta": 210,
-        "pregunta": "AL ACERCARSE UNA PERSONA A UN PUESTO DE INFORMACIÓN AL PÚBLICO, LO MÁS APROPIADO ES QUE EL PERSONAL QUE ESTÉ ATENDIENDO:",
+        "pregunta": "210.- AL ACERCARSE UNA PERSONA A UN PUESTO DE INFORMACIÓN AL PÚBLICO, LO MÁS APROPIADO ES QUE EL PERSONAL QUE ESTÉ ATENDIENDO:",
         "opciones": {
           "A": "Le mire seriamente sin hacer ningún gesto de aproximación.",
           "B": "Siga realizando cualquier tarea indiferentemente.",
@@ -2604,7 +2604,7 @@ const QUIZZES = {
       {
         "num": 211,
         "idpregunta": 211,
-        "pregunta": "LOS ELEMENTOS BÁSICOS EN LA COMUNICACIÓN SON:",
+        "pregunta": "211.- LOS ELEMENTOS BÁSICOS EN LA COMUNICACIÓN SON:",
         "opciones": {
           "A": "Persona emisora, mensaje, canal, persona receptora, código, ruido y retroalimentación.",
           "B": "Persona emisora, persona receptora y mensaje.",
@@ -2616,7 +2616,7 @@ const QUIZZES = {
       {
         "num": 212,
         "idpregunta": 212,
-        "pregunta": "LA COMUNICACIÓN SUPONE UN PROCESO DE TRANSMISIÓN Y COMPRENSIÓN DE UN MENSAJE QUE SE DA:",
+        "pregunta": "212.- LA COMUNICACIÓN SUPONE UN PROCESO DE TRANSMISIÓN Y COMPRENSIÓN DE UN MENSAJE QUE SE DA:",
         "opciones": {
           "A": "Unidireccionalmente, de la persona receptora a la emisora.",
           "B": "Unidireccionalmente, de la persona emisora a la receptora.",
@@ -2628,7 +2628,7 @@ const QUIZZES = {
       {
         "num": 213,
         "idpregunta": 213,
-        "pregunta": "PARA CONSEGUIR QUE UNA COMUNICACIÓN SEA CORRECTA:",
+        "pregunta": "213.- PARA CONSEGUIR QUE UNA COMUNICACIÓN SEA CORRECTA:",
         "opciones": {
           "A": "Es conveniente utilizar expresiones vacilantes o inseguras.",
           "B": "Es positivo el uso de palabras malsonantes para afianzar nuestra situación.",
@@ -2640,7 +2640,7 @@ const QUIZZES = {
       {
         "num": 214,
         "idpregunta": 214,
-        "pregunta": "EN UN PROCESO DE COMUNICACIÓN, SE DENOMINA \"FEEDBACK\":",
+        "pregunta": "214.- EN UN PROCESO DE COMUNICACIÓN, SE DENOMINA \"FEEDBACK\":",
         "opciones": {
           "A": "Al método por el que se capta la atención de la persona receptora.",
           "B": "A la información que recoge la persona emisora sobre los efectos que su comunicación produce en la persona receptora.",
@@ -2652,7 +2652,7 @@ const QUIZZES = {
       {
         "num": 215,
         "idpregunta": 215,
-        "pregunta": "SE CONSIDERA QUE UNA COMUNICACIÓN SE HA REALIZADO CON ÉXITO:",
+        "pregunta": "215.- SE CONSIDERA QUE UNA COMUNICACIÓN SE HA REALIZADO CON ÉXITO:",
         "opciones": {
           "A": "Si la persona emisora se ha expresado de forma nítida.",
           "B": "Al comprobar la persona emisora que su mensaje ha sido entendido.",
@@ -2664,7 +2664,7 @@ const QUIZZES = {
       {
         "num": 216,
         "idpregunta": 216,
-        "pregunta": "PARA PODER TRASMITIR CORRECTAMENTE UNA INFORMACIÓN:",
+        "pregunta": "216.- PARA PODER TRASMITIR CORRECTAMENTE UNA INFORMACIÓN:",
         "opciones": {
           "A": "Es importante captar la atención de la persona interlocutora.",
           "B": "Es necesario conocer bien a la persona interlocutora.",
@@ -2676,7 +2676,7 @@ const QUIZZES = {
       {
         "num": 217,
         "idpregunta": 217,
-        "pregunta": "LA INFORMACIÓN QUE RECIBE EL/LA CIUDADANO/A EN SUS TRÁMITES CON LA ADMINISTRACIÓN DEBE SER:",
+        "pregunta": "217.- LA INFORMACIÓN QUE RECIBE EL/LA CIUDADANO/A EN SUS TRÁMITES CON LA ADMINISTRACIÓN DEBE SER:",
         "opciones": {
           "A": "Clara.",
           "B": "Incoherente.",
@@ -2688,7 +2688,7 @@ const QUIZZES = {
       {
         "num": 218,
         "idpregunta": 218,
-        "pregunta": "EL/LA CIUDADANO/A NECESITA EN SUS TRÁMITES CON LA ADMINISTRACIÓN QUE EL/LA FUNCIONARIO/A:",
+        "pregunta": "218.- EL/LA CIUDADANO/A NECESITA EN SUS TRÁMITES CON LA ADMINISTRACIÓN QUE EL/LA FUNCIONARIO/A:",
         "opciones": {
           "A": "Dé respuesta a sus necesidades de información.",
           "B": "Preste ayuda para esos trámites.",
@@ -2700,7 +2700,7 @@ const QUIZZES = {
       {
         "num": 219,
         "idpregunta": 219,
-        "pregunta": "CUANDO NOS VIENE UN/A CIUDADANO/A CON UN COMPORTAMIENTO AGRESIVO DEBEMOS:",
+        "pregunta": "219.- CUANDO NOS VIENE UN/A CIUDADANO/A CON UN COMPORTAMIENTO AGRESIVO DEBEMOS:",
         "opciones": {
           "A": "Tender a realizar juicios, a buscarle defectos, a exigirle.",
           "B": "Hacerle ver que la culpa es suya.",
@@ -2712,7 +2712,7 @@ const QUIZZES = {
       {
         "num": 220,
         "idpregunta": 220,
-        "pregunta": "¿CÚAL DE ESTAS AFIRMACIONES ES CORRECTA EN LA ATENCIÓN AL CIUDADANO/A?:",
+        "pregunta": "220.- ¿CÚAL DE ESTAS AFIRMACIONES ES CORRECTA EN LA ATENCIÓN AL CIUDADANO/A?:",
         "opciones": {
           "A": "La comunicación ha de organizarse sin eliminar los prejuicios personales.",
           "B": "La comunicación ha de organizarse sin prever el comportamiento del receptor/a.",
@@ -2724,7 +2724,7 @@ const QUIZZES = {
       {
         "num": 221,
         "idpregunta": 221,
-        "pregunta": "PARA CONSEGUIR LA PARTICIPACIÓN DE NUESTRO INTERLOCUTOR/A EN LA COMUNICACIÓN, DEBEMOS:",
+        "pregunta": "221.- PARA CONSEGUIR LA PARTICIPACIÓN DE NUESTRO INTERLOCUTOR/A EN LA COMUNICACIÓN, DEBEMOS:",
         "opciones": {
           "A": "Adoptar una escucha pasiva, confundiendo escuchar con oír.",
           "B": "Comprender al emisor/a y su mensaje asegurándonos de que hemos entendido.",
@@ -2736,7 +2736,7 @@ const QUIZZES = {
       {
         "num": 222,
         "idpregunta": 222,
-        "pregunta": "ENTRE LAS CAUSAS DE LOS FALLOS EN LA COMUNICACIÓN ESTÁN:",
+        "pregunta": "222.- ENTRE LAS CAUSAS DE LOS FALLOS EN LA COMUNICACIÓN ESTÁN:",
         "opciones": {
           "A": "Enviamos mensajes bien elaborados y vocalizamos adecuadamente.",
           "B": "Sabemos escuchar.",
@@ -2748,7 +2748,7 @@ const QUIZZES = {
       {
         "num": 223,
         "idpregunta": 223,
-        "pregunta": "¿COMO DEBEMOS ATENDER LAS RECLAMACIONES DEL CIUDADANO/A?",
+        "pregunta": "223.- ¿COMO DEBEMOS ATENDER LAS RECLAMACIONES DEL CIUDADANO/A?",
         "opciones": {
           "A": "Recoger con calma y consideración la reclamación",
           "B": "Dejar hablar, escuchar y no entrar en la discusión.",
@@ -2760,7 +2760,7 @@ const QUIZZES = {
       {
         "num": 224,
         "idpregunta": 224,
-        "pregunta": "LA ESCUCHA ACTIVA:",
+        "pregunta": "224.- LA ESCUCHA ACTIVA:",
         "opciones": {
           "A": "Es un conjunto de acciones no verbales destinadas a la consecución de una escucha positiva.",
           "B": "Es una comunicación bidireccional.",
@@ -2772,7 +2772,7 @@ const QUIZZES = {
       {
         "num": 225,
         "idpregunta": 225,
-        "pregunta": "(SEÑALE LA RESPUESTA INCORRECTA). SEGÚN EL ARTÍCULO 11.2 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, ES OBLIGATORIA LA FIRMA POR PARTE DE LOS/AS INTERESADOS/AS PARA...",
+        "pregunta": "225.- (SEÑALE LA RESPUESTA INCORRECTA). SEGÚN EL ARTÍCULO 11.2 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, ES OBLIGATORIA LA FIRMA POR PARTE DE LOS/AS INTERESADOS/AS PARA...",
         "opciones": {
           "A": "Formular solicitudes.",
           "B": "Presentar declaraciones responsables o comunicaciones.",
@@ -2784,7 +2784,7 @@ const QUIZZES = {
       {
         "num": 226,
         "idpregunta": 226,
-        "pregunta": "SI EL/LA FUNCIONARIO/A ATIENDE UNA LLAMADA DIRECTAMENTE, DEBERÁ EN PRIMER LUGAR:",
+        "pregunta": "226.- SI EL/LA FUNCIONARIO/A ATIENDE UNA LLAMADA DIRECTAMENTE, DEBERÁ EN PRIMER LUGAR:",
         "opciones": {
           "A": "Dar los buenos días/tardes y preguntar qué desea.",
           "B": "Preguntar el nombre de la persona usuaria.",
@@ -2796,7 +2796,7 @@ const QUIZZES = {
       {
         "num": 227,
         "idpregunta": 227,
-        "pregunta": "EL/LA FUNCIONARIO/A QUE RECIBE UNA RECLAMACIÓN DE UNA PERSONA USUARIA:",
+        "pregunta": "227.- EL/LA FUNCIONARIO/A QUE RECIBE UNA RECLAMACIÓN DE UNA PERSONA USUARIA:",
         "opciones": {
           "A": "Ha de negarse a recibirla.",
           "B": "Debe convencer a la persona usuaria que no la presente.",
@@ -2808,7 +2808,7 @@ const QUIZZES = {
       {
         "num": 228,
         "idpregunta": 228,
-        "pregunta": "LA SOCIEDAD, EN LA QUE SE PRODUCE UN DESEQUILIBRIO EN EL REPARTO DEL PODER, BENEFICIANDO A LOS HOMBRES EN PERJUICIO DE LOS DERECHOS O DEL LIBRE EJERCICIO DE LOS DERECHOS DE LAS MUJERES, RECIBE LA DENOMINACIÓN DE:",
+        "pregunta": "228.- LA SOCIEDAD, EN LA QUE SE PRODUCE UN DESEQUILIBRIO EN EL REPARTO DEL PODER, BENEFICIANDO A LOS HOMBRES EN PERJUICIO DE LOS DERECHOS O DEL LIBRE EJERCICIO DE LOS DERECHOS DE LAS MUJERES, RECIBE LA DENOMINACIÓN DE:",
         "opciones": {
           "A": "Sociedad masculinizada.",
           "B": "Patriarcado.",
@@ -2820,7 +2820,7 @@ const QUIZZES = {
       {
         "num": 229,
         "idpregunta": 229,
-        "pregunta": "LA PERSPECTIVA O ANÁLISIS DE GÉNERO ES:",
+        "pregunta": "229.- LA PERSPECTIVA O ANÁLISIS DE GÉNERO ES:",
         "opciones": {
           "A": "Un constructor político.",
           "B": "Un concepto sociológico.",
@@ -2832,7 +2832,7 @@ const QUIZZES = {
       {
         "num": 230,
         "idpregunta": 230,
-        "pregunta": "¿QUÉ ORGANO PRESIDE LA COMISIÓN INTERINSTITUCIONAL PARA LA IGUALDAD DE MUJERES Y HOMBRES?",
+        "pregunta": "230.- ¿QUÉ ORGANO PRESIDE LA COMISIÓN INTERINSTITUCIONAL PARA LA IGUALDAD DE MUJERES Y HOMBRES?",
         "opciones": {
           "A": "La Consejera de Igualdad, Justicia y Políticas Sociales.",
           "B": "La Directora de Emakunde.",
@@ -2844,7 +2844,7 @@ const QUIZZES = {
       {
         "num": 231,
         "idpregunta": 231,
-        "pregunta": "EN EL ÁMBITO DE LA IGUALDAD, LAS ACCIONES POSITIVAS:",
+        "pregunta": "231.- EN EL ÁMBITO DE LA IGUALDAD, LAS ACCIONES POSITIVAS:",
         "opciones": {
           "A": "Tienen un carácter permanente.",
           "B": "Tienen un carácter temporal.",
@@ -2856,7 +2856,7 @@ const QUIZZES = {
       {
         "num": 232,
         "idpregunta": 232,
-        "pregunta": "¿QUÉ ELEMENTO REFUERZA LA LOSU EN MATERIA DE IGUALDAD?",
+        "pregunta": "232.- ¿QUÉ ELEMENTO REFUERZA LA LOSU EN MATERIA DE IGUALDAD?",
         "opciones": {
           "A": "Eliminación de unidades de igualdad.",
           "B": "Planes de igualdad y protocolos contra la violencia de género.",
@@ -2868,7 +2868,7 @@ const QUIZZES = {
       {
         "num": 233,
         "idpregunta": 233,
-        "pregunta": "EL INDICATIVO \"RÓMPASE EN CASO DE INCENDIO\" SE ASOCIA A:",
+        "pregunta": "233.- EL INDICATIVO \"RÓMPASE EN CASO DE INCENDIO\" SE ASOCIA A:",
         "opciones": {
           "A": "Extintores fijos.",
           "B": "Hidrantes.",
@@ -2880,7 +2880,7 @@ const QUIZZES = {
       {
         "num": 234,
         "idpregunta": 234,
-        "pregunta": "CUANDO NECESITAMOS UNA INTERVENCIÓN RÁPIDA CONTRA EL FUEGO, DE UNA MANERA AUTOMÁTICA, COLOCAREMOS:",
+        "pregunta": "234.- CUANDO NECESITAMOS UNA INTERVENCIÓN RÁPIDA CONTRA EL FUEGO, DE UNA MANERA AUTOMÁTICA, COLOCAREMOS:",
         "opciones": {
           "A": "BIE.",
           "B": "Extintores de espuma.",
@@ -2892,7 +2892,7 @@ const QUIZZES = {
       {
         "num": 235,
         "idpregunta": 235,
-        "pregunta": "(SEÑALE LA RESPUESTA CORRECTA). EN LA INSTITUCIÓN, CONTARÁ CON UNA INSTALACIÓN DE ALUMBRADO DE EMERGENCIA:",
+        "pregunta": "235.- (SEÑALE LA RESPUESTA CORRECTA). EN LA INSTITUCIÓN, CONTARÁ CON UNA INSTALACIÓN DE ALUMBRADO DE EMERGENCIA:",
         "opciones": {
           "A": "Todos los recintos cuya ocupación sea mayor de 50 personas.",
           "B": "Los aseos de planta en edificios de acceso público.",
@@ -2904,7 +2904,7 @@ const QUIZZES = {
       {
         "num": 236,
         "idpregunta": 236,
-        "pregunta": "EN LOS SISTEMAS DE ALARMA, LAS SIGLAS \"AT\" CORRESPONDEN A:",
+        "pregunta": "236.- EN LOS SISTEMAS DE ALARMA, LAS SIGLAS \"AT\" CORRESPONDEN A:",
         "opciones": {
           "A": "Aparatos de tensión.",
           "B": "Apertura tipo.",
@@ -2916,7 +2916,7 @@ const QUIZZES = {
       {
         "num": 237,
         "idpregunta": 237,
-        "pregunta": "CUANDO LOS PLAZOS SE SEÑALEN POR DÍAS, SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, EN SU CÓMPUTO HABRÁ QUE EXCLUIR:",
+        "pregunta": "237.- CUANDO LOS PLAZOS SE SEÑALEN POR DÍAS, SEGÚN LA LEY 39/2015, DE 1 DE OCTUBRE, EN SU CÓMPUTO HABRÁ QUE EXCLUIR:",
         "opciones": {
           "A": "Los domingos.",
           "B": "Los declarados festivos.",
@@ -2928,7 +2928,7 @@ const QUIZZES = {
       {
         "num": 238,
         "idpregunta": 238,
-        "pregunta": "EN LAS NORMAS Y ACTOS ADMINISTRATIVOS, SI EL PLAZO DE FIJA EN MESES, SE COMPUTARÁ:",
+        "pregunta": "238.- EN LAS NORMAS Y ACTOS ADMINISTRATIVOS, SI EL PLAZO DE FIJA EN MESES, SE COMPUTARÁ:",
         "opciones": {
           "A": "De fecha a fecha, a partir del mismo día de la notificación o publicación.",
           "B": "30 días naturales.",
@@ -2940,7 +2940,7 @@ const QUIZZES = {
       {
         "num": 239,
         "idpregunta": 239,
-        "pregunta": "SI EL ÚLTIMO DÍA DE UN PLAZO ADMINISTRATIVO ES INHÁBIL:",
+        "pregunta": "239.- SI EL ÚLTIMO DÍA DE UN PLAZO ADMINISTRATIVO ES INHÁBIL:",
         "opciones": {
           "A": "El plazo expira el día anterior.",
           "B": "El día en cuestión se entiende hábil a los solos efectos de ese trámite.",
@@ -2952,7 +2952,7 @@ const QUIZZES = {
       {
         "num": 240,
         "idpregunta": 240,
-        "pregunta": "LOS PLAZOS ADMINISTRATIVOS EXPRESADOS EN DÍAS SE CUENTA, POR REGLA GENERAL, A PARTIR DE:",
+        "pregunta": "240.- LOS PLAZOS ADMINISTRATIVOS EXPRESADOS EN DÍAS SE CUENTA, POR REGLA GENERAL, A PARTIR DE:",
         "opciones": {
           "A": "El mismo día de la notificación o publicación.",
           "B": "El día siguiente al de la notificación o publicación del acto de que se trate.",
@@ -2964,7 +2964,7 @@ const QUIZZES = {
       {
         "num": 241,
         "idpregunta": 241,
-        "pregunta": "LOS ACTOS ADMINISTRATIVOS PRODUCEN EFECTOS DESDE LA FECHA EN QUE SE DICTEN, SIN EMBARGO, SU EFICACIA QUEDARÁ DEMORADA:",
+        "pregunta": "241.- LOS ACTOS ADMINISTRATIVOS PRODUCEN EFECTOS DESDE LA FECHA EN QUE SE DICTEN, SIN EMBARGO, SU EFICACIA QUEDARÁ DEMORADA:",
         "opciones": {
           "A": "Cuando sea necesaria la notificación o publicación del acto, supuesto en el cual el acto no será eficaz hasta que se realice correctamente la notificación o publicación.",
           "B": "Cuando el destinatario del acto no esté de acuerdo con su contenido.",
@@ -2976,7 +2976,7 @@ const QUIZZES = {
       {
         "num": 242,
         "idpregunta": 242,
-        "pregunta": "SI EL PLAZO SE FIJA EN MESES Y EN EL MES DE VENCIMIENTO NO HUBIERA DÍA EQUIVALENTE A AQUÉL EN EL QUE COMIENZA EL CÓMPUTO, SE ENTENDERÁ QUE EL PLAZO EXPIRA:",
+        "pregunta": "242.- SI EL PLAZO SE FIJA EN MESES Y EN EL MES DE VENCIMIENTO NO HUBIERA DÍA EQUIVALENTE A AQUÉL EN EL QUE COMIENZA EL CÓMPUTO, SE ENTENDERÁ QUE EL PLAZO EXPIRA:",
         "opciones": {
           "A": "A los 30 días de haberse notificado o publicado el acto.",
           "B": "A los 31 días de haberse notificado o publicado el acto.",
@@ -2988,7 +2988,7 @@ const QUIZZES = {
       {
         "num": 243,
         "idpregunta": 243,
-        "pregunta": "SI LA SOLICITUD DE INICIACIÓN DEL PROCEMIENTO ADMINISTRATIVO NO REÚNE LOS REQUISITOS EXIGIBLES, LA ADMINISTRACIÓN DEBE:",
+        "pregunta": "243.- SI LA SOLICITUD DE INICIACIÓN DEL PROCEMIENTO ADMINISTRATIVO NO REÚNE LOS REQUISITOS EXIGIBLES, LA ADMINISTRACIÓN DEBE:",
         "opciones": {
           "A": "Archivar la solicitud.",
           "B": "Requerir a la persona interesada para que la subsane.",
@@ -3000,7 +3000,7 @@ const QUIZZES = {
       {
         "num": 244,
         "idpregunta": 244,
-        "pregunta": "DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO 35 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVA COMÚN, HAN DE SER MOTIVADOS:",
+        "pregunta": "244.- DE CONFORMIDAD CON LO ESTABLECIDO EN EL ARTÍCULO 35 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVA COMÚN, HAN DE SER MOTIVADOS:",
         "opciones": {
           "A": "Los actos que resuelvan recursos administrativos.",
           "B": "Los actos que limiten derechos o intereses legítimos.",
@@ -3012,7 +3012,7 @@ const QUIZZES = {
       {
         "num": 245,
         "idpregunta": 245,
-        "pregunta": "LAS NOTIFICACIONES DE LOS ACTOS ADMINISTRATIVOS DEBERÁN CONTENER:",
+        "pregunta": "245.- LAS NOTIFICACIONES DE LOS ACTOS ADMINISTRATIVOS DEBERÁN CONTENER:",
         "opciones": {
           "A": "El texto íntegro del acto o resolución.",
           "B": "Un resumen detallado del acto o resolución.",
@@ -3024,7 +3024,7 @@ const QUIZZES = {
       {
         "num": 246,
         "idpregunta": 246,
-        "pregunta": "SI UN/A INTERESADO/A RECHAZA LA NOTIFICACIÓN DE UN ACTO ADMINISTRATIVO:",
+        "pregunta": "246.- SI UN/A INTERESADO/A RECHAZA LA NOTIFICACIÓN DE UN ACTO ADMINISTRATIVO:",
         "opciones": {
           "A": "Se le intentará notificar nuevamente, dentro de los 3 días siguientes, a una hora distinta.",
           "B": "Se dará por efectuado el trámite y se continuará el procedimiento.",
@@ -3036,7 +3036,7 @@ const QUIZZES = {
       {
         "num": 247,
         "idpregunta": 247,
-        "pregunta": "SE DEBERÁN NOTIFICAR LAS RESOLUCIONES Y ACTOS ADMINISTRATIVOS A:",
+        "pregunta": "247.- SE DEBERÁN NOTIFICAR LAS RESOLUCIONES Y ACTOS ADMINISTRATIVOS A:",
         "opciones": {
           "A": "Todos/as los/as administrados/as.",
           "B": "Las personas interesadas cuyos derechos e intereses se vean afectados por dichos actos y resoluciones.",
@@ -3048,7 +3048,7 @@ const QUIZZES = {
       {
         "num": 248,
         "idpregunta": 248,
-        "pregunta": "LAS NOTIFICACIONES DE UN ACTO ADMINISTRATIVO SE HARÁ EN UN BOLETÍN OFICIAL CUANDO:",
+        "pregunta": "248.- LAS NOTIFICACIONES DE UN ACTO ADMINISTRATIVO SE HARÁ EN UN BOLETÍN OFICIAL CUANDO:",
         "opciones": {
           "A": "Los/as interesados/as sean desconocidos/as.",
           "B": "Se ignore el lugar donde ha de practicarse la notificación",
@@ -3060,7 +3060,7 @@ const QUIZZES = {
       {
         "num": 249,
         "idpregunta": 249,
-        "pregunta": "REÚNE LA CONDICIÓN DE PERSONA INTERESADA:",
+        "pregunta": "249.- REÚNE LA CONDICIÓN DE PERSONA INTERESADA:",
         "opciones": {
           "A": "Toda aquella que presenta un escrito dirigido a la Administración.",
           "B": "Toda aquella que interpone un recurso administrativo.",
@@ -3072,7 +3072,7 @@ const QUIZZES = {
       {
         "num": 250,
         "idpregunta": 250,
-        "pregunta": "SI VARIAS PERSONAS INTERESADAS FIRMAN UNA SOLICITUD, LAS ACTUACIONES SE ENTENDERÁN:",
+        "pregunta": "250.- SI VARIAS PERSONAS INTERESADAS FIRMAN UNA SOLICITUD, LAS ACTUACIONES SE ENTENDERÁN:",
         "opciones": {
           "A": "Con la que ostente mayor interés",
           "B": "Con toda ellas.",
@@ -3084,7 +3084,7 @@ const QUIZZES = {
       {
         "num": 251,
         "idpregunta": 251,
-        "pregunta": "PARA TENER LOS PARTICULARES DERECHO A SER INDEMNIZADOS POR LAS ADMINISTRACIONES PÚBLICAS ¿CÚAL DE ESTAS CARACTERÍSTICAS NO SE CORRESPONDE AL DAÑO SUFRIDO?",
+        "pregunta": "251.- PARA TENER LOS PARTICULARES DERECHO A SER INDEMNIZADOS POR LAS ADMINISTRACIONES PÚBLICAS ¿CÚAL DE ESTAS CARACTERÍSTICAS NO SE CORRESPONDE AL DAÑO SUFRIDO?",
         "opciones": {
           "A": "Deberá ser evaluable económicamente.",
           "B": "Deberá ser efectivo.",
@@ -3096,7 +3096,7 @@ const QUIZZES = {
       {
         "num": 252,
         "idpregunta": 252,
-        "pregunta": "LOS PARTICULARES EN NINGÚN CASO TENDRÍAN DERECHO A SER INDEMNIZADOS POR LAS ADMINISTRACIONES PÚBLICAS:",
+        "pregunta": "252.- LOS PARTICULARES EN NINGÚN CASO TENDRÍAN DERECHO A SER INDEMNIZADOS POR LAS ADMINISTRACIONES PÚBLICAS:",
         "opciones": {
           "A": "Si se ha sufrido una lesión en cualquier bien y derecho.",
           "B": "Si la lesión producida en bienes y derechos se ha debido a un caso de fuerza mayor.",
@@ -3108,7 +3108,7 @@ const QUIZZES = {
       {
         "num": 253,
         "idpregunta": 253,
-        "pregunta": "LA ADMINISTRACIÓN, PARA PODER EXIGIR A SUS AUTORIDADES Y DEMÁS PERSONAL A SU SERVICIO, RESPONSABILIDAD PATRIMONIAL EN LA QUE HUBIERAN INCURRIDO POR SU ACTUACIÓN DEBERÁ:",
+        "pregunta": "253.- LA ADMINISTRACIÓN, PARA PODER EXIGIR A SUS AUTORIDADES Y DEMÁS PERSONAL A SU SERVICIO, RESPONSABILIDAD PATRIMONIAL EN LA QUE HUBIERAN INCURRIDO POR SU ACTUACIÓN DEBERÁ:",
         "opciones": {
           "A": "Instruir el procedimiento que reglamentariamente se establezca.",
           "B": "Ponderar el resultado dañoso producido.",
@@ -3120,7 +3120,7 @@ const QUIZZES = {
       {
         "num": 254,
         "idpregunta": 254,
-        "pregunta": "SEGÚN EL ART. 33 DE LA LEY 40/2015, DE 1 DE OCTUBRE, DE RÉGIMEN JURÍDICO DEL SECTOR PÚBLICO, CUANDO SE TRATE DE PROCEDIMIENTOS EN MATERIA DE RESPONSABILIDAD PATRIMONIAL, LA ADMINISTRACIÓN PÚBLICA COMPETENTE DEBERÁ CONSULTAR A LAS RESTANTES ADMINISTRACIONES IMPLICADAS PARA QUE ESTAS PUEDAN EXPONER CUANTO CONSIDEREN PROCEDENTE, EN EL PLAZO DE:",
+        "pregunta": "254.- SEGÚN EL ART. 33 DE LA LEY 40/2015, DE 1 DE OCTUBRE, DE RÉGIMEN JURÍDICO DEL SECTOR PÚBLICO, CUANDO SE TRATE DE PROCEDIMIENTOS EN MATERIA DE RESPONSABILIDAD PATRIMONIAL, LA ADMINISTRACIÓN PÚBLICA COMPETENTE DEBERÁ CONSULTAR A LAS RESTANTES ADMINISTRACIONES IMPLICADAS PARA QUE ESTAS PUEDAN EXPONER CUANTO CONSIDEREN PROCEDENTE, EN EL PLAZO DE:",
         "opciones": {
           "A": "10 días.",
           "B": "15 días.",
@@ -3132,7 +3132,7 @@ const QUIZZES = {
       {
         "num": 255,
         "idpregunta": 255,
-        "pregunta": "LA LEY 40/2015, DE 1 DE OCTUBRE, DE RÉGIMEN JURÍDICO DEL SECTOR PÚBLICO, SEÑALA QUE PARA HACER EFECTIVA LA RESPONSABILIDAD PATRIMONIAL, LOS PARTICULARES EXIGIRÁN:",
+        "pregunta": "255.- LA LEY 40/2015, DE 1 DE OCTUBRE, DE RÉGIMEN JURÍDICO DEL SECTOR PÚBLICO, SEÑALA QUE PARA HACER EFECTIVA LA RESPONSABILIDAD PATRIMONIAL, LOS PARTICULARES EXIGIRÁN:",
         "opciones": {
           "A": "Directamente a la Administración Pública correspondiente las indemnizaciones por los daños y perjuicios causados por las autoridades y personal a su servicio.",
           "B": "Indirectamente a la Administración Pública correspondiente las indemnizaciones por los daños y perjuicios causados por las autoridades y personal a su servicio.",
@@ -3144,7 +3144,7 @@ const QUIZZES = {
       {
         "num": 256,
         "idpregunta": 256,
-        "pregunta": "LAS PERSONAS FÍSICAS PODRÁN UTILIZAR, PARA RELACIONARSE CON LA ADMINISTRACIÓN:",
+        "pregunta": "256.- LAS PERSONAS FÍSICAS PODRÁN UTILIZAR, PARA RELACIONARSE CON LA ADMINISTRACIÓN:",
         "opciones": {
           "A": "Sólo los certificados electrónicos incorporados al Documento Nacional de Identidad.",
           "B": "Sólo los certificados electrónicos reconocidos y los sistemas de firma electrónica avanzada que se admitan por la Administración.",
@@ -3156,7 +3156,7 @@ const QUIZZES = {
       {
         "num": 257,
         "idpregunta": 257,
-        "pregunta": "LOS CANALES DE ASISTENCIA PARA EL ACCESO A SERVICIOS ELECTRÓNICOS TIENEN COMO FINALIDAD:",
+        "pregunta": "257.- LOS CANALES DE ASISTENCIA PARA EL ACCESO A SERVICIOS ELECTRÓNICOS TIENEN COMO FINALIDAD:",
         "opciones": {
           "A": "Sustituir todos los trámites.",
           "B": "Ayudar a las personas en el uso de medios electrónicos.",
@@ -3168,7 +3168,7 @@ const QUIZZES = {
       {
         "num": 258,
         "idpregunta": 258,
-        "pregunta": "¿TIENEN DERECHO LOS/AS CIUDADANOS/AS A CONOCER EL ESTADO DE LA TRAMITACIÓN DE UN PROCEDIMIENTO ADMINISTRATIVO CONCRETO?",
+        "pregunta": "258.- ¿TIENEN DERECHO LOS/AS CIUDADANOS/AS A CONOCER EL ESTADO DE LA TRAMITACIÓN DE UN PROCEDIMIENTO ADMINISTRATIVO CONCRETO?",
         "opciones": {
           "A": "Sí, en todo momento, aunque no tengan la condición de personas interesadas en el mismo.",
           "B": "Sí, en cualquier fase del procedimiento anterior al trámite de audiencia, aunque no tengan la condición de personas interesadas en el procedimiento.",
@@ -3180,7 +3180,7 @@ const QUIZZES = {
       {
         "num": 259,
         "idpregunta": 259,
-        "pregunta": "DE CONFORMIDAD CON LA LEY 39/2015, DE 1 DE OCTUBRE, LA CONSTANCIA DE DOCUMENTOS Y ACTUACIONES EN UN ARCHIVO ELECTRÓNICO FACILITA EL CUMPLIMIENTO DE LAS OBLIGACIONES",
+        "pregunta": "259.- DE CONFORMIDAD CON LA LEY 39/2015, DE 1 DE OCTUBRE, LA CONSTANCIA DE DOCUMENTOS Y ACTUACIONES EN UN ARCHIVO ELECTRÓNICO FACILITA EL CUMPLIMIENTO DE LAS OBLIGACIONES",
         "opciones": {
           "A": "de congruencia.",
           "B": "de transparencia.",
@@ -3192,7 +3192,7 @@ const QUIZZES = {
       {
         "num": 260,
         "idpregunta": 260,
-        "pregunta": "¿PUEDE LA ADMINISTRACIÓN CONVALIDAR LOS ACTOS ANULABLES?",
+        "pregunta": "260.- ¿PUEDE LA ADMINISTRACIÓN CONVALIDAR LOS ACTOS ANULABLES?",
         "opciones": {
           "A": "No, en ningún caso.",
           "B": "Sí, subsanando los vicios de que adolezcan.",
@@ -3204,7 +3204,7 @@ const QUIZZES = {
       {
         "num": 261,
         "idpregunta": 261,
-        "pregunta": "EN UN PROCEDIMIENTO INICIADO A SOLICITUD DE LA PERSONA INTERESADA, EL VENCIMIENTO DEL PLAZO MÁXIMO SIN HABERSE NOTIFICADO RESOLUCIÓN EXPRESA LEGITIMA A LA PERSONA INTERESADA PARA:",
+        "pregunta": "261.- EN UN PROCEDIMIENTO INICIADO A SOLICITUD DE LA PERSONA INTERESADA, EL VENCIMIENTO DEL PLAZO MÁXIMO SIN HABERSE NOTIFICADO RESOLUCIÓN EXPRESA LEGITIMA A LA PERSONA INTERESADA PARA:",
         "opciones": {
           "A": "Entender siempre estimada su solicitud.",
           "B": "Entender siempre desestimada su solicitud.",
@@ -3216,7 +3216,7 @@ const QUIZZES = {
       {
         "num": 262,
         "idpregunta": 262,
-        "pregunta": "¿CUÁLES SON LOS EFECTOS DE LA DESESTIMACIÓN DE UNA SOLICITUD POR SILENCIO ADMINISTRATIVO?",
+        "pregunta": "262.- ¿CUÁLES SON LOS EFECTOS DE LA DESESTIMACIÓN DE UNA SOLICITUD POR SILENCIO ADMINISTRATIVO?",
         "opciones": {
           "A": "Tiene el efecto de exonerar a la Administración de la obligación de resolver.",
           "B": "Tiene los mismos efectos que una resolución expresa desestimatoria.",
@@ -3228,7 +3228,7 @@ const QUIZZES = {
       {
         "num": 263,
         "idpregunta": 263,
-        "pregunta": "SEGÚN LA LEY DE EMPLEO PÚBLICO VASCO LA RESPONSABILIDAD DISCIPLINARIA NO SE EXTINGUE:",
+        "pregunta": "263.- SEGÚN LA LEY DE EMPLEO PÚBLICO VASCO LA RESPONSABILIDAD DISCIPLINARIA NO SE EXTINGUE:",
         "opciones": {
           "A": "Por el arrepentimiento de la persona infractora.",
           "B": "Por la prescripción de la falta o sanción.",
@@ -3240,7 +3240,7 @@ const QUIZZES = {
       {
         "num": 264,
         "idpregunta": 264,
-        "pregunta": "¿PUEDE EL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS PARTICIPAR EN LOS ÓRGANOS DE GOBIERNO Y REPRESENTACIÓN DE LA EHU?",
+        "pregunta": "264.- ¿PUEDE EL PERSONAL TÉCNICO, DE GESTIÓN Y ADMINISTRACIÓN Y SERVICIOS PARTICIPAR EN LOS ÓRGANOS DE GOBIERNO Y REPRESENTACIÓN DE LA EHU?",
         "opciones": {
           "A": "No, sólo puede hacerlo el personal docente.",
           "B": "Sí, siempre que tenga más de 5 años de servicios.",
@@ -3252,7 +3252,7 @@ const QUIZZES = {
       {
         "num": 265,
         "idpregunta": 265,
-        "pregunta": "¿QUÉ IMPLICA LA TRANSPARENCIA DE LA ADMINISTRACIÓN?",
+        "pregunta": "265.- ¿QUÉ IMPLICA LA TRANSPARENCIA DE LA ADMINISTRACIÓN?",
         "opciones": {
           "A": "Identificación del personal de atención al público.",
           "B": "Acceso a la información precisa",
@@ -3264,7 +3264,7 @@ const QUIZZES = {
       {
         "num": 266,
         "idpregunta": 266,
-        "pregunta": "SEGÚN LA LEY 39/2015, LOS/AS CIUDADANOS/AS TIENEN DERECHO A:",
+        "pregunta": "266.- SEGÚN LA LEY 39/2015, LOS/AS CIUDADANOS/AS TIENEN DERECHO A:",
         "opciones": {
           "A": "Obtener copia de los documentos que presenten, quedando, en todo caso, los originales en el procedimiento de que se trate",
           "B": "Obtener copia cotejada de los documentos que presenten, quedando, en todo caso, los originales en el procedimiento de que se trate",
@@ -3276,7 +3276,7 @@ const QUIZZES = {
       {
         "num": 267,
         "idpregunta": 267,
-        "pregunta": "SEGÚN LA LEY 39/2015, LOS/AS CIUDADANOS/AS TIENEN DERECHO A:",
+        "pregunta": "267.- SEGÚN LA LEY 39/2015, LOS/AS CIUDADANOS/AS TIENEN DERECHO A:",
         "opciones": {
           "A": "Identificar a las autoridades y al personal al servicio de las Administraciones Públicas bajo cuya responsabilidad se tramiten los procedimientos",
           "B": "No presentar documentos no exigidos por las normas aplicables al procedimiento de que se trate",
@@ -3288,7 +3288,7 @@ const QUIZZES = {
       {
         "num": 268,
         "idpregunta": 268,
-        "pregunta": "SEGÚN EL TEXTO REFUNDIDO DE LA LEY DEL ESTATUTO BÁSICO DEL EMPLEADO PÚBLICO, LOS/AS EMPLEADOS/AS PÚBLICOS DEBEN ACTUAR CON ARREGLO, ENTRE OTROS, AL SIGUIENTE PRINCIPIO, QUE INSPIRA SU CÓDIGO DE CONDUCTA:",
+        "pregunta": "268.- SEGÚN EL TEXTO REFUNDIDO DE LA LEY DEL ESTATUTO BÁSICO DEL EMPLEADO PÚBLICO, LOS/AS EMPLEADOS/AS PÚBLICOS DEBEN ACTUAR CON ARREGLO, ENTRE OTROS, AL SIGUIENTE PRINCIPIO, QUE INSPIRA SU CÓDIGO DE CONDUCTA:",
         "opciones": {
           "A": "Integridad.",
           "B": "Austeridad.",
@@ -3300,7 +3300,7 @@ const QUIZZES = {
       {
         "num": 269,
         "idpregunta": 269,
-        "pregunta": "EN RELACIÓN CON EL DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA QUE OBRE EN PODER DE LAS ADMINISTRACIONES PÚBLICAS, SE ENTIENDE POR \"INFORMACIÓN PÚBLICA\", DE ACUERDO CON LA LEY 19/2013, DE 9 DE DICIEMBRE, DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO:",
+        "pregunta": "269.- EN RELACIÓN CON EL DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA QUE OBRE EN PODER DE LAS ADMINISTRACIONES PÚBLICAS, SE ENTIENDE POR \"INFORMACIÓN PÚBLICA\", DE ACUERDO CON LA LEY 19/2013, DE 9 DE DICIEMBRE, DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO:",
         "opciones": {
           "A": "Los contenidos o documentos, cualquiera que sea su formato o soporte, que hayan sido elaborados o adquiridos en el ejercicio de sus funciones.",
           "B": "Los contenidos o documentos, siempre en formato papel o digital, elaborados o adquiridos en el ejercicio de sus funciones.",
@@ -3312,7 +3312,7 @@ const QUIZZES = {
       {
         "num": 270,
         "idpregunta": 270,
-        "pregunta": "EL ARTÍCULO 13 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, RECOGE ENTRE LOS DERECHOS DE LAS PERSONAS EN SUS RELACIONES CON LAS ADMINISTRACIONES PÚBLICAS:",
+        "pregunta": "270.- EL ARTÍCULO 13 DE LA LEY 39/2015, DE 1 DE OCTUBRE, DE PROCEDIMIENTO ADMINISTRATIVO COMÚN, RECOGE ENTRE LOS DERECHOS DE LAS PERSONAS EN SUS RELACIONES CON LAS ADMINISTRACIONES PÚBLICAS:",
         "opciones": {
           "A": "A ser asistidos en el uso de medios electrónicos",
           "B": "A utilizar las lenguas oficiales de la comunidad autónoma.",
@@ -3324,7 +3324,7 @@ const QUIZZES = {
       {
         "num": 271,
         "idpregunta": 271,
-        "pregunta": "INDIQUE LA OPCIÓN CORRECTA EN RELACIÓN CON LA ACTUACIÓN Y FUNCIONAMIENTO DEL SECTOR PÚBLICO POR MEDIOS ELECTRÓNICOS.",
+        "pregunta": "271.- INDIQUE LA OPCIÓN CORRECTA EN RELACIÓN CON LA ACTUACIÓN Y FUNCIONAMIENTO DEL SECTOR PÚBLICO POR MEDIOS ELECTRÓNICOS.",
         "opciones": {
           "A": "Las empresas privadas han de tener una sede electrónica si son adjudicatarias de algún servicio público de competencia de cualquiera de las administraciones públicas.",
           "B": "Las sedes electrónicas siempre han de estar bajo la titularidad de una Administración Pública, aunque la gestión y administración puede ser subcontratada con empresas expertas en la materia.",
@@ -3336,7 +3336,7 @@ const QUIZZES = {
       {
         "num": 272,
         "idpregunta": 272,
-        "pregunta": "¿CUAL DE LOS SIGUIENTES DOCUMENTOS UTILIZA LA CIUDADANÍA PARA HACER PETICIONES A LA ADMINISTRACIÓN?",
+        "pregunta": "272.- ¿CUAL DE LOS SIGUIENTES DOCUMENTOS UTILIZA LA CIUDADANÍA PARA HACER PETICIONES A LA ADMINISTRACIÓN?",
         "opciones": {
           "A": "Circular.",
           "B": "Notificación.",
@@ -3348,7 +3348,7 @@ const QUIZZES = {
       {
         "num": 273,
         "idpregunta": 273,
-        "pregunta": "¿EN CÚAL DE LOS SIGUIENTES DOCUMENTOS TIENE QUE CONSTAR LA FECHA?",
+        "pregunta": "273.- ¿EN CÚAL DE LOS SIGUIENTES DOCUMENTOS TIENE QUE CONSTAR LA FECHA?",
         "opciones": {
           "A": "Instancia.",
           "B": "Notificación.",
@@ -3360,7 +3360,7 @@ const QUIZZES = {
       {
         "num": 274,
         "idpregunta": 274,
-        "pregunta": "EN LAS ACTAS SE CONSIGNA LA SIGUIENTE INFORMACIÓN EN RELACIÓN A LAS REUNIONES:",
+        "pregunta": "274.- EN LAS ACTAS SE CONSIGNA LA SIGUIENTE INFORMACIÓN EN RELACIÓN A LAS REUNIONES:",
         "opciones": {
           "A": "Día de la reunión.",
           "B": "Lugar de la reunión.",
@@ -3372,7 +3372,7 @@ const QUIZZES = {
       {
         "num": 275,
         "idpregunta": 275,
-        "pregunta": "LA ADMINISTRACIÓN PÚBLICA EN SU RELACIÓN CON LA CIUDADANÍA TIENE QUE SER:",
+        "pregunta": "275.- LA ADMINISTRACIÓN PÚBLICA EN SU RELACIÓN CON LA CIUDADANÍA TIENE QUE SER:",
         "opciones": {
           "A": "Receptiva, accesible y transparente.",
           "B": "Receptiva y accesible pero no transparente.",
@@ -3384,7 +3384,7 @@ const QUIZZES = {
       {
         "num": 276,
         "idpregunta": 276,
-        "pregunta": "¿QUÉ IMPLICA LA IDEA DE QUE LOS SERVICIOS QUE PRESTA LA ADMINISTRACIÓN PÚBLICA SON DE NATURALEZA UNIVERSAL?",
+        "pregunta": "276.- ¿QUÉ IMPLICA LA IDEA DE QUE LOS SERVICIOS QUE PRESTA LA ADMINISTRACIÓN PÚBLICA SON DE NATURALEZA UNIVERSAL?",
         "opciones": {
           "A": "Que sirven para ciudadanos/as de todos los países.",
           "B": "Igualdad en el trato a todas las personas usuarias.",
@@ -3396,7 +3396,7 @@ const QUIZZES = {
       {
         "num": 277,
         "idpregunta": 277,
-        "pregunta": "¿CÚAL DE LOS SIGUIENTES ES UN REQUISITO IMPRESCINDIBLE PARA UNA ATENCIÓN DE CALIDAD A LA CIUDADANÍA?",
+        "pregunta": "277.- ¿CÚAL DE LOS SIGUIENTES ES UN REQUISITO IMPRESCINDIBLE PARA UNA ATENCIÓN DE CALIDAD A LA CIUDADANÍA?",
         "opciones": {
           "A": "Intervenir aleatoriamente sin responder a demandas.",
           "B": "Que el personal de atención telefónica tenga voz grave.",
@@ -3408,7 +3408,7 @@ const QUIZZES = {
       {
         "num": 278,
         "idpregunta": 278,
-        "pregunta": "¿CÚAL DE LAS SIGUIENTES OPCIONES ES UNA VENTAJA DE LA IMPLANTACIÓN DE LA VENTANILLA ÚNICA?",
+        "pregunta": "278.- ¿CÚAL DE LAS SIGUIENTES OPCIONES ES UNA VENTAJA DE LA IMPLANTACIÓN DE LA VENTANILLA ÚNICA?",
         "opciones": {
           "A": "Ahorro en desplazamientos de la ciudadanía.",
           "B": "Desaparición de colas.",
@@ -3420,7 +3420,7 @@ const QUIZZES = {
       {
         "num": 279,
         "idpregunta": 279,
-        "pregunta": "LA INFORMACIÓN ADMINISTRATIVA ES EL CAUCE POR EL QUE EL/LA CIUDADANO/A PUEDE ACCEDER:",
+        "pregunta": "279.- LA INFORMACIÓN ADMINISTRATIVA ES EL CAUCE POR EL QUE EL/LA CIUDADANO/A PUEDE ACCEDER:",
         "opciones": {
           "A": "Al conocimiento de sus derechos y obligaciones.",
           "B": "A la utilización de los bienes y servicios públicos.",
@@ -3432,7 +3432,7 @@ const QUIZZES = {
       {
         "num": 280,
         "idpregunta": 280,
-        "pregunta": "LA ATENCIÓN AL CIUDADANO/A POR MEDIOS TELEMÁTICOS:",
+        "pregunta": "280.- LA ATENCIÓN AL CIUDADANO/A POR MEDIOS TELEMÁTICOS:",
         "opciones": {
           "A": "Es el único canal disponible para las personas menores de 65 años, salvo que se acredite alguna discapacidad física que dificulte esa atención por medios telemáticos.",
           "B": "Tiene como principal finalidad el ahorro de personal.",
@@ -3444,7 +3444,7 @@ const QUIZZES = {
       {
         "num": 281,
         "idpregunta": 281,
-        "pregunta": "INDIQUE LA OPCIÓN CORRECTA:",
+        "pregunta": "281.- INDIQUE LA OPCIÓN CORRECTA:",
         "opciones": {
           "A": "Los registros electrónicos se regirán a efectos de cómputo de los plazos imputables tanto a los interesados como a las Administraciones Públicas por la fecha y hora del sistema operativo utilizado por la persona usuaria, siempre que dicho sistema cuente con la licencia de uso correspondiente.",
           "B": "Los registros electrónicos permitirán la presentación de solicitudes, escritos y comunicaciones todos los días del año durante las veinticuatro horas, salvo que la Administración titular del correspondiente registro, en uso de sus competencias, pueda establecer restricciones de acceso en días festivos nacionales.",
@@ -3456,7 +3456,7 @@ const QUIZZES = {
       {
         "num": 282,
         "idpregunta": 282,
-        "pregunta": "LA INFORMACIÓN ADMINISTRATIVA SOBRE LOS REQUISITOS JURÍDICOS O TÉCNICOS QUE LAS DISPOSICIONES IMPONGAN A LOS PROYECTOS, ACTUACIONES O SOLICITUDES QUE UN/A CIUDADANO/A SE PROPONGA REALIZAR, SE CONSIDERA UNA INFORMACIÓN:",
+        "pregunta": "282.- LA INFORMACIÓN ADMINISTRATIVA SOBRE LOS REQUISITOS JURÍDICOS O TÉCNICOS QUE LAS DISPOSICIONES IMPONGAN A LOS PROYECTOS, ACTUACIONES O SOLICITUDES QUE UN/A CIUDADANO/A SE PROPONGA REALIZAR, SE CONSIDERA UNA INFORMACIÓN:",
         "opciones": {
           "A": "De carácter particular.",
           "B": "De carácter general.",
@@ -3468,7 +3468,7 @@ const QUIZZES = {
       {
         "num": 283,
         "idpregunta": 283,
-        "pregunta": "SE CONSIDERA INFORMACIÓN ADMINISTRATIVA DE CARÁCTER PARTICULAR:",
+        "pregunta": "283.- SE CONSIDERA INFORMACIÓN ADMINISTRATIVA DE CARÁCTER PARTICULAR:",
         "opciones": {
           "A": "La concerniente al estado o contenido de los procedimientos en tramitación.",
           "B": "La que concierne a la identificación de las autoridades y personal al servicio de la Administración bajo cuya responsabilidad se tramiten aquellos procedimientos.",
@@ -3480,7 +3480,7 @@ const QUIZZES = {
       {
         "num": 284,
         "idpregunta": 284,
-        "pregunta": "LA ATENCIÓN PERSONALIZADA A LA CIUDADANÍA CONTEMPLA ENTRE SUS OBJETIVOS:",
+        "pregunta": "284.- LA ATENCIÓN PERSONALIZADA A LA CIUDADANÍA CONTEMPLA ENTRE SUS OBJETIVOS:",
         "opciones": {
           "A": "La recepción de las iniciativas o sugerencias formuladas por los/as ciudadanos/as para mejorar la calidad de los servicios.",
           "B": "La recepción de las iniciativas o sugerencias formuladas por los/as propios/as empleados/as públicos/as para mejorar la calidad de los servicios.",
@@ -3492,7 +3492,7 @@ const QUIZZES = {
       {
         "num": 285,
         "idpregunta": 285,
-        "pregunta": "¿LA CONSTITUCIÓN ESPAÑOLA RECONOCE A LOS/AS CIUDADANOS/AS EL EJERCICIO DEL DERECHO DE PETICIÓN?",
+        "pregunta": "285.- ¿LA CONSTITUCIÓN ESPAÑOLA RECONOCE A LOS/AS CIUDADANOS/AS EL EJERCICIO DEL DERECHO DE PETICIÓN?",
         "opciones": {
           "A": "Sí, pero la petición ha de ser presentada directamente a título individual.",
           "B": "Sí, siempre que la petición sea presentada por escrito por un colectivo social.",
@@ -3504,7 +3504,7 @@ const QUIZZES = {
       {
         "num": 286,
         "idpregunta": 286,
-        "pregunta": "CUANDO UN CIUDADANO PRECISA DE UNA ACLARACIÓN SOBRE ALGÚN PROCEDIMIENTO, TRÁMITE O REQUISITO PARA ACCEDER A UN SERVICIO PÚBLICO:",
+        "pregunta": "286.- CUANDO UN CIUDADANO PRECISA DE UNA ACLARACIÓN SOBRE ALGÚN PROCEDIMIENTO, TRÁMITE O REQUISITO PARA ACCEDER A UN SERVICIO PÚBLICO:",
         "opciones": {
           "A": "Deberá consultar la legislación adecuada.",
           "B": "Tendrá derecho a recibir orientación e información personalizada.",
@@ -3516,7 +3516,7 @@ const QUIZZES = {
       {
         "num": 287,
         "idpregunta": 287,
-        "pregunta": "EN SUS RELACIONES CON LAS ADMINISTRACIONES PÚBLICAS, ¿LOS/AS CIUDADANOS/AS TIENEN EL DERECHO A UTILIZAR LAS LENGUAS OFICIALES EN EL TERRITORIO DE SU COMUNIDAD AUTÓNOMA?:",
+        "pregunta": "287.- EN SUS RELACIONES CON LAS ADMINISTRACIONES PÚBLICAS, ¿LOS/AS CIUDADANOS/AS TIENEN EL DERECHO A UTILIZAR LAS LENGUAS OFICIALES EN EL TERRITORIO DE SU COMUNIDAD AUTÓNOMA?:",
         "opciones": {
           "A": "Es un derecho que las Administraciones Públicas de las diversas Comunidades Autónomas han de garantizar a la ciudadanía.",
           "B": "Sólo si las Administraciones de esa Comunidad Autónoma ofrecen expresamente esa posibilidad.",
@@ -3528,7 +3528,7 @@ const QUIZZES = {
       {
         "num": 288,
         "idpregunta": 288,
-        "pregunta": "EL ACCESO A ARCHIVOS Y A DOCUMENTOS QUE OBREN EN LOS ARCHIVOS ADMINISTRATIVOS ES UN DERECHO QUE LE ASISTE AL CIUDADANO/A:",
+        "pregunta": "288.- EL ACCESO A ARCHIVOS Y A DOCUMENTOS QUE OBREN EN LOS ARCHIVOS ADMINISTRATIVOS ES UN DERECHO QUE LE ASISTE AL CIUDADANO/A:",
         "opciones": {
           "A": "Sólo a los que se sustentan en soporte gráfico.",
           "B": "Sólo a los que se sustentan en soporte gráfico y correspondan a procedimientos terminados.",
@@ -3540,7 +3540,7 @@ const QUIZZES = {
       {
         "num": 289,
         "idpregunta": 289,
-        "pregunta": "EL ACCESO A DOCUMENTOS QUE OBREN EN LOS ARCHIVOS ADMINISTRATIVOS Y QUE CONTENGAN DATOS REFERENTES A LA INTIMIDAD DE LAS PERSONAS:",
+        "pregunta": "289.- EL ACCESO A DOCUMENTOS QUE OBREN EN LOS ARCHIVOS ADMINISTRATIVOS Y QUE CONTENGAN DATOS REFERENTES A LA INTIMIDAD DE LAS PERSONAS:",
         "opciones": {
           "A": "Estará reservado a éstas.",
           "B": "Será igualmente de acceso público.",
@@ -3552,7 +3552,7 @@ const QUIZZES = {
       {
         "num": 290,
         "idpregunta": 290,
-        "pregunta": "LOS DATOS PERSONALES NO DEBEN CONSERVARSE:",
+        "pregunta": "290.- LOS DATOS PERSONALES NO DEBEN CONSERVARSE:",
         "opciones": {
           "A": "Durante más tiempo del necesario para la consecución de la finalidad pretendida.",
           "B": "Por tiempo indefinido.",
@@ -3564,7 +3564,7 @@ const QUIZZES = {
       {
         "num": 291,
         "idpregunta": 291,
-        "pregunta": "LA SEGURIDAD ADECUADA DE LOS DATOS ATENDIENDO AL PRINCIPIO DE INTEGRIDAD Y CONFIDENCIALIDAD DEBE INCLUIR:",
+        "pregunta": "291.- LA SEGURIDAD ADECUADA DE LOS DATOS ATENDIENDO AL PRINCIPIO DE INTEGRIDAD Y CONFIDENCIALIDAD DEBE INCLUIR:",
         "opciones": {
           "A": "La protección contra el tratamiento no autorizado o ilícito.",
           "B": "La protección contra su pérdida.",
@@ -3576,7 +3576,7 @@ const QUIZZES = {
       {
         "num": 292,
         "idpregunta": 292,
-        "pregunta": "¿CON QUÉ FINES SE PUEDEN CONSERVAR LOS DATOS POR PERÍODOS MÁS LARGOS?:",
+        "pregunta": "292.- ¿CON QUÉ FINES SE PUEDEN CONSERVAR LOS DATOS POR PERÍODOS MÁS LARGOS?:",
         "opciones": {
           "A": "Fines de archivo en interés público.",
           "B": "Fines estadísticos.",
@@ -3588,7 +3588,7 @@ const QUIZZES = {
       {
         "num": 293,
         "idpregunta": 293,
-        "pregunta": "EL PROCESO DE SEUDONIMIZACIÓN DE DATOS PERSONALES IMPLICA QUE CIERTOS ATRIBUTOS SE SUSTITUYAN POR:",
+        "pregunta": "293.- EL PROCESO DE SEUDONIMIZACIÓN DE DATOS PERSONALES IMPLICA QUE CIERTOS ATRIBUTOS SE SUSTITUYAN POR:",
         "opciones": {
           "A": "Seudónimos.",
           "B": "Códigos.",
@@ -3600,7 +3600,7 @@ const QUIZZES = {
       {
         "num": 294,
         "idpregunta": 294,
-        "pregunta": "¿CUÁLES DE LOS SIGUIENTES DATOS SE SUBSUMEN EN LAS CATEGORÍAS ESPECIALES DE DATOS?:",
+        "pregunta": "294.- ¿CUÁLES DE LOS SIGUIENTES DATOS SE SUBSUMEN EN LAS CATEGORÍAS ESPECIALES DE DATOS?:",
         "opciones": {
           "A": "Origen étnico y racial.",
           "B": "Datos biométricos.",
@@ -3612,7 +3612,7 @@ const QUIZZES = {
       {
         "num": 295,
         "idpregunta": 295,
-        "pregunta": "LA INFORMACIÓN BÁSICA AL AFECTADO HA DE CONTENER:",
+        "pregunta": "295.- LA INFORMACIÓN BÁSICA AL AFECTADO HA DE CONTENER:",
         "opciones": {
           "A": "Identidad del responsable.",
           "B": "Identidad del encargado.",
@@ -3624,7 +3624,7 @@ const QUIZZES = {
       {
         "num": 296,
         "idpregunta": 296,
-        "pregunta": "¿CUÁL DE LOS SIGUIENTES DERECHOS NO QUEDA REGULADO EXPRESAMENTE EN EL RGPD?:",
+        "pregunta": "296.- ¿CUÁL DE LOS SIGUIENTES DERECHOS NO QUEDA REGULADO EXPRESAMENTE EN EL RGPD?:",
         "opciones": {
           "A": "Derecho de acceso.",
           "B": "Derecho de rectificación.",
@@ -3636,7 +3636,7 @@ const QUIZZES = {
       {
         "num": 297,
         "idpregunta": 297,
-        "pregunta": "EL DERECHO A LA PORTABILIDAD DE LOS DATOS ES SOLO DE APLICACIÓN CUANDO EL TRATAMIENTO ES:",
+        "pregunta": "297.- EL DERECHO A LA PORTABILIDAD DE LOS DATOS ES SOLO DE APLICACIÓN CUANDO EL TRATAMIENTO ES:",
         "opciones": {
           "A": "Automatizado y el fundamento jurídico del tratamiento es el consentimiento o un contrato.",
           "B": "No automatizado y el fundamento jurídico del tratamiento es el consentimiento o un contrato.",
@@ -3648,7 +3648,7 @@ const QUIZZES = {
       {
         "num": 298,
         "idpregunta": 298,
-        "pregunta": "¿CUÁLES DE LOS SIGUIENTES DERECHOS PUEDEN SER CALIFICADOS COMO DERECHOS DIGITALES?:",
+        "pregunta": "298.- ¿CUÁLES DE LOS SIGUIENTES DERECHOS PUEDEN SER CALIFICADOS COMO DERECHOS DIGITALES?:",
         "opciones": {
           "A": "Derecho al honor en las redes sociales.",
           "B": "Derecho a la desconexión digital en el ámbito laboral.",
@@ -3660,7 +3660,7 @@ const QUIZZES = {
       {
         "num": 299,
         "idpregunta": 299,
-        "pregunta": "LAS ADMINISTRACIONES PÚBLICAS, EN SU ACTUACIÓN PARA CON LOS/AS CIUDADANOS/AS, SE RIGEN POR CRITERIOS:",
+        "pregunta": "299.- LAS ADMINISTRACIONES PÚBLICAS, EN SU ACTUACIÓN PARA CON LOS/AS CIUDADANOS/AS, SE RIGEN POR CRITERIOS:",
         "opciones": {
           "A": "De cooperación.",
           "B": "De eficacia y concentración.",
@@ -3672,7 +3672,7 @@ const QUIZZES = {
       {
         "num": 300,
         "idpregunta": 300,
-        "pregunta": "LAS FORMAS O CANALES DE INFORMACIÓN Y ATENCIÓN AL PÚBLICO UTILIZADAS POR LA ADMINISTRACIÓN SON:",
+        "pregunta": "300.- LAS FORMAS O CANALES DE INFORMACIÓN Y ATENCIÓN AL PÚBLICO UTILIZADAS POR LA ADMINISTRACIÓN SON:",
         "opciones": {
           "A": "Fundamentalmente, la vía telefónica y el correo escrito.",
           "B": "La presencial, la telefónica, el correo, la telemática.",
@@ -3684,7 +3684,7 @@ const QUIZZES = {
       {
         "num": 301,
         "idpregunta": 301,
-        "pregunta": "EN EL ÁMBITO DE ATENCIÓN AL CIUDADANO/A, LA FORMA EN QUE LA ADMINISTRACIÓN TRANSMITE AL CIUDADANO/A LA DOCUMENTACIÓN PRECISA:",
+        "pregunta": "301.- EN EL ÁMBITO DE ATENCIÓN AL CIUDADANO/A, LA FORMA EN QUE LA ADMINISTRACIÓN TRANSMITE AL CIUDADANO/A LA DOCUMENTACIÓN PRECISA:",
         "opciones": {
           "A": "Sólo pueden realizarse en soporte papel.",
           "B": "Puede ser transmitida en soporte papel o bien por medios electrónicos o telemáticos.",
@@ -3696,7 +3696,7 @@ const QUIZZES = {
       {
         "num": 302,
         "idpregunta": 302,
-        "pregunta": "¿A QUIÉN IDENTIFICA EL RGPD COMO RESPONSABLE DEL TRATAMIENTO O RESPONSABLE DE LA PROTECCIÓN DE DATOS?:",
+        "pregunta": "302.- ¿A QUIÉN IDENTIFICA EL RGPD COMO RESPONSABLE DEL TRATAMIENTO O RESPONSABLE DE LA PROTECCIÓN DE DATOS?:",
         "opciones": {
           "A": "Personas físicas y jurídicas.",
           "B": "Autoridades públicas.",
@@ -3708,7 +3708,7 @@ const QUIZZES = {
       {
         "num": 303,
         "idpregunta": 303,
-        "pregunta": "SEÑALE LA RESPUESTA INCORRECTA SEGÚN LO DISPUESTO EN REAL DECRETO 203/2021, DE 30 DE MARZO, POR EL QUE SE APRUEBA EL REGLAMENTO DE ACTUACIÓN Y FUNCIONAMIENTO DEL SECTOR PÚBLICO POR MEDIOS ELECTRÓNICOS. LAS ADMINISTRACIONES PÚBLICAS PODRÁN UTILIZAR LOS SIGUIENTES SISTEMAS PARA SU IDENTIFICACIÓN ELECTRÓNICA Y PARA LA AUTENTICACIÓN DE LOS DOCUMENTOS ELECTRÓNICOS QUE PRODUZCAN:",
+        "pregunta": "303.- SEÑALE LA RESPUESTA INCORRECTA SEGÚN LO DISPUESTO EN REAL DECRETO 203/2021, DE 30 DE MARZO, POR EL QUE SE APRUEBA EL REGLAMENTO DE ACTUACIÓN Y FUNCIONAMIENTO DEL SECTOR PÚBLICO POR MEDIOS ELECTRÓNICOS. LAS ADMINISTRACIONES PÚBLICAS PODRÁN UTILIZAR LOS SIGUIENTES SISTEMAS PARA SU IDENTIFICACIÓN ELECTRÓNICA Y PARA LA AUTENTICACIÓN DE LOS DOCUMENTOS ELECTRÓNICOS QUE PRODUZCAN:",
         "opciones": {
           "A": "Sistemas de firma electrónica basados en la utilización de certificados de dispositivo seguro o medio equivalente que permita identificar la sede electrónica y el establecimiento con ella de comunicaciones seguras.",
           "B": "Sistemas de firma electrónica para la actuación administrativa automatizada.",
@@ -3720,7 +3720,7 @@ const QUIZZES = {
       {
         "num": 304,
         "idpregunta": 304,
-        "pregunta": "EN LA COMUNICACIÓN TELEFÓNICA LA PERSONA RECEPTORA DEBE TENER EN CUENTA:",
+        "pregunta": "304.- EN LA COMUNICACIÓN TELEFÓNICA LA PERSONA RECEPTORA DEBE TENER EN CUENTA:",
         "opciones": {
           "A": "Procurar terminar las frases iniciadas por la persona interlocutora.",
           "B": "Saber utilizar los silencios, tanto para subrayar determinadas palabras como para escuchar a la persona interlocutora.",
@@ -3732,7 +3732,7 @@ const QUIZZES = {
       {
         "num": 305,
         "idpregunta": 305,
-        "pregunta": "¿CÓMO SE DEFINE \"CALIDAD\" EN LA ATENCIÓN A LAS PERSONAS USUARIAS?",
+        "pregunta": "305.- ¿CÓMO SE DEFINE \"CALIDAD\" EN LA ATENCIÓN A LAS PERSONAS USUARIAS?",
         "opciones": {
           "A": "Es proporcionar la mejor respuesta a las necesidades de la persona usuaria con los medios existentes.",
           "B": "Es conseguir que la persona usuaria se encuentre satisfecha a pesar de no haber obtenido ninguna respuesta",
@@ -3744,7 +3744,7 @@ const QUIZZES = {
       {
         "num": 306,
         "idpregunta": 306,
-        "pregunta": "EN UN ESTILO POSITIVO DE COMUNICACIÓN SE HA DE EVITAR:",
+        "pregunta": "306.- EN UN ESTILO POSITIVO DE COMUNICACIÓN SE HA DE EVITAR:",
         "opciones": {
           "A": "Palabras amables.",
           "B": "Frases hechas y refranes.",
@@ -3756,7 +3756,7 @@ const QUIZZES = {
       {
         "num": 307,
         "idpregunta": 307,
-        "pregunta": "AQUEL COMPORTAMIENTO QUE CONDUCE A VER LAS COSAS CON UN ENFOQUE NUEVO, ENCONTRANDO SOLUCIONES INÉDITAS, SE DENOMINA:",
+        "pregunta": "307.- AQUEL COMPORTAMIENTO QUE CONDUCE A VER LAS COSAS CON UN ENFOQUE NUEVO, ENCONTRANDO SOLUCIONES INÉDITAS, SE DENOMINA:",
         "opciones": {
           "A": "Comportamiento creativo.",
           "B": "Comportamiento positivo.",
@@ -3768,7 +3768,7 @@ const QUIZZES = {
       {
         "num": 308,
         "idpregunta": 308,
-        "pregunta": "AQUELLOS COMPORTAMIENTOS IRRITANTES O GENERADORES DE CONFLICTOS SON:",
+        "pregunta": "308.- AQUELLOS COMPORTAMIENTOS IRRITANTES O GENERADORES DE CONFLICTOS SON:",
         "opciones": {
           "A": "Comportamientos positivo, creativo y crítico.",
           "B": "Comportamientos defensivo, crítico, agresivo y creativo.",
@@ -3780,7 +3780,7 @@ const QUIZZES = {
       {
         "num": 309,
         "idpregunta": 309,
-        "pregunta": "DE ENTRE LOS SIGUIENTES TIPOS DE COMPORTAMIENTO, SEÑALE EL QUE SE HA DE EVITAR ANTE LA PERSONA USUARIA:",
+        "pregunta": "309.- DE ENTRE LOS SIGUIENTES TIPOS DE COMPORTAMIENTO, SEÑALE EL QUE SE HA DE EVITAR ANTE LA PERSONA USUARIA:",
         "opciones": {
           "A": "La jerga de la Institución: abreviaturas, signos, términos de uso propios....",
           "B": "Palabras tranquilizadoras.",
@@ -3792,7 +3792,7 @@ const QUIZZES = {
       {
         "num": 310,
         "idpregunta": 310,
-        "pregunta": "EN LA COMUNICACIÓN ¿QUÉ SE ENTIENDE POR CANAL?",
+        "pregunta": "310.- EN LA COMUNICACIÓN ¿QUÉ SE ENTIENDE POR CANAL?",
         "opciones": {
           "A": "Es el vehículo del que nos servimos para transmitir un mensaje. Constituye el elemento puramente técnico de la comunicación.",
           "B": "Es el conjunto de signos o símbolos utilizados en la comunicación.",
@@ -3804,7 +3804,7 @@ const QUIZZES = {
       {
         "num": 311,
         "idpregunta": 311,
-        "pregunta": "LA POLÍTICA DE ATENCIÓN E INFORMACIÓN AL CIUDADANO/A POR PARTE DE LA ADMINISTRACIÓN ESTÁ ORIENTADA A:",
+        "pregunta": "311.- LA POLÍTICA DE ATENCIÓN E INFORMACIÓN AL CIUDADANO/A POR PARTE DE LA ADMINISTRACIÓN ESTÁ ORIENTADA A:",
         "opciones": {
           "A": "Hacer prevalecer la atención presencial sobre otras modalidades.",
           "B": "Promocionar exclusivamente los canales telemáticos.",
@@ -3816,7 +3816,7 @@ const QUIZZES = {
       {
         "num": 312,
         "idpregunta": 312,
-        "pregunta": "LA IMPLANTACIÓN DE UN SISTEMA ÚNICO DE INFORMACIÓN ADMINISTRATIVA SUPONE:",
+        "pregunta": "312.- LA IMPLANTACIÓN DE UN SISTEMA ÚNICO DE INFORMACIÓN ADMINISTRATIVA SUPONE:",
         "opciones": {
           "A": "La implantación de un sistema de información unificado y multicanal.",
           "B": "Que el ciudadano podrá acudir a una única administración.",
@@ -3828,7 +3828,7 @@ const QUIZZES = {
       {
         "num": 313,
         "idpregunta": 313,
-        "pregunta": "¿QUÉ DEBE CONSIGNAR UN REGISTRO GENERAL DE UN ORGANISMO PÚBLICO CUANDO RECIBE UNA NOTIFICACIÓN?",
+        "pregunta": "313.- ¿QUÉ DEBE CONSIGNAR UN REGISTRO GENERAL DE UN ORGANISMO PÚBLICO CUANDO RECIBE UNA NOTIFICACIÓN?",
         "opciones": {
           "A": "Firma de la persona funcionaria que la recibe y sello oficial.",
           "B": "Nombre de la persona funcionaria que recibe la notificación, firma de la misma, DNI y fecha.",
@@ -3840,7 +3840,7 @@ const QUIZZES = {
       {
         "num": 314,
         "idpregunta": 314,
-        "pregunta": "¿EN QUE PLAZO SE DEBE REALIZAR EL 2º INTENTO DE ENTREGA DE UNA NOTIFICACIÓN?",
+        "pregunta": "314.- ¿EN QUE PLAZO SE DEBE REALIZAR EL 2º INTENTO DE ENTREGA DE UNA NOTIFICACIÓN?",
         "opciones": {
           "A": "En los tres días siguientes al primer intento y en hora distinta.",
           "B": "Al día siguiente del primer intento y hora distinta.",
@@ -3852,7 +3852,7 @@ const QUIZZES = {
       {
         "num": 315,
         "idpregunta": 315,
-        "pregunta": "EL IMPUESTO SOBRE EL VALOR AÑADIDO:",
+        "pregunta": "315.- EL IMPUESTO SOBRE EL VALOR AÑADIDO:",
         "opciones": {
           "A": "Es un tributo de naturaleza directa que recae sobre el consumo.",
           "B": "Es un tributo de naturaleza indirecta que recae sobre el consumo.",
@@ -3864,7 +3864,7 @@ const QUIZZES = {
       {
         "num": 316,
         "idpregunta": 316,
-        "pregunta": "¿QUÉ ES EL ALBARÁN?",
+        "pregunta": "316.- ¿QUÉ ES EL ALBARÁN?",
         "opciones": {
           "A": "Es un documento que acredita la recepción de un pedido.",
           "B": "El documento elaborado por el receptor de la mercancía.",
@@ -3876,7 +3876,7 @@ const QUIZZES = {
       {
         "num": 317,
         "idpregunta": 317,
-        "pregunta": "ENTRE OTRAS, ¿QUÉ INFORMACIÓN HA DE INCLUIR EL ALBARÁN?",
+        "pregunta": "317.- ENTRE OTRAS, ¿QUÉ INFORMACIÓN HA DE INCLUIR EL ALBARÁN?",
         "opciones": {
           "A": "Número de orden, Fecha de emisión y número de factura.",
           "B": "Fecha de emisión, Nombre de parte emisora y receptora, NIF y domicilio.",
@@ -3888,7 +3888,7 @@ const QUIZZES = {
       {
         "num": 318,
         "idpregunta": 318,
-        "pregunta": "SEÑALE LA DIFERENCIA, ENTRE OTRAS, QUE EXISTE ENTRE LA FACTURA Y EL ALBARÁN:",
+        "pregunta": "318.- SEÑALE LA DIFERENCIA, ENTRE OTRAS, QUE EXISTE ENTRE LA FACTURA Y EL ALBARÁN:",
         "opciones": {
           "A": "La factura la emite la parte compradora y el albarán la vendedora.",
           "B": "La emisión del albarán es obligatoria, mientras que la de la factura no.",
@@ -3900,7 +3900,7 @@ const QUIZZES = {
       {
         "num": 319,
         "idpregunta": 319,
-        "pregunta": "EL PEDIDO, ES PARTE DEL FLUJO ADMINISTRATIVO DEL STOCK, Y SE DEFINE...",
+        "pregunta": "319.- EL PEDIDO, ES PARTE DEL FLUJO ADMINISTRATIVO DEL STOCK, Y SE DEFINE...",
         "opciones": {
           "A": "Como la solicitud que realiza un/a empresario/a o profesional a un/a proveedor/a para que le suministre unas determinadas mercancías o le preste un servicio.",
           "B": "Como el parte de trabajo que realiza el cliente al proveedor.",
@@ -3912,7 +3912,7 @@ const QUIZZES = {
       {
         "num": 320,
         "idpregunta": 320,
-        "pregunta": "LA RECEPCIÓN DE MERCANCÍAS DEBE SER:",
+        "pregunta": "320.- LA RECEPCIÓN DE MERCANCÍAS DEBE SER:",
         "opciones": {
           "A": "Cualitativa, comprobando que la cantidad recibida es la pedida.",
           "B": "Cuantitativa, comprobando que lo pedido es lo recibido.",
@@ -3924,7 +3924,7 @@ const QUIZZES = {
       {
         "num": 321,
         "idpregunta": 321,
-        "pregunta": "EN CASO DE EMERGENCIA DENTRO DE UN EDIFICIO:",
+        "pregunta": "321.- EN CASO DE EMERGENCIA DENTRO DE UN EDIFICIO:",
         "opciones": {
           "A": "Se debe salir corriendo por la primera salida que encontremos.",
           "B": "Se debe esperar al ascensor.",
@@ -3936,7 +3936,7 @@ const QUIZZES = {
       {
         "num": 322,
         "idpregunta": 322,
-        "pregunta": "EN TODO LUGAR DE TRABAJO, LAS PUERTAS TRANSPARENTES SE DEBERÁN SEÑALIZAR:",
+        "pregunta": "322.- EN TODO LUGAR DE TRABAJO, LAS PUERTAS TRANSPARENTES SE DEBERÁN SEÑALIZAR:",
         "opciones": {
           "A": "Siempre.",
           "B": "Solo si son de emergencia.",
@@ -3948,7 +3948,7 @@ const QUIZZES = {
       {
         "num": 323,
         "idpregunta": 323,
-        "pregunta": "LA TEMPERATURA DONDE SE REALICEN TRABAJOS SEDENTARIOS HA DE ESTAR COMPRENDIDA ENTRE:",
+        "pregunta": "323.- LA TEMPERATURA DONDE SE REALICEN TRABAJOS SEDENTARIOS HA DE ESTAR COMPRENDIDA ENTRE:",
         "opciones": {
           "A": "17 y 27ºC y si se realizan trabajos ligeros entre 14 y 25ºC.",
           "B": "18 y 27ºC y si se realizan trabajos ligeros entre 14 y 26ºC.",
@@ -3960,7 +3960,7 @@ const QUIZZES = {
       {
         "num": 324,
         "idpregunta": 324,
-        "pregunta": "LAS DIMENSIONES DE LOS LOCALES DE TRABAJO DEBEN PERMITIR QUE LOS/AS TRABAJADORES/AS REALICEN SUS TRABAJOS SIN RIESGOS PARA SU SEGURIDAD Y SALUD Y EN CONDICIONES ERGONÓMICAS ACEPTABLES. SUS DIMENSIONES MÍNIMAS EN OFICINA HAN DE SER:",
+        "pregunta": "324.- LAS DIMENSIONES DE LOS LOCALES DE TRABAJO DEBEN PERMITIR QUE LOS/AS TRABAJADORES/AS REALICEN SUS TRABAJOS SIN RIESGOS PARA SU SEGURIDAD Y SALUD Y EN CONDICIONES ERGONÓMICAS ACEPTABLES. SUS DIMENSIONES MÍNIMAS EN OFICINA HAN DE SER:",
         "opciones": {
           "A": "Altura 3m desde el piso hasta el techo, superficie libre por trabajador/a 2m², espacio no ocupado por trabajador/a 10 m³.",
           "B": "Altura 3m desde el piso hasta el techo, superficie libre por trabajador/a 2m², espacio no ocupado por trabajador/a 10 m².",
@@ -3972,7 +3972,7 @@ const QUIZZES = {
       {
         "num": 325,
         "idpregunta": 325,
-        "pregunta": "LAS VÍAS Y SALIDAS DE EVACUACIÓN DEBEN SATISFACER LAS CONDICIONES QUE SE ESTABLECEN EN LOS SIGUIENTES PUNTOS:",
+        "pregunta": "325.- LAS VÍAS Y SALIDAS DE EVACUACIÓN DEBEN SATISFACER LAS CONDICIONES QUE SE ESTABLECEN EN LOS SIGUIENTES PUNTOS:",
         "opciones": {
           "A": "Las puertas de emergencia deben abrirse hacia el exterior y no estar cerradas. Están prohibidas las puertas específicamente de emergencia que sean correderas o giratorias y no deben cerrarse con llave.",
           "B": "Las puertas de emergencia deben permanecer expeditas y desembocar lo más directamente posible al exterior o zona de seguridad.",
@@ -3984,7 +3984,7 @@ const QUIZZES = {
       {
         "num": 326,
         "idpregunta": 326,
-        "pregunta": "DEFINICIÓN DE RIESGO DE TRABAJO",
+        "pregunta": "326.- DEFINICIÓN DE RIESGO DE TRABAJO",
         "opciones": {
           "A": "Posibilidad de que surja un peligro derivado del trabajo.",
           "B": "Posibilidad de que la persona trabajadora sufra un determinado daño derivado de su trabajo.",
@@ -3996,7 +3996,7 @@ const QUIZZES = {
       {
         "num": 327,
         "idpregunta": 327,
-        "pregunta": "LA GESTIÓN EN LA PREVENCIÓN DE RIESGOS LABORALES CONSISTE FUNDAMENTALMENTE EN:",
+        "pregunta": "327.- LA GESTIÓN EN LA PREVENCIÓN DE RIESGOS LABORALES CONSISTE FUNDAMENTALMENTE EN:",
         "opciones": {
           "A": "Informatizar toda la información para tomar decisiones con agilidad.",
           "B": "Aplicar la Ley de Prevención de riesgos Laborales a las circunstancias, tamaño y actividad de la empresa.",
@@ -4008,7 +4008,7 @@ const QUIZZES = {
       {
         "num": 328,
         "idpregunta": 328,
-        "pregunta": "¿QUE ES UN ACCIDENTE DE TRABAJO?",
+        "pregunta": "328.- ¿QUE ES UN ACCIDENTE DE TRABAJO?",
         "opciones": {
           "A": "Las caídas sufridas",
           "B": "Toda lesión corporal que la persona trabajadora sufra con ocasión o como consecuencia del trabajo que ejecuta por cuenta ajena.",
@@ -4020,7 +4020,7 @@ const QUIZZES = {
       {
         "num": 329,
         "idpregunta": 329,
-        "pregunta": "¿EN CUÁNTAS ÁREAS ESTÁ DIVIDIDO EL SERVICIO DE PREVENCIÓN DE LA EHU?",
+        "pregunta": "329.- ¿EN CUÁNTAS ÁREAS ESTÁ DIVIDIDO EL SERVICIO DE PREVENCIÓN DE LA EHU?",
         "opciones": {
           "A": "Está dividido en 2 áreas: el área sanitaria y el área técnica.",
           "B": "Está dividido en 2 áreas: el área informática y el área técnica.",
@@ -4032,7 +4032,7 @@ const QUIZZES = {
       {
         "num": 330,
         "idpregunta": 330,
-        "pregunta": "EL SERVICIO DE PREVENCIÓN DE LA EHU TIENE COMO OBLIGACIÓN ASESORAR:",
+        "pregunta": "330.- EL SERVICIO DE PREVENCIÓN DE LA EHU TIENE COMO OBLIGACIÓN ASESORAR:",
         "opciones": {
           "A": "Sólo a la Administración.",
           "B": "Sólo a su personal trabajador y a sus representantes.",
@@ -4044,7 +4044,7 @@ const QUIZZES = {
       {
         "num": 331,
         "idpregunta": 331,
-        "pregunta": "LA IMPLANTACIÓN DEL PLAN DE AUTOPROTECCIÓN COMPRENDERÁ:",
+        "pregunta": "331.- LA IMPLANTACIÓN DEL PLAN DE AUTOPROTECCIÓN COMPRENDERÁ:",
         "opciones": {
           "A": "Que todo el personal de la EHU esté atento ante una emergencia.",
           "B": "Que el Servicio de Prevención dé la señal en caso de emergencia.",
@@ -4056,7 +4056,7 @@ const QUIZZES = {
       {
         "num": 332,
         "idpregunta": 332,
-        "pregunta": "UNA SEÑAL DE FORMA REDONDA CON PICTOGRAMA BLANCO, FONDO AZUL Y BORDE BLANCO O AZUL ES UNA SEÑAL DE:",
+        "pregunta": "332.- UNA SEÑAL DE FORMA REDONDA CON PICTOGRAMA BLANCO, FONDO AZUL Y BORDE BLANCO O AZUL ES UNA SEÑAL DE:",
         "opciones": {
           "A": "Advertencia.",
           "B": "Prohibición.",
@@ -4068,7 +4068,7 @@ const QUIZZES = {
       {
         "num": 333,
         "idpregunta": 333,
-        "pregunta": "LA EVACUACIÓN DEL CENTRO DE TRABAJO SE REALIZA CUANDO:",
+        "pregunta": "333.- LA EVACUACIÓN DEL CENTRO DE TRABAJO SE REALIZA CUANDO:",
         "opciones": {
           "A": "Se ve humo en el centro de trabajo.",
           "B": "Todas las etapas de protección, detección y extinción del fuego han fallado y existe riesgo para la vida de las personas.",
@@ -4080,7 +4080,7 @@ const QUIZZES = {
       {
         "num": 334,
         "idpregunta": 334,
-        "pregunta": "CON LA SEÑALIZACIÓN DE SEGURIDAD SE PRETENDE:",
+        "pregunta": "334.- CON LA SEÑALIZACIÓN DE SEGURIDAD SE PRETENDE:",
         "opciones": {
           "A": "Hacer recomendaciones de seguridad en forma de cartel.",
           "B": "Lograr que la persona trabajadora se quede inmóvil cuando vea la señal.",
@@ -4092,7 +4092,7 @@ const QUIZZES = {
       {
         "num": 335,
         "idpregunta": 335,
-        "pregunta": "INDIQUE EL ORDEN QUE DEBEN LLEVAR LAS ACCIONES EN SEGURIDAD:",
+        "pregunta": "335.- INDIQUE EL ORDEN QUE DEBEN LLEVAR LAS ACCIONES EN SEGURIDAD:",
         "opciones": {
           "A": "Actuar sobre el receptor, actuar sobre el medio, actuar sobre el riesgo.",
           "B": "Actuar sobre la máquina, actuar sobre el trabajador, actuar sobre el método de trabajo.",
@@ -4104,7 +4104,7 @@ const QUIZZES = {
       {
         "num": 336,
         "idpregunta": 336,
-        "pregunta": "¿CUÁL DE LAS SIGUIENTES ACTUACIONES CON UN EXTINTOR ES CORRECTA? MARQUE LA RESPUESTA CORRECTA",
+        "pregunta": "336.- ¿CUÁL DE LAS SIGUIENTES ACTUACIONES CON UN EXTINTOR ES CORRECTA? MARQUE LA RESPUESTA CORRECTA",
         "opciones": {
           "A": "quitar el pasador de seguridad, tirando de la anilla.",
           "B": "sujetar la manguera de salida del extintor.",
@@ -4116,7 +4116,7 @@ const QUIZZES = {
       {
         "num": 337,
         "idpregunta": 337,
-        "pregunta": "SEGÚN EL ART. 14 DE LA LEY DE PREVENCIÓN DE RIESGOS LABORALES ...",
+        "pregunta": "337.- SEGÚN EL ART. 14 DE LA LEY DE PREVENCIÓN DE RIESGOS LABORALES ...",
         "opciones": {
           "A": "Los/as trabajadores/as tienen derecho a una protección eficaz.",
           "B": "Los/as trabajadores/as tienen derecho a una protección integral.",
@@ -4128,7 +4128,7 @@ const QUIZZES = {
       {
         "num": 338,
         "idpregunta": 338,
-        "pregunta": "LA REALIZACIÓN DE SIMULACROS TENDRÁ COMO OBJETIVOS LA VERIFICACIÓN Y COMPROBACIÓN DE:",
+        "pregunta": "338.- LA REALIZACIÓN DE SIMULACROS TENDRÁ COMO OBJETIVOS LA VERIFICACIÓN Y COMPROBACIÓN DE:",
         "opciones": {
           "A": "Que todo el personal de la plantilla se ha leído el plan de emergencia y de esa manera cumplir con la Ley 31/1995, sobre Prevención de Riesgos Laborales.",
           "B": "Que al menos el Portero Mayor del centro se ha leído el plan de emergencia, con lo que se garantiza que la puertas y salidas de evacuación estará abiertas en caso de emergencia.",
@@ -4140,7 +4140,7 @@ const QUIZZES = {
       {
         "num": 339,
         "idpregunta": 339,
-        "pregunta": "CUÁLES SON LAS CUATRO DISCIPLINAS O ESPECIALIDADES DE LA PREVENCIÓN DE RIESGOS LABORALES:",
+        "pregunta": "339.- CUÁLES SON LAS CUATRO DISCIPLINAS O ESPECIALIDADES DE LA PREVENCIÓN DE RIESGOS LABORALES:",
         "opciones": {
           "A": "Seguridad en el Trabajo, Higiene Industrial, Ergonomía y Psicosociología aplicada.",
           "B": "Seguridad en el Trabajo, Higiene Industrial, Ergonomía y Psicosociología aplicada y Medicina en el Trabajo.",
@@ -4152,7 +4152,7 @@ const QUIZZES = {
       {
         "num": 340,
         "idpregunta": 340,
-        "pregunta": "SEÑALA EL NÚMERO DE DELEGADOS/AS DE PREVENCIÓN QUE LE CORRESPONDE TENER A LAS EMPRESAS QUE TIENEN UNA PLANTILLA CON 503 TRABAJADORES/AS:",
+        "pregunta": "340.- SEÑALA EL NÚMERO DE DELEGADOS/AS DE PREVENCIÓN QUE LE CORRESPONDE TENER A LAS EMPRESAS QUE TIENEN UNA PLANTILLA CON 503 TRABAJADORES/AS:",
         "opciones": {
           "A": "2.",
           "B": "3.",
@@ -4164,7 +4164,7 @@ const QUIZZES = {
       {
         "num": 341,
         "idpregunta": 341,
-        "pregunta": "SEGÚN EL R.D. 486/1997, SOBRE DISPOSICIONES MÍNIMAS EN LUGARES DE TRABAJO, EL NIVEL DE ILUMINACIÓN EXIGIDO EN VÍAS DE CIRCULACIÓN ES:",
+        "pregunta": "341.- SEGÚN EL R.D. 486/1997, SOBRE DISPOSICIONES MÍNIMAS EN LUGARES DE TRABAJO, EL NIVEL DE ILUMINACIÓN EXIGIDO EN VÍAS DE CIRCULACIÓN ES:",
         "opciones": {
           "A": "Si la vía es de uso ocasional, 50 lux, y si es de uso habitual, 100 lux .",
           "B": "Si la vía es de uso ocasional, 25 lux, y si es de uso habitual, 50 lux .",
@@ -4176,7 +4176,7 @@ const QUIZZES = {
       {
         "num": 342,
         "idpregunta": 342,
-        "pregunta": "EN RELACION CON LA PREVENCIÓN DE RIESGOS LABORALES, PODEMOS ENCONTRAR LOS COLORES:",
+        "pregunta": "342.- EN RELACION CON LA PREVENCIÓN DE RIESGOS LABORALES, PODEMOS ENCONTRAR LOS COLORES:",
         "opciones": {
           "A": "Rojo, verde, azul, amarillo o amarillo-anaranjado.",
           "B": "Rojo, amarillo o amarillo-anaranjado.",
@@ -4188,7 +4188,7 @@ const QUIZZES = {
       {
         "num": 343,
         "idpregunta": 343,
-        "pregunta": "EN RELACIÓN CON LA PREVENCIÓN DE RIESGOS LABORALES, EL COLOR AMARILLO EN UNA SEÑAL SIGNIFICA:",
+        "pregunta": "343.- EN RELACIÓN CON LA PREVENCIÓN DE RIESGOS LABORALES, EL COLOR AMARILLO EN UNA SEÑAL SIGNIFICA:",
         "opciones": {
           "A": "Comportamiento o acción específica.",
           "B": "Obligación de utilizar un equipo de protección individual.",
@@ -4200,7 +4200,7 @@ const QUIZZES = {
       {
         "num": 344,
         "idpregunta": 344,
-        "pregunta": "EN RELACIÓN CON LA PREVENCIÓN DE RIESGOS LABORALES, LAS SEÑALES DE PROHIBICIÓN:",
+        "pregunta": "344.- EN RELACIÓN CON LA PREVENCIÓN DE RIESGOS LABORALES, LAS SEÑALES DE PROHIBICIÓN:",
         "opciones": {
           "A": "Tienen forma redonda.",
           "B": "Tienen forma cuadrada.",
@@ -4212,7 +4212,7 @@ const QUIZZES = {
       {
         "num": 345,
         "idpregunta": 345,
-        "pregunta": "EN RELACIÓN CON LA PREVENCIÓN DE RIESGOS LABORALES, LAS SEÑALES DE OBLIGACIÓN:",
+        "pregunta": "345.- EN RELACIÓN CON LA PREVENCIÓN DE RIESGOS LABORALES, LAS SEÑALES DE OBLIGACIÓN:",
         "opciones": {
           "A": "Tienen forma redonda.",
           "B": "Tienen forma cuadrada.",
@@ -4224,7 +4224,7 @@ const QUIZZES = {
       {
         "num": 346,
         "idpregunta": 346,
-        "pregunta": "LOS ACCIDENTES GRAVES O MUY GRAVES O QUE AFECTEN A MÁS DE CUATRO TRABAJADORES/AS DEBEN COMUNICARSE A LA AUTORIDAD LABORAL DE LA PROVINCIA:",
+        "pregunta": "346.- LOS ACCIDENTES GRAVES O MUY GRAVES O QUE AFECTEN A MÁS DE CUATRO TRABAJADORES/AS DEBEN COMUNICARSE A LA AUTORIDAD LABORAL DE LA PROVINCIA:",
         "opciones": {
           "A": "Inmediatamente.",
           "B": "En un plazo máximo de 12 horas.",
@@ -4236,7 +4236,7 @@ const QUIZZES = {
       {
         "num": 347,
         "idpregunta": 347,
-        "pregunta": "EN RELACIÓN CON LA PREVENCIÓN DE RIESGOS LABORALES, ENTENDEMOS COMO CARGA FÍSICA:",
+        "pregunta": "347.- EN RELACIÓN CON LA PREVENCIÓN DE RIESGOS LABORALES, ENTENDEMOS COMO CARGA FÍSICA:",
         "opciones": {
           "A": "Cualquier esfuerzo realizado con la espalda.",
           "B": "Todo peso que se levante o no con las manos siempre que se trate de un objeto animado.",
@@ -4248,7 +4248,7 @@ const QUIZZES = {
       {
         "num": 348,
         "idpregunta": 348,
-        "pregunta": "SI LA MÁQUINA FOTOCOPIADORA NOS INDICA QUE HAY UN ATASCO EN LA UNIDAD FUSORA ¿DÓNDE ESTÁ LOCALIZADO EL ATASCO?",
+        "pregunta": "348.- SI LA MÁQUINA FOTOCOPIADORA NOS INDICA QUE HAY UN ATASCO EN LA UNIDAD FUSORA ¿DÓNDE ESTÁ LOCALIZADO EL ATASCO?",
         "opciones": {
           "A": "En los rodillos.",
           "B": "En el tambor.",
@@ -4260,7 +4260,7 @@ const QUIZZES = {
       {
         "num": 349,
         "idpregunta": 349,
-        "pregunta": "CUANDO EL VIDRIO DE CONTACTO EN UNA MÁQUINA FOTOCOPIADORA ESTÁ SUCIO ¿CÓMO SE PROCEDERÁ A SU LIMPIEZA?",
+        "pregunta": "349.- CUANDO EL VIDRIO DE CONTACTO EN UNA MÁQUINA FOTOCOPIADORA ESTÁ SUCIO ¿CÓMO SE PROCEDERÁ A SU LIMPIEZA?",
         "opciones": {
           "A": "Con disolvente.",
           "B": "Con un paño empapado en amoniaco.",
@@ -4272,7 +4272,7 @@ const QUIZZES = {
       {
         "num": 350,
         "idpregunta": 350,
-        "pregunta": "SI UN PAPEL LLEVA EL SÍMBOLO TCF ¿QUÉ SIGNIFICA?",
+        "pregunta": "350.- SI UN PAPEL LLEVA EL SÍMBOLO TCF ¿QUÉ SIGNIFICA?",
         "opciones": {
           "A": "Que está fabricado con pasta libre de cloro.",
           "B": "Que está fabricado con pasta de papel blanqueado con dióxido de carbono.",
@@ -4284,7 +4284,7 @@ const QUIZZES = {
       {
         "num": 351,
         "idpregunta": 351,
-        "pregunta": "¿LA MEMORIA ZOOM EN UNA FOTOCOPIADORA ESTÁ RELACIONADA CON?",
+        "pregunta": "351.- ¿LA MEMORIA ZOOM EN UNA FOTOCOPIADORA ESTÁ RELACIONADA CON?",
         "opciones": {
           "A": "Intensidad de color.",
           "B": "Ampliación o reducción de la copia.",
@@ -4296,7 +4296,7 @@ const QUIZZES = {
       {
         "num": 352,
         "idpregunta": 352,
-        "pregunta": "LA DESTRUCCIÓN DE DOCUMENTOS SE DEBE REALIZAR CON EL:",
+        "pregunta": "352.- LA DESTRUCCIÓN DE DOCUMENTOS SE DEBE REALIZAR CON EL:",
         "opciones": {
           "A": "Documento grapado.",
           "B": "Documento sin grapar.",
@@ -4308,7 +4308,7 @@ const QUIZZES = {
       {
         "num": 353,
         "idpregunta": 353,
-        "pregunta": "LA DESTRUCCIÓN FÍSICA DE DOCUMENTOS NO VÁLIDOS SE DENOMINA:",
+        "pregunta": "353.- LA DESTRUCCIÓN FÍSICA DE DOCUMENTOS NO VÁLIDOS SE DENOMINA:",
         "opciones": {
           "A": "Expurgo.",
           "B": "Expolio.",
@@ -4320,7 +4320,7 @@ const QUIZZES = {
       {
         "num": 354,
         "idpregunta": 354,
-        "pregunta": "LA DESTRUCCIÓN FÍSICA DE DOCUMENTOS SE DEBE REALIZAR:",
+        "pregunta": "354.- LA DESTRUCCIÓN FÍSICA DE DOCUMENTOS SE DEBE REALIZAR:",
         "opciones": {
           "A": "Tirándolos a la basura.",
           "B": "Por cualquier método que garantice la imposibilidad de reconstrucción.",
@@ -4332,7 +4332,7 @@ const QUIZZES = {
       {
         "num": 355,
         "idpregunta": 355,
-        "pregunta": "A LA HORA DE ATENDER AL CIUDADANO/A SE HABLA DE LA PRESTACIÓN DE UN SERVICIO, ¿QUÉ SE QUIERE DECIR CON ELLO?",
+        "pregunta": "355.- A LA HORA DE ATENDER AL CIUDADANO/A SE HABLA DE LA PRESTACIÓN DE UN SERVICIO, ¿QUÉ SE QUIERE DECIR CON ELLO?",
         "opciones": {
           "A": "Que se realiza la cesión de un bien tangible.",
           "B": "Que se presta un bien que almacenable y fácilmente medible.",
@@ -4344,7 +4344,7 @@ const QUIZZES = {
       {
         "num": 356,
         "idpregunta": 356,
-        "pregunta": "¿CUÁL ES EL PRIMER ACTO DE COMUNICACIÓN ENTRE LA ADMINISTRACIÓN Y EL/LA USUARIO/A-CLIENTE QUE ACUDE A ELLA?",
+        "pregunta": "356.- ¿CUÁL ES EL PRIMER ACTO DE COMUNICACIÓN ENTRE LA ADMINISTRACIÓN Y EL/LA USUARIO/A-CLIENTE QUE ACUDE A ELLA?",
         "opciones": {
           "A": "El saludo.",
           "B": "La recepción.",
@@ -4356,7 +4356,7 @@ const QUIZZES = {
       {
         "num": 357,
         "idpregunta": 357,
-        "pregunta": "¿CUÁLES SON LAS CAPACIDADES BÁSICAS QUE DEBE TENER EL PROFESIONAL DE RECEPCIÓN DE UNA ADMINISTRACIÓN PÚBLICA?",
+        "pregunta": "357.- ¿CUÁLES SON LAS CAPACIDADES BÁSICAS QUE DEBE TENER EL PROFESIONAL DE RECEPCIÓN DE UNA ADMINISTRACIÓN PÚBLICA?",
         "opciones": {
           "A": "Claridad de comunicación y capacidad de mando.",
           "B": "Capacidad de relación y capacidad de solución de conflictos.",
@@ -4368,7 +4368,7 @@ const QUIZZES = {
       {
         "num": 358,
         "idpregunta": 358,
-        "pregunta": "¿QUÉ DIFERENCIA EXISTE EN INFORMACIÓN Y COMUNICACIÓN?",
+        "pregunta": "358.- ¿QUÉ DIFERENCIA EXISTE EN INFORMACIÓN Y COMUNICACIÓN?",
         "opciones": {
           "A": "El significado es el mismo.",
           "B": "La información la da una sola persona y la comunicación la puedan dar varias.",
@@ -4380,7 +4380,7 @@ const QUIZZES = {
       {
         "num": 359,
         "idpregunta": 359,
-        "pregunta": "¿EN CUÁL DE LOS SIGUIENTES DISPOSITIVOS PREDOMINA LA COMUNICACIÓN?",
+        "pregunta": "359.- ¿EN CUÁL DE LOS SIGUIENTES DISPOSITIVOS PREDOMINA LA COMUNICACIÓN?",
         "opciones": {
           "A": "En las publicaciones internas.",
           "B": "En los indicadores de control.",
@@ -4392,7 +4392,7 @@ const QUIZZES = {
       {
         "num": 360,
         "idpregunta": 360,
-        "pregunta": "¿CUÁL DE LAS SIGUIENTES AFIRMACIONES ES LA CORRECTA?",
+        "pregunta": "360.- ¿CUÁL DE LAS SIGUIENTES AFIRMACIONES ES LA CORRECTA?",
         "opciones": {
           "A": "El/la funcionario/a administrativo es el primer punto de contacto de la Administración con la ciudadanía.",
           "B": "Los/as Directivos/as son el primer punto de contacto de la Administración con la ciudadanía.",
@@ -4404,7 +4404,7 @@ const QUIZZES = {
       {
         "num": 361,
         "idpregunta": 361,
-        "pregunta": "¿CUÁL DE LAS SIGUIENTES AFIRMACIONES ES LA CORRECTA?",
+        "pregunta": "361.- ¿CUÁL DE LAS SIGUIENTES AFIRMACIONES ES LA CORRECTA?",
         "opciones": {
           "A": "El desconocimiento o mala elección del lenguaje (vocabulario complejo, estilo inadecuado) es algo que sucede y no tiene ninguna repercusión en la comunicación.",
           "B": "El desconocimiento o mala elección del lenguaje (vocabulario complejo, estilo inadecuado) es una ventaja en la comunicación.",
@@ -4416,7 +4416,7 @@ const QUIZZES = {
       {
         "num": 362,
         "idpregunta": 362,
-        "pregunta": "CUANDO SE ATIENDE AL PÚBLICO, LAS INTERFERENCIAS Y RUIDOS SON:",
+        "pregunta": "362.- CUANDO SE ATIENDE AL PÚBLICO, LAS INTERFERENCIAS Y RUIDOS SON:",
         "opciones": {
           "A": "Algo que sucede y no tiene ninguna repercusión.",
           "B": "Una barrera en la comunicación.",
@@ -4428,7 +4428,7 @@ const QUIZZES = {
       {
         "num": 363,
         "idpregunta": 363,
-        "pregunta": "CUANDO SE ATIENDE AL PÚBLICO EL BUEN CONOCIMIENTO DE LA MATERIA:",
+        "pregunta": "363.- CUANDO SE ATIENDE AL PÚBLICO EL BUEN CONOCIMIENTO DE LA MATERIA:",
         "opciones": {
           "A": "Ayuda a entender mejor el mensaje.",
           "B": "Supone una barrera en la comunicación.",
@@ -4440,7 +4440,7 @@ const QUIZZES = {
       {
         "num": 364,
         "idpregunta": 364,
-        "pregunta": "LA INCOHERENCIA DEL MENSAJE ES:",
+        "pregunta": "364.- LA INCOHERENCIA DEL MENSAJE ES:",
         "opciones": {
           "A": "Una ventaja en la comunicación.",
           "B": "Una barrera en la comunicación.",
@@ -4452,7 +4452,7 @@ const QUIZZES = {
       {
         "num": 365,
         "idpregunta": 365,
-        "pregunta": "CUANDO ALGUIEN TRABAJA ATENDIENDO AL PÚBLICO, LA INTENCIÓN POSITIVA ES:",
+        "pregunta": "365.- CUANDO ALGUIEN TRABAJA ATENDIENDO AL PÚBLICO, LA INTENCIÓN POSITIVA ES:",
         "opciones": {
           "A": "Una barrera en la comunicación.",
           "B": "Una ventaja en la comunicación.",
@@ -4464,7 +4464,7 @@ const QUIZZES = {
       {
         "num": 366,
         "idpregunta": 366,
-        "pregunta": "EN LA COMUNICACIÓN, ¿CUÁL DE LAS SIGUIENTES FRASES ES LA CORRECTA?",
+        "pregunta": "366.- EN LA COMUNICACIÓN, ¿CUÁL DE LAS SIGUIENTES FRASES ES LA CORRECTA?",
         "opciones": {
           "A": "La brevedad es una característica que no afecta a la comprensión del mensaje.",
           "B": "La brevedad es una característica que no facilita a la comprensión del mensaje.",
@@ -4476,7 +4476,7 @@ const QUIZZES = {
       {
         "num": 367,
         "idpregunta": 367,
-        "pregunta": "¿CUÁL DE LAS SIGUIENTES FRASES ES LA CORRECTA?",
+        "pregunta": "367.- ¿CUÁL DE LAS SIGUIENTES FRASES ES LA CORRECTA?",
         "opciones": {
           "A": "El orden del mensaje es una característica que facilita la comprensión del mismo.",
           "B": "El orden del mensaje es una característica que no facilita la comprensión del mismo.",
@@ -4488,7 +4488,7 @@ const QUIZZES = {
       {
         "num": 368,
         "idpregunta": 368,
-        "pregunta": "LA ACTITUD DE UNA BUENA PERSONA INFORMADORA DEBE SER LA DE:",
+        "pregunta": "368.- LA ACTITUD DE UNA BUENA PERSONA INFORMADORA DEBE SER LA DE:",
         "opciones": {
           "A": "Ser inflexible.",
           "B": "Estar a la defensiva.",
@@ -4500,7 +4500,7 @@ const QUIZZES = {
       {
         "num": 369,
         "idpregunta": 369,
-        "pregunta": "EN LA COMUNICACIÓN SER CORTÉS INDICA:",
+        "pregunta": "369.- EN LA COMUNICACIÓN SER CORTÉS INDICA:",
         "opciones": {
           "A": "Una actitud de buen informador.",
           "B": "Una actitud de mal informador.",
@@ -4512,7 +4512,7 @@ const QUIZZES = {
       {
         "num": 370,
         "idpregunta": 370,
-        "pregunta": "UNA CARACTERÍSTICA QUE DEFINE A UNA PERSONA QUE ESTÁ INFORMANDO INCORRECTAMENTE ES:",
+        "pregunta": "370.- UNA CARACTERÍSTICA QUE DEFINE A UNA PERSONA QUE ESTÁ INFORMANDO INCORRECTAMENTE ES:",
         "opciones": {
           "A": "La disponibilidad.",
           "B": "La profesionalidad.",
@@ -4524,7 +4524,7 @@ const QUIZZES = {
       {
         "num": 371,
         "idpregunta": 371,
-        "pregunta": "LOS COMPONENTES DE LA COMUNICACIÓN TELEFÓNICA SON:",
+        "pregunta": "371.- LOS COMPONENTES DE LA COMUNICACIÓN TELEFÓNICA SON:",
         "opciones": {
           "A": "La voz.",
           "B": "La voz y elocución.",
@@ -4536,7 +4536,7 @@ const QUIZZES = {
       {
         "num": 372,
         "idpregunta": 372,
-        "pregunta": "EN LA CONVERSACIÓN TELEFÓNICA:",
+        "pregunta": "372.- EN LA CONVERSACIÓN TELEFÓNICA:",
         "opciones": {
           "A": "La persona interlocutora es la que se adapta a nuestra velocidad.",
           "B": "Hay que saber hablar a mayor velocidad que la de la persona interlocutora.",
@@ -4548,7 +4548,7 @@ const QUIZZES = {
       {
         "num": 373,
         "idpregunta": 373,
-        "pregunta": "EN EL TRANSCURSO DE UNA CONVERSACIÓN TELEFÓNICA HAY QUE:",
+        "pregunta": "373.- EN EL TRANSCURSO DE UNA CONVERSACIÓN TELEFÓNICA HAY QUE:",
         "opciones": {
           "A": "Utilizar un tono normal.",
           "B": "Susurrar.",
@@ -4560,7 +4560,7 @@ const QUIZZES = {
       {
         "num": 374,
         "idpregunta": 374,
-        "pregunta": "LA ENTONACIÓN EN LA COMUNICACIÓN TELEFÓNICA:",
+        "pregunta": "374.- LA ENTONACIÓN EN LA COMUNICACIÓN TELEFÓNICA:",
         "opciones": {
           "A": "Es un componente que aprecia la persona que está a la escucha.",
           "B": "No es un componente que se pueda llegar a apreciar.",
@@ -4572,7 +4572,7 @@ const QUIZZES = {
       {
         "num": 375,
         "idpregunta": 375,
-        "pregunta": "CUANDO SE HA LLAMADO A UN TELÉFONO EQUIVOCADO LO MÁS APROPIADO ES:",
+        "pregunta": "375.- CUANDO SE HA LLAMADO A UN TELÉFONO EQUIVOCADO LO MÁS APROPIADO ES:",
         "opciones": {
           "A": "Preguntar a dónde se ha llamado",
           "B": "Preguntar quién habla.",
@@ -4584,7 +4584,7 @@ const QUIZZES = {
       {
         "num": 376,
         "idpregunta": 376,
-        "pregunta": "UNO DE LOS ERRORES MÁS FRECUENTES EN LA ATENCIÓN AL PÚBLICO DIRECTA ES:",
+        "pregunta": "376.- UNO DE LOS ERRORES MÁS FRECUENTES EN LA ATENCIÓN AL PÚBLICO DIRECTA ES:",
         "opciones": {
           "A": "Evitar enviar a la gente al sitio incorrecto.",
           "B": "Tener conversaciones privadas en presencia de público.",
@@ -4596,7 +4596,7 @@ const QUIZZES = {
       {
         "num": 377,
         "idpregunta": 377,
-        "pregunta": "EN LA COMUNICACIÓN PRESENCIAL COMUNICADOR/A-CIUDADANO/A:",
+        "pregunta": "377.- EN LA COMUNICACIÓN PRESENCIAL COMUNICADOR/A-CIUDADANO/A:",
         "opciones": {
           "A": "Hay que prestar mucha atención a los gestos y al contenido de la conversación.",
           "B": "Sólo hay que escuchar el contenido de la conversación.",
@@ -4608,7 +4608,7 @@ const QUIZZES = {
       {
         "num": 378,
         "idpregunta": 378,
-        "pregunta": "EN LA RELACIÓN COMUNICADOR/A-CIUDADANO/A, SI ESTAMOS ATENDIENDO POR TELÉFONO Y LLEGA UNA VISITA, LO MÁS APROPIADO CONSISTE EN:",
+        "pregunta": "378.- EN LA RELACIÓN COMUNICADOR/A-CIUDADANO/A, SI ESTAMOS ATENDIENDO POR TELÉFONO Y LLEGA UNA VISITA, LO MÁS APROPIADO CONSISTE EN:",
         "opciones": {
           "A": "Colgar el teléfono y atender a la visita.",
           "B": "No atender a la visita y atender el teléfono sin más.",
@@ -4620,7 +4620,7 @@ const QUIZZES = {
       {
         "num": 379,
         "idpregunta": 379,
-        "pregunta": "EN LA COMUNICACIÓN PRESENCIAL:",
+        "pregunta": "379.- EN LA COMUNICACIÓN PRESENCIAL:",
         "opciones": {
           "A": "Se fomentará el impacto negativo en la percepción ciudadana.",
           "B": "Se formularán cuantas preguntas sean necesarias para entender perfectamente el problema.",
@@ -4632,7 +4632,7 @@ const QUIZZES = {
       {
         "num": 380,
         "idpregunta": 380,
-        "pregunta": "SI SE QUIRE TENER UNA COMUNICACIÓN ACTIVA CON EL CIUDADANO/A, SE DEBE:",
+        "pregunta": "380.- SI SE QUIRE TENER UNA COMUNICACIÓN ACTIVA CON EL CIUDADANO/A, SE DEBE:",
         "opciones": {
           "A": "No reformular las preguntas que sean necesarias.",
           "B": "Cooperar con la persona interlocutora.",
@@ -4644,7 +4644,7 @@ const QUIZZES = {
       {
         "num": 381,
         "idpregunta": 381,
-        "pregunta": "EN LA COMUNICACIÓN ORAL PRESENCIAL, PARA QUE EXISTA UNA COMUNICACIÓN ACTIVA ENTRE INFORMADOR/A-CIUDADANO/A, DEBEMOS:",
+        "pregunta": "381.- EN LA COMUNICACIÓN ORAL PRESENCIAL, PARA QUE EXISTA UNA COMUNICACIÓN ACTIVA ENTRE INFORMADOR/A-CIUDADANO/A, DEBEMOS:",
         "opciones": {
           "A": "Indagar y requerir información complementaria.",
           "B": "No mirar a la persona que habla.",
@@ -4656,7 +4656,7 @@ const QUIZZES = {
       {
         "num": 382,
         "idpregunta": 382,
-        "pregunta": "EN LAS CONSULTAS TELEFÓNICAS DEMOSTRAMOS A LA PERSONA INTERLOCUTORA QUE HEMOS EENTENDIDO:",
+        "pregunta": "382.- EN LAS CONSULTAS TELEFÓNICAS DEMOSTRAMOS A LA PERSONA INTERLOCUTORA QUE HEMOS EENTENDIDO:",
         "opciones": {
           "A": "Reformulando la pregunta.",
           "B": "Contestando lo antes posible.",
@@ -4668,7 +4668,7 @@ const QUIZZES = {
       {
         "num": 383,
         "idpregunta": 383,
-        "pregunta": "LAS RESPUESTAS EN LAS CONSULTAS TELEFÓNICAS DEBEN SER:",
+        "pregunta": "383.- LAS RESPUESTAS EN LAS CONSULTAS TELEFÓNICAS DEBEN SER:",
         "opciones": {
           "A": "Formuladas con un lenguaje sencillo y adaptado a la persona interlocutora.",
           "B": "Formuladas con un lenguaje técnico.",
@@ -4680,7 +4680,7 @@ const QUIZZES = {
       {
         "num": 384,
         "idpregunta": 384,
-        "pregunta": "EN LA ATENCIÓN TELEFÓNICA, LA SONRISA TELEFÓNICA CORRESPONDE A LA FASE DE:",
+        "pregunta": "384.- EN LA ATENCIÓN TELEFÓNICA, LA SONRISA TELEFÓNICA CORRESPONDE A LA FASE DE:",
         "opciones": {
           "A": "Identificación de la necesidad.",
           "B": "Cierre.",
@@ -4692,7 +4692,7 @@ const QUIZZES = {
       {
         "num": 385,
         "idpregunta": 385,
-        "pregunta": "EN LA ENTREVISTA TELEFÓNICA, SI HAY QUE REALIZAR ALGÚN TRÁMITE O CONSULTA INTERNA:",
+        "pregunta": "385.- EN LA ENTREVISTA TELEFÓNICA, SI HAY QUE REALIZAR ALGÚN TRÁMITE O CONSULTA INTERNA:",
         "opciones": {
           "A": "Si la espera va a ser larga, debemos advertirlo a la persona interlocutora.",
           "B": "Tomaremos nota y devolveremos la llamada a la persona interlocutora.",
@@ -4704,7 +4704,7 @@ const QUIZZES = {
       {
         "num": 386,
         "idpregunta": 386,
-        "pregunta": "CUANDO SE ATIENDE AL PÚBLICO, SI LLEGA UNA PERSONA CON UNA PROTESTA:",
+        "pregunta": "386.- CUANDO SE ATIENDE AL PÚBLICO, SI LLEGA UNA PERSONA CON UNA PROTESTA:",
         "opciones": {
           "A": "Nos implicaremos personalmente.",
           "B": "No le dejaremos hablar.",
@@ -4716,7 +4716,7 @@ const QUIZZES = {
       {
         "num": 387,
         "idpregunta": 387,
-        "pregunta": "SI LLEGA UN/A CIUDADANO/A CON UNA RECLAMACIÓN:",
+        "pregunta": "387.- SI LLEGA UN/A CIUDADANO/A CON UNA RECLAMACIÓN:",
         "opciones": {
           "A": "No aceptaremos la responsabilidad.",
           "B": "No le dejaremos hablar.",
@@ -4728,7 +4728,7 @@ const QUIZZES = {
       {
         "num": 388,
         "idpregunta": 388,
-        "pregunta": "LA ACTITUD QUE TIENE QUE TENER UNA PERSONA QUE ESTÁ ATENDIENDO AL PÚBLICO Y LE LLEGA UNA QUEJA ES:",
+        "pregunta": "388.- LA ACTITUD QUE TIENE QUE TENER UNA PERSONA QUE ESTÁ ATENDIENDO AL PÚBLICO Y LE LLEGA UNA QUEJA ES:",
         "opciones": {
           "A": "No aceptar la responsabilidad.",
           "B": "Mantener una actitud positiva.",
@@ -4740,7 +4740,7 @@ const QUIZZES = {
       {
         "num": 389,
         "idpregunta": 389,
-        "pregunta": "UN/A ADMINISTRATIVO/A ABANDONA EL SERVICIO DURANTE 3 HORAS Y NO TIENE JUSTIFICACIÓN:",
+        "pregunta": "389.- UN/A ADMINISTRATIVO/A ABANDONA EL SERVICIO DURANTE 3 HORAS Y NO TIENE JUSTIFICACIÓN:",
         "opciones": {
           "A": "Podrá estar sujeto a sanción administrativa.",
           "B": "Está sujeto a responsabilidad civil.",
@@ -4752,7 +4752,7 @@ const QUIZZES = {
       {
         "num": 390,
         "idpregunta": 390,
-        "pregunta": "PARA HACER REUNIONES SE PUEDEN UTILIZAR MEDIOS QUE NECESITAN DE UNA PANTALLA PARA SER PROYECTADOS, ¿CUÁLES SON ESOS MEDIOS?",
+        "pregunta": "390.- PARA HACER REUNIONES SE PUEDEN UTILIZAR MEDIOS QUE NECESITAN DE UNA PANTALLA PARA SER PROYECTADOS, ¿CUÁLES SON ESOS MEDIOS?",
         "opciones": {
           "A": "Blogs gigantes, pizarras, pizarras iluminadas.",
           "B": "Transparencias, diapositivas, películas y videos.",
@@ -4764,7 +4764,7 @@ const QUIZZES = {
       {
         "num": 391,
         "idpregunta": 391,
-        "pregunta": "CUANDO EN UNA REUNIÓN SE QUIEREN PONER TRANSPARENCIAS, ¿QUÉ APARATO SE NECESITA?",
+        "pregunta": "391.- CUANDO EN UNA REUNIÓN SE QUIEREN PONER TRANSPARENCIAS, ¿QUÉ APARATO SE NECESITA?",
         "opciones": {
           "A": "Pizarra.",
           "B": "Video.",
@@ -4776,7 +4776,7 @@ const QUIZZES = {
       {
         "num": 392,
         "idpregunta": 392,
-        "pregunta": "CUANDO SE UTILIZA LA TRADUCCIÓN SIMULTÁNEA:",
+        "pregunta": "392.- CUANDO SE UTILIZA LA TRADUCCIÓN SIMULTÁNEA:",
         "opciones": {
           "A": "La sala escogida debe tener cabinas de traducción y equipos personales o transmisores personales portátiles.",
           "B": "La sala debe tener la megafonía alta.",
@@ -4788,7 +4788,7 @@ const QUIZZES = {
       {
         "num": 393,
         "idpregunta": 393,
-        "pregunta": "EN LAS REUNIONES SE ACONSEJA QUE LA COLOCACIÓN DE SILLAS EN LA SALA:",
+        "pregunta": "393.- EN LAS REUNIONES SE ACONSEJA QUE LA COLOCACIÓN DE SILLAS EN LA SALA:",
         "opciones": {
           "A": "Sea versátil, dependiendo del número de personas y del uso que se le vaya a dar.",
           "B": "Tenga forma de U.",
@@ -4800,7 +4800,7 @@ const QUIZZES = {
       {
         "num": 394,
         "idpregunta": 394,
-        "pregunta": "CUANDO SE REALIZA UNA REUNIÓN, LA DISPOSICIÓN CONVENCIONAL TIPO TEATRO:",
+        "pregunta": "394.- CUANDO SE REALIZA UNA REUNIÓN, LA DISPOSICIÓN CONVENCIONAL TIPO TEATRO:",
         "opciones": {
           "A": "Es recomendable para las presentaciones de productos.",
           "B": "Es recomendable para hacer presentaciones, debates y lluvia de ideas.",
@@ -4812,7 +4812,7 @@ const QUIZZES = {
       {
         "num": 395,
         "idpregunta": 395,
-        "pregunta": "CUANDO SE REALIZA UNA REUNIÓN, LA DISPOSICIÓN CONVENCIONAL EN FORMA DE \"U\":",
+        "pregunta": "395.- CUANDO SE REALIZA UNA REUNIÓN, LA DISPOSICIÓN CONVENCIONAL EN FORMA DE \"U\":",
         "opciones": {
           "A": "Es recomendable para las presentaciones de productos.",
           "B": "Es recomendable para hacer presentaciones, debates y lluvia de ideas.",
@@ -4824,7 +4824,7 @@ const QUIZZES = {
       {
         "num": 396,
         "idpregunta": 396,
-        "pregunta": "LOS DATOS DE UNA CREDENCIAL COMPLETA PARA UN CONGRESO SON:",
+        "pregunta": "396.- LOS DATOS DE UNA CREDENCIAL COMPLETA PARA UN CONGRESO SON:",
         "opciones": {
           "A": "Logotipo, nombre del organizador.",
           "B": "Nombre de la persona participante.",
@@ -4836,7 +4836,7 @@ const QUIZZES = {
       {
         "num": 397,
         "idpregunta": 397,
-        "pregunta": "ESTANDO SENTADO Y PARA EVITAR LESIONES DE ESPALDA, ¿CUÁL ES LA POSICIÓN ADECUADA?",
+        "pregunta": "397.- ESTANDO SENTADO Y PARA EVITAR LESIONES DE ESPALDA, ¿CUÁL ES LA POSICIÓN ADECUADA?",
         "opciones": {
           "A": "Inclinada hacia la mesa.",
           "B": "Con el tronco curvado.",
@@ -4848,7 +4848,7 @@ const QUIZZES = {
       {
         "num": 398,
         "idpregunta": 398,
-        "pregunta": "¿CUÁL ES LA DISTANCIA ADECUADA ENTRE LA PANTALLA DE VISUALIZACIÓN DE DATOS Y LOS OJOS DE QUIEN LA UTILIZA?",
+        "pregunta": "398.- ¿CUÁL ES LA DISTANCIA ADECUADA ENTRE LA PANTALLA DE VISUALIZACIÓN DE DATOS Y LOS OJOS DE QUIEN LA UTILIZA?",
         "opciones": {
           "A": "Menos de 40 cm.",
           "B": "Entre 60 y 80 cm.",
@@ -4860,7 +4860,7 @@ const QUIZZES = {
       {
         "num": 399,
         "idpregunta": 399,
-        "pregunta": "¿QUÉ ES UN INVENTARIO?",
+        "pregunta": "399.- ¿QUÉ ES UN INVENTARIO?",
         "opciones": {
           "A": "Es una nota de entrega.",
           "B": "Es un tipo de pedido.",
@@ -4872,7 +4872,7 @@ const QUIZZES = {
       {
         "num": 400,
         "idpregunta": 400,
-        "pregunta": "PARA QUE SE PRODUZCA UN FUEGO ES CONDICIÓN NECESARIA Y SUFICIENTE LA CONCURRENCIA DE:",
+        "pregunta": "400.- PARA QUE SE PRODUZCA UN FUEGO ES CONDICIÓN NECESARIA Y SUFICIENTE LA CONCURRENCIA DE:",
         "opciones": {
           "A": "El combustible y una fuente de calor.",
           "B": "El combustible y el comburente, que generalmente es el oxígeno.",
@@ -4884,7 +4884,7 @@ const QUIZZES = {
       {
         "num": 401,
         "idpregunta": 401,
-        "pregunta": "LA COMISIÓN DE IGUALDAD DE LA EHU SE CONSTITUYÓ EN EL AÑO:",
+        "pregunta": "401.- LA COMISIÓN DE IGUALDAD DE LA EHU SE CONSTITUYÓ EN EL AÑO:",
         "opciones": {
           "A": "2008.",
           "B": "2010.",
@@ -4896,7 +4896,7 @@ const QUIZZES = {
       {
         "num": 402,
         "idpregunta": 402,
-        "pregunta": "SEGÚN EL IV PLAN DE IGUALDAD DE LA EHU ¿CUÁL ES LA RESPUESTA INCORRECTA RESPECTO A LA REPRESENTACIÓN?",
+        "pregunta": "402.- SEGÚN EL IV PLAN DE IGUALDAD DE LA EHU ¿CUÁL ES LA RESPUESTA INCORRECTA RESPECTO A LA REPRESENTACIÓN?",
         "opciones": {
           "A": "Se tiende a la paridad en el equipo de gobierno.",
           "B": "A mayor rango, mayor presencia femenina.",
@@ -4908,7 +4908,7 @@ const QUIZZES = {
       {
         "num": 403,
         "idpregunta": 403,
-        "pregunta": "SEÑALE LA RESPUESTA CORRECTA:",
+        "pregunta": "403.- SEÑALE LA RESPUESTA CORRECTA:",
         "opciones": {
           "A": "El III Plan de Igualdad de Mujeres y Hombres de la EHU encomienda a la EHU a poner en vigor antes del 2022 un Protocolo contra las violencias de género.",
           "B": "La EHU aplica a la comunidad universitaria el Protocolo contra las violencias de género aprobado en mayo de 2016 por la Consejería de Universidades del Gobierno Vasco.",
@@ -4920,7 +4920,7 @@ const QUIZZES = {
       {
         "num": 404,
         "idpregunta": 404,
-        "pregunta": "EL IV PLAN DE IGUALDAD DE MUJERES Y HOMBRES DE LA EHU BUSCA ELIMINAR:",
+        "pregunta": "404.- EL IV PLAN DE IGUALDAD DE MUJERES Y HOMBRES DE LA EHU BUSCA ELIMINAR:",
         "opciones": {
           "A": "Diferencias académicas.",
           "B": "Roles y estereotipos de género.",
@@ -4932,7 +4932,7 @@ const QUIZZES = {
       {
         "num": 405,
         "idpregunta": 405,
-        "pregunta": "EL DÍA INTERNACIONAL DE LA MUJER Y LA NIÑA EN LA CIENCIA SE CONMEMORA CADA:",
+        "pregunta": "405.- EL DÍA INTERNACIONAL DE LA MUJER Y LA NIÑA EN LA CIENCIA SE CONMEMORA CADA:",
         "opciones": {
           "A": "8 de marzo.",
           "B": "25 de noviembre.",
@@ -4944,7 +4944,7 @@ const QUIZZES = {
       {
         "num": 406,
         "idpregunta": 406,
-        "pregunta": "¿CUÁNDO EXISTE DISCRIMINACIÓN INDIRECTA POR RAZÓN DE SEXO?:",
+        "pregunta": "406.- ¿CUÁNDO EXISTE DISCRIMINACIÓN INDIRECTA POR RAZÓN DE SEXO?:",
         "opciones": {
           "A": "Cuando una persona es tratada de manera menos favorable que otra por razón de su sexo.",
           "B": "Cuando un acto jurídico, criterio o práctica aparentemente neutra perjudica a una proporción sustancialmente mayor de personas de un mismo sexo, sin justificación objetiva..",
@@ -4956,7 +4956,7 @@ const QUIZZES = {
       {
         "num": 407,
         "idpregunta": 407,
-        "pregunta": "SEGÚN EL VIGENTE PLAN DE IGUALDAD DE LA EHU, LA \"SEGREGACIÓN VERTICAL\" IMPLICA;",
+        "pregunta": "407.- SEGÚN EL VIGENTE PLAN DE IGUALDAD DE LA EHU, LA \"SEGREGACIÓN VERTICAL\" IMPLICA;",
         "opciones": {
           "A": "Diferencias entre ramas académicas.",
           "B": "Distribución desigual por sexos en posiciones jerárquicas.",
@@ -4968,7 +4968,7 @@ const QUIZZES = {
       {
         "num": 408,
         "idpregunta": 408,
-        "pregunta": "LA COMPRA PÚBLICA ECOLÓGICA SE DEFINE EN LA COMUNICACIÓN DE LA COMISIÓN EUROPEA \"CONTRATACIÓN PÚBLICA PARA UN MEDIO AMBIENTE MEJOR\" COMO:",
+        "pregunta": "408.- LA COMPRA PÚBLICA ECOLÓGICA SE DEFINE EN LA COMUNICACIÓN DE LA COMISIÓN EUROPEA \"CONTRATACIÓN PÚBLICA PARA UN MEDIO AMBIENTE MEJOR\" COMO:",
         "opciones": {
           "A": "El procedimiento de contratación pública que obliga a que un porcentaje de las compras tenga una etiqueta ecológica.",
           "B": "Un proceso por el cual las autoridades públicas tratan de adquirir mercancías, servicios y obras con un impacto medioambiental reducido durante su ciclo de vida, en comparación con el de otras mercancías, servicios y obras con la misma función primaria que se adquirirían en su lugar.",
@@ -4980,7 +4980,7 @@ const QUIZZES = {
       {
         "num": 409,
         "idpregunta": 409,
-        "pregunta": "LAS FUNCIONARIAS DE CARRERA VÍCTIMAS DE VIOLENCIA DE GÉNERO TENDRÁN DERECHO A SOLICITTR LA SITUACIÓN DE EXCEDENCIA:",
+        "pregunta": "409.- LAS FUNCIONARIAS DE CARRERA VÍCTIMAS DE VIOLENCIA DE GÉNERO TENDRÁN DERECHO A SOLICITTR LA SITUACIÓN DE EXCEDENCIA:",
         "opciones": {
           "A": "Necesita haber prestado un tiempo mínimo de 3 años de servicios previos.",
           "B": "No se le exige plazo de permanencia en la misma.",
@@ -4992,7 +4992,7 @@ const QUIZZES = {
       {
         "num": 410,
         "idpregunta": 410,
-        "pregunta": "SEGÚN EL PROGRAMA DE \"COMPRA Y CONTRATACIÓN PÚBLICA VERDE DEL PAÍS VASCO 2020\", TODAS LAS ADMINISTRACIONES PARTICIPANTES DEBERÁN ALCANZAR UNA AMBIENTALIZACIÓN EN LA COMPRA Y CONTRATACIÓN PARA EL EJERCICIO 2020, DE:",
+        "pregunta": "410.- SEGÚN EL PROGRAMA DE \"COMPRA Y CONTRATACIÓN PÚBLICA VERDE DEL PAÍS VASCO 2020\", TODAS LAS ADMINISTRACIONES PARTICIPANTES DEBERÁN ALCANZAR UNA AMBIENTALIZACIÓN EN LA COMPRA Y CONTRATACIÓN PARA EL EJERCICIO 2020, DE:",
         "opciones": {
           "A": "Al menos un 30%.",
           "B": "Al menos un 50%.",
@@ -5004,7 +5004,7 @@ const QUIZZES = {
       {
         "num": 411,
         "idpregunta": 411,
-        "pregunta": "INDIQUE CUÁL DE LAS SIGUIENTES NO ES UNA LÍNEA ESTRATÉGICA DEL PROGRAMA DE COMPRA Y CONTRATACIÓN PÚBLICA VERDE DEL PAÍS VASCO 2020:",
+        "pregunta": "411.- INDIQUE CUÁL DE LAS SIGUIENTES NO ES UNA LÍNEA ESTRATÉGICA DEL PROGRAMA DE COMPRA Y CONTRATACIÓN PÚBLICA VERDE DEL PAÍS VASCO 2020:",
         "opciones": {
           "A": "Contenido y herramientas para la implementación.",
           "B": "Integración en los procedimientos de contratación.",
@@ -5016,7 +5016,7 @@ const QUIZZES = {
       {
         "num": 412,
         "idpregunta": 412,
-        "pregunta": "EN INTERNET, LAS PÁGINAS WEB CREADAS PARA ATRAER DE LA FORMA MÁS RÁPIDA AL MAYOR NÚMERO DE LEADS, SE DENOMINA:",
+        "pregunta": "412.- EN INTERNET, LAS PÁGINAS WEB CREADAS PARA ATRAER DE LA FORMA MÁS RÁPIDA AL MAYOR NÚMERO DE LEADS, SE DENOMINA:",
         "opciones": {
           "A": "Microsites.",
           "B": "Portal web.",
@@ -5028,7 +5028,7 @@ const QUIZZES = {
       {
         "num": 413,
         "idpregunta": 413,
-        "pregunta": "ESTARÁN EXENTOS DEL CUMPLIMIENTO DEL RÉGIMEN GENERAL DE PRECEPTIVIDAD DE LOS PERFILES LINGÜÍSTICOS EN RELACIÓN CON EL PUESTO DE TRABAJO DEL QUE SON TITULARES:",
+        "pregunta": "413.- ESTARÁN EXENTOS DEL CUMPLIMIENTO DEL RÉGIMEN GENERAL DE PRECEPTIVIDAD DE LOS PERFILES LINGÜÍSTICOS EN RELACIÓN CON EL PUESTO DE TRABAJO DEL QUE SON TITULARES:",
         "opciones": {
           "A": "Las personas que superen la edad de 55 años al inicio de cada período de planificación en el que se asigne la fecha de preceptividad al puesto de trabajo del que son titulares, previa conformidad de la persona interesada. Asimismo, también estarán exentas las personas que, en caso de que se apruebe la modificación del perfil lingüístico previamente asignado al puesto de trabajo del que son titulares, superen la edad de 45 años, previa conformidad de la persona interesada.",
           "B": "Las personas cuyo nivel de estudios realizados alcanzara los de Bachiller Elemental, Educación General Básica o Educación Secundaria Obligatoria, ni otros que, en el futuro, pudieran sustituir a estos, prescindiendo de las equivalencias y convalidaciones que contemple el ordenamiento jurídico a otros fines respecto al Certificado de Escolaridad.",
@@ -5040,7 +5040,7 @@ const QUIZZES = {
       {
         "num": 414,
         "idpregunta": 414,
-        "pregunta": "INDIQUE CUÁL DE ESTOS COMPONENTES PERTENECE AL SOFTWARE DEL ORDENADOR:",
+        "pregunta": "414.- INDIQUE CUÁL DE ESTOS COMPONENTES PERTENECE AL SOFTWARE DEL ORDENADOR:",
         "opciones": {
           "A": "Sistema operativo.",
           "B": "Disco duro.",
@@ -5052,7 +5052,7 @@ const QUIZZES = {
       {
         "num": 415,
         "idpregunta": 415,
-        "pregunta": "INDIQUE CUÁL DE ESTOS ELEMENTOS NO PERTENECE AL HARDWARE DEL ORDENADOR:",
+        "pregunta": "415.- INDIQUE CUÁL DE ESTOS ELEMENTOS NO PERTENECE AL HARDWARE DEL ORDENADOR:",
         "opciones": {
           "A": "Memoria RAM.",
           "B": "Ratón.",
@@ -5064,7 +5064,7 @@ const QUIZZES = {
       {
         "num": 416,
         "idpregunta": 416,
-        "pregunta": "EN LOS CRITERIOS BÁSICOS DE LA COMPRA PÚBLICA ECOLÓGICA (CPE) DE LA UNIÓN EUROPEA, APLICABLES AL PAPEL RECICLADO PARA USOS PROFESIONALES, ESTE PAPEL DEBERÁ ESTAR FABRICADO:",
+        "pregunta": "416.- EN LOS CRITERIOS BÁSICOS DE LA COMPRA PÚBLICA ECOLÓGICA (CPE) DE LA UNIÓN EUROPEA, APLICABLES AL PAPEL RECICLADO PARA USOS PROFESIONALES, ESTE PAPEL DEBERÁ ESTAR FABRICADO:",
         "opciones": {
           "A": "Al menos con un 50% de fibra de papel recuperado.",
           "B": "Al menos con un 75 % de fibra de papel recuperado.",
@@ -5076,7 +5076,7 @@ const QUIZZES = {
       {
         "num": 417,
         "idpregunta": 417,
-        "pregunta": "¿QUÉ ES UN SISTEMA OPERATIVO?:",
+        "pregunta": "417.- ¿QUÉ ES UN SISTEMA OPERATIVO?:",
         "opciones": {
           "A": "Es un hardware que gestiona los recursos del ordenador.",
           "B": "Es un lenguaje de programación.",
@@ -5088,7 +5088,7 @@ const QUIZZES = {
       {
         "num": 418,
         "idpregunta": 418,
-        "pregunta": "¿QUÉ ES UN OCR?",
+        "pregunta": "418.- ¿QUÉ ES UN OCR?",
         "opciones": {
           "A": "Un dispositivo para calibrar impresoras.",
           "B": "Un dispositivo para calibrar monitores.",
@@ -5100,7 +5100,7 @@ const QUIZZES = {
       {
         "num": 419,
         "idpregunta": 419,
-        "pregunta": "¿CUÁLES DE LOS SIGUIENTES SON DOMINIOS DE INTERNET DENOMINADOS GTLD O DE NIVEL SUPERIOR GENÉRICO?",
+        "pregunta": "419.- ¿CUÁLES DE LOS SIGUIENTES SON DOMINIOS DE INTERNET DENOMINADOS GTLD O DE NIVEL SUPERIOR GENÉRICO?",
         "opciones": {
           "A": ".eu, .eus y .es",
           "B": ".uk y .es",
@@ -5112,7 +5112,7 @@ const QUIZZES = {
       {
         "num": 420,
         "idpregunta": 420,
-        "pregunta": "SEGÚN LA LEY 23/2011, DE 29 DE JULIO, DE DEPÓSITO LEGAL, ¿QUÉ ES UN DOCUMENTO ELECTRONICO?",
+        "pregunta": "420.- SEGÚN LA LEY 23/2011, DE 29 DE JULIO, DE DEPÓSITO LEGAL, ¿QUÉ ES UN DOCUMENTO ELECTRONICO?",
         "opciones": {
           "A": "Espacio en Internet de una empresa, organización, o de una persona física, asociado a un nombre o una dirección, que permite que su información o contenido, productos o servicios, sean accesibles.",
           "B": "Información o contenido de cualquier naturaleza, en un soporte electrónico, archivado con un formato determinado y susceptible de identificación y tratamiento diferenciado, que sea objeto de difusión.",
@@ -5124,7 +5124,7 @@ const QUIZZES = {
       {
         "num": 421,
         "idpregunta": 421,
-        "pregunta": "SEGÚN LA LEY 23/2011, DE 29 DE JULIO, DE DEPÓSITO LEGAL, ¿QUÉ ES UN DOMINIO DE INTERNET?",
+        "pregunta": "421.- SEGÚN LA LEY 23/2011, DE 29 DE JULIO, DE DEPÓSITO LEGAL, ¿QUÉ ES UN DOMINIO DE INTERNET?",
         "opciones": {
           "A": "Espacio en Internet de una empresa, organización, o de una persona física, asociado a un nombre o una dirección, que permite que su información o contenido, productos o servicios, sean accesibles.",
           "B": "Información o contenido de cualquier naturaleza, en un soporte electrónico, archivado con un formato determinado y susceptible de identificación y tratamiento diferenciado, que sea objeto de difusión.",
@@ -5136,7 +5136,7 @@ const QUIZZES = {
       {
         "num": 422,
         "idpregunta": 422,
-        "pregunta": "SEGÚN LA LEY 23/2011, DE 29 DE JULIO, DE DEPÓSITO LEGAL, ¿QUÉ ES UN SITIO WEB?",
+        "pregunta": "422.- SEGÚN LA LEY 23/2011, DE 29 DE JULIO, DE DEPÓSITO LEGAL, ¿QUÉ ES UN SITIO WEB?",
         "opciones": {
           "A": "Espacio en Internet de una empresa, organización, o de una persona física, asociado a un nombre o una dirección, que permite que su información o contenido, productos o servicios, sean accesibles.",
           "B": "Información o contenido de cualquier naturaleza, en un soporte electrónico, archivado con un formato determinado y susceptible de identificación y tratamiento diferenciado, que sea objeto de difusión.",
@@ -5148,7 +5148,7 @@ const QUIZZES = {
       {
         "num": 423,
         "idpregunta": 423,
-        "pregunta": "SEGÚN LA LEY 23/2011, DE 29 DE JULIO, DE DEPÓSITO LEGAL, ¿QUÉ ES \"UN PUNTO DE ACCESO ELECTRÓNICO FORMADO POR UNA O VARIAS PÁGINAS ELECTRÓNICAS AGRUPADAS EN UN DOMINIO DE INTERNET\"?",
+        "pregunta": "423.- SEGÚN LA LEY 23/2011, DE 29 DE JULIO, DE DEPÓSITO LEGAL, ¿QUÉ ES \"UN PUNTO DE ACCESO ELECTRÓNICO FORMADO POR UNA O VARIAS PÁGINAS ELECTRÓNICAS AGRUPADAS EN UN DOMINIO DE INTERNET\"?",
         "opciones": {
           "A": "Un documento electronico.",
           "B": "Un dominio de internet.",
@@ -5160,7 +5160,7 @@ const QUIZZES = {
       {
         "num": 424,
         "idpregunta": 424,
-        "pregunta": "SEGÚN LA LEY 23/2011, DE 29 DE JULIO, DE DEPÓSITO LEGAL, ¿QUÉ ES \"LA INFORMACIÓN O CONTENIDO DE CUALQUIER NATURALEZA EN SOPORTE ELECTRÓNICO, ARCHIVADO CON UN FORMATO DETERMINADO Y SUSCEPTIBLE DE IDENTIFICACIÓN Y TRATAMIENTO DIFERENCIADO\"?",
+        "pregunta": "424.- SEGÚN LA LEY 23/2011, DE 29 DE JULIO, DE DEPÓSITO LEGAL, ¿QUÉ ES \"LA INFORMACIÓN O CONTENIDO DE CUALQUIER NATURALEZA EN SOPORTE ELECTRÓNICO, ARCHIVADO CON UN FORMATO DETERMINADO Y SUSCEPTIBLE DE IDENTIFICACIÓN Y TRATAMIENTO DIFERENCIADO\"?",
         "opciones": {
           "A": "Un documento electronico.",
           "B": "Un dominio de internet.",
@@ -5172,7 +5172,7 @@ const QUIZZES = {
       {
         "num": 425,
         "idpregunta": 425,
-        "pregunta": "INDIQUE LA AFIRMACIÓN INCORRECTA EN REFERENCIA AL SISTEMA DE SEGURIDAD SOCIAL:",
+        "pregunta": "425.- INDIQUE LA AFIRMACIÓN INCORRECTA EN REFERENCIA AL SISTEMA DE SEGURIDAD SOCIAL:",
         "opciones": {
           "A": "El Sistema Especial para Empleados de Hogar está dentro del Régimen General de la Seguridad Social.",
           "B": "El Régimen Especial de Minería del Carbón es uno de los Regímenes Especiales de la Seguridad Social.",
@@ -5184,7 +5184,7 @@ const QUIZZES = {
       {
         "num": 426,
         "idpregunta": 426,
-        "pregunta": "SEÑALE LA AFIRMACIÓN INCORRECTA:",
+        "pregunta": "426.- SEÑALE LA AFIRMACIÓN INCORRECTA:",
         "opciones": {
           "A": "El Sistema de la Seguridad Social da cobertura sólo a las personas que ejercen una actividad profesional, así como a los familiares o asimilados que tuvieran a su cargo.",
           "B": "El Sistema de la Seguridad Social es un conjunto de regímenes a través de los cuales el Estado garantiza a las personas comprendidas en su campo de aplicación la protección adecuada en las contingencias y situaciones que la ley define.",
@@ -5196,7 +5196,7 @@ const QUIZZES = {
       {
         "num": 427,
         "idpregunta": 427,
-        "pregunta": "EL DERECHO A LA PROTECCIÓN DE LA SALUD SE RECONOCE EN LA CONSTITUCIÓN ESPAÑOLA COMO:",
+        "pregunta": "427.- EL DERECHO A LA PROTECCIÓN DE LA SALUD SE RECONOCE EN LA CONSTITUCIÓN ESPAÑOLA COMO:",
         "opciones": {
           "A": "Un derecho de los ciudadanos.",
           "B": "Un derecho fundamental.",
@@ -5208,7 +5208,7 @@ const QUIZZES = {
       {
         "num": 428,
         "idpregunta": 428,
-        "pregunta": "A EFECTOS DE LAS PRESTACIONES DE MODALIDAD CONTRIBUTIVA, ESTÁN INCLUIDOS DENTRO DEL CAMPO DE APLICACIÓN DEL SISTEMA DE LA SEGURIDAD SOCIAL, CUALQUIERA QUE SEA SU SEXO, ESTADO CIVIL O PROFESIÓN,",
+        "pregunta": "428.- A EFECTOS DE LAS PRESTACIONES DE MODALIDAD CONTRIBUTIVA, ESTÁN INCLUIDOS DENTRO DEL CAMPO DE APLICACIÓN DEL SISTEMA DE LA SEGURIDAD SOCIAL, CUALQUIERA QUE SEA SU SEXO, ESTADO CIVIL O PROFESIÓN,",
         "opciones": {
           "A": "Sólo los españoles que tengan su residencia en España, aunque estén trabajando permanentemente en el extranjero.",
           "B": "Las personas extranjeras que residan o se encuentren legalmente en España, siempre que el empleador tenga su domicilio fiscal en España.",
@@ -5220,7 +5220,7 @@ const QUIZZES = {
       {
         "num": 429,
         "idpregunta": 429,
-        "pregunta": "LOS CONVENIOS ESPECIALES QUE SE PUEDEN SUSCRIBIR CON LA SEGURIDAD SOCIAL:",
+        "pregunta": "429.- LOS CONVENIOS ESPECIALES QUE SE PUEDEN SUSCRIBIR CON LA SEGURIDAD SOCIAL:",
         "opciones": {
           "A": "Con carácter general son un acuerdo suscrito voluntariamente por los trabajadores con la Tesorería General de la Seguridad Social para poder percibir una cuantía mayor en la jubilación.",
           "B": "Con carácter general es un acuerdo suscrito obligatoriamente por los trabajadores con la Tesorería General de la Seguridad Social con el fin de generar, mantener o ampliar, en determinadas situaciones, el derecho a las prestaciones de la Seguridad Social",
@@ -5232,7 +5232,7 @@ const QUIZZES = {
       {
         "num": 430,
         "idpregunta": 430,
-        "pregunta": "INDIQUE CUAL DE LOS SIGUIENTES GRUPOS NO SE INCLUYE DENTRO DE LA MODALIDAD CONTRIBUTIVA A EFECTO DE PRESTACIONES DE LA SEGURIDAD SOCIAL:",
+        "pregunta": "430.- INDIQUE CUAL DE LOS SIGUIENTES GRUPOS NO SE INCLUYE DENTRO DE LA MODALIDAD CONTRIBUTIVA A EFECTO DE PRESTACIONES DE LA SEGURIDAD SOCIAL:",
         "opciones": {
           "A": "Trabajadores por cuenta propia o autónomos.",
           "B": "Socios trabajadores de cooperativas de trabajo asociado.",
@@ -5244,7 +5244,7 @@ const QUIZZES = {
       {
         "num": 431,
         "idpregunta": 431,
-        "pregunta": "EL CONVENIO ESPECIAL CON LA SEGURIDAD SOCIAL TENDRÁ COMO OBJETO LA COBERTURA DE LAS PRESTACIONES CORRESPONDIENTES A:",
+        "pregunta": "431.- EL CONVENIO ESPECIAL CON LA SEGURIDAD SOCIAL TENDRÁ COMO OBJETO LA COBERTURA DE LAS PRESTACIONES CORRESPONDIENTES A:",
         "opciones": {
           "A": "Entre otras, Invalidez permanente, muerte y supervivencia, derivadas de enfermedad común y accidente laboral.",
           "B": "Entre otras, jubilación y servicios sociales.",
@@ -5256,7 +5256,7 @@ const QUIZZES = {
       {
         "num": 432,
         "idpregunta": 432,
-        "pregunta": "SEÑALE LA AFIRMACIÓN CORRECTA:",
+        "pregunta": "432.- SEÑALE LA AFIRMACIÓN CORRECTA:",
         "opciones": {
           "A": "El plazo para la presentación de las solicitudes de alta en el Régimen General es de, como máximo, 3 días antes del inicio de la prestación.",
           "B": "El plazo para la presentación de las solicitudes de baja en el Régimen General es de, como máximo, 3 días antes del fin de la prestación.",
@@ -5268,7 +5268,7 @@ const QUIZZES = {
       {
         "num": 433,
         "idpregunta": 433,
-        "pregunta": "A EFECTOS DE AFILIACIÓN AL SISTEMA DE LA SEGURIDAD SOCIAL, INDIQUE LA SITUACIÓN QUE NO ESTÁ CONSIDERADA COMO ASIMILADA AL ALTA:",
+        "pregunta": "433.- A EFECTOS DE AFILIACIÓN AL SISTEMA DE LA SEGURIDAD SOCIAL, INDIQUE LA SITUACIÓN QUE NO ESTÁ CONSIDERADA COMO ASIMILADA AL ALTA:",
         "opciones": {
           "A": "Situación legal de desempleo, total y subsidiado, y la de paro involuntario una vez agotada la prestación contributiva o asistencial, siempre que se mantenga la inscripción como desempleado en la Oficina de Empleo.",
           "B": "La excedencia forzosa.",
@@ -5280,7 +5280,7 @@ const QUIZZES = {
       {
         "num": 434,
         "idpregunta": 434,
-        "pregunta": "¿QUIÉNES SON LOS SUJETOS OBLIGADOS A LA COMUNICACIÓN DE LAS ALTAS, BAJAS Y VARIACIONES A LA SEGURIDAD SOCIAL EN EL RÉGIMEN GENERAL?",
+        "pregunta": "434.- ¿QUIÉNES SON LOS SUJETOS OBLIGADOS A LA COMUNICACIÓN DE LAS ALTAS, BAJAS Y VARIACIONES A LA SEGURIDAD SOCIAL EN EL RÉGIMEN GENERAL?",
         "opciones": {
           "A": "La persona trabajadora, con el visto bueno de la parte empleadora",
           "B": "La parte empleadora firmará en todo caso esas comunicaciones, quedando a voluntad del trabajador la firma de conformidad con dichas comunicaciones",
@@ -5292,7 +5292,7 @@ const QUIZZES = {
       {
         "num": 435,
         "idpregunta": 435,
-        "pregunta": "SEÑALE LA AFIRMACIÓN CORRECTA:",
+        "pregunta": "435.- SEÑALE LA AFIRMACIÓN CORRECTA:",
         "opciones": {
           "A": "Cuando el trabajador se traslade a un centro de trabajo del mismo empresario situado en diferente provincia, deberá promoverse la baja en la provincia de procedencia y el alta en la de destino.",
           "B": "A efectos de afiliación, no es necesario realizar ningún trámite ante la Seguridad Social cuando el trabajador se traslade a un centro de trabajo del mismo empresario situado en diferente provincia.",
@@ -5310,7 +5310,7 @@ const QUIZZES = {
       {
         "num": 436,
         "idpregunta": 436,
-        "pregunta": "CON CARÁCTER GENERAL, LOS EFECTOS DE LAS ALTAS SERÁN:",
+        "pregunta": "436.- CON CARÁCTER GENERAL, LOS EFECTOS DE LAS ALTAS SERÁN:",
         "opciones": {
           "A": "Las altas presentadas con carácter previo a la prestación de los servicios únicamente surtirán efectos, en orden a los derechos y obligaciones inherentes a dicha situación, a partir del primer día del mes en el que se inicie la actividad.",
           "B": "Las altas presentadas fuera de plazo sólo tendrán efectos desde el día en que se formule la solicitud, salvo que se haya producido ingreso de cuotas en plazo reglamentario, en cuyo caso el alta retrotraerá sus efectos a la fecha en que se hayan ingresado las primeras cuotas correspondientes al trabajador de que se trate.",
@@ -5328,7 +5328,7 @@ const QUIZZES = {
       {
         "num": 437,
         "idpregunta": 437,
-        "pregunta": "SEÑALE LA OPCIÓN INCORRECTA. CON CARÁCTER GENERAL, LOS EFECTOS DE LAS BAJAS DE AFILIACIÓN:",
+        "pregunta": "437.- SEÑALE LA OPCIÓN INCORRECTA. CON CARÁCTER GENERAL, LOS EFECTOS DE LAS BAJAS DE AFILIACIÓN:",
         "opciones": {
           "A": "La baja del trabajador producirá efectos desde el cese en la prestación de los servicios por cuenta ajena, en la actividad por cuenta propia o, en su caso, en la situación determinante de su inclusión en el Régimen de que se trate.",
           "B": "La solicitud de baja del trabajador extinguirá la obligación de cotizar desde el cese en el trabajo.",
@@ -5340,7 +5340,7 @@ const QUIZZES = {
       {
         "num": 438,
         "idpregunta": 438,
-        "pregunta": "DE LAS SIGUIENTES OPCIONES, INDIQUE LA QUE NO ES UNA PRESTACIÓN DE LA ACCIÓN PROTECTORA DE LA SEGURIDAD SOCIAL:",
+        "pregunta": "438.- DE LAS SIGUIENTES OPCIONES, INDIQUE LA QUE NO ES UNA PRESTACIÓN DE LA ACCIÓN PROTECTORA DE LA SEGURIDAD SOCIAL:",
         "opciones": {
           "A": "Riesgo durante el embarazo.",
           "B": "Riesgo durante la lactancia artificial.",
@@ -5352,7 +5352,7 @@ const QUIZZES = {
       {
         "num": 439,
         "idpregunta": 439,
-        "pregunta": "INDIQUE LA OPCIÓN CORRECTA:",
+        "pregunta": "439.- INDIQUE LA OPCIÓN CORRECTA:",
         "opciones": {
           "A": "La Seguridad Social incluye, entre sus prestaciones, la compensación de los gastos de sepelio",
           "B": "La Prestación temporal de viudedad de la Seguridad Social tiene una duración máxima de 1 año.",
@@ -5364,7 +5364,7 @@ const QUIZZES = {
       {
         "num": 440,
         "idpregunta": 440,
-        "pregunta": "SEÑALE LA OPCIÓN INCORRECTA. SEGÚN LA NORMATIVA DE LA SEGURIDAD SOCIAL, EL PERÍODO EN QUE SE PERMANEZCA EN LA SITUACIÓN DE EXCEDENCIA LABORAL PARA EL CUIDADO DEL MENOR A CARGO PRODUCE LOS SIGUIENTES EFECTOS:",
+        "pregunta": "440.- SEÑALE LA OPCIÓN INCORRECTA. SEGÚN LA NORMATIVA DE LA SEGURIDAD SOCIAL, EL PERÍODO EN QUE SE PERMANEZCA EN LA SITUACIÓN DE EXCEDENCIA LABORAL PARA EL CUIDADO DEL MENOR A CARGO PRODUCE LOS SIGUIENTES EFECTOS:",
         "opciones": {
           "A": "Será computable a efectos de antigüedad.",
           "B": "Se tendrá derecho a la asistencia a cursos de formación profesional.",
@@ -5376,7 +5376,7 @@ const QUIZZES = {
       {
         "num": 441,
         "idpregunta": 441,
-        "pregunta": "DE CONFORMIDAD CON LO ESTABLECIDO EN LA LEY GENERAL DE LA SEGURIDAD SOCIAL, SE ENTIENDE SUSPENDIDA LA OBLIGACIÓN DE COTIZAR:",
+        "pregunta": "441.- DE CONFORMIDAD CON LO ESTABLECIDO EN LA LEY GENERAL DE LA SEGURIDAD SOCIAL, SE ENTIENDE SUSPENDIDA LA OBLIGACIÓN DE COTIZAR:",
         "opciones": {
           "A": "Mientras el trabajador disfrute de un permiso sin sueldo.",
           "B": "En el supuesto de ejercicio del derecho de huelga por el trabajador.",
@@ -5388,7 +5388,7 @@ const QUIZZES = {
       {
         "num": 442,
         "idpregunta": 442,
-        "pregunta": "SEGÚN EL ARTÍCULO 42 DEL TEXTO REFUNDIDO DE LA LEY GENERAL DE LA SEGURIDAD SOCIAL (REAL DECRETO LEGISLATIVO 8/2015, DE 30 DE OCTUBRE), LA ACCIÓN PROTECTORA DEL SISTEMA DE LA SEGURIDAD SOCIAL COMPRENDE:",
+        "pregunta": "442.- SEGÚN EL ARTÍCULO 42 DEL TEXTO REFUNDIDO DE LA LEY GENERAL DE LA SEGURIDAD SOCIAL (REAL DECRETO LEGISLATIVO 8/2015, DE 30 DE OCTUBRE), LA ACCIÓN PROTECTORA DEL SISTEMA DE LA SEGURIDAD SOCIAL COMPRENDE:",
         "opciones": {
           "A": "La asistencia sanitaria en los casos de maternidad.",
           "B": "La asistencia sanitaria de enfermedad común o profesional.",
@@ -5400,7 +5400,7 @@ const QUIZZES = {
       {
         "num": 443,
         "idpregunta": 443,
-        "pregunta": "SON PRINCIPIOS ÉTICOS DE LA CONDUCTA DE LOS/AS EMPLEADOS/AS PÚBLICOS/AS:",
+        "pregunta": "443.- SON PRINCIPIOS ÉTICOS DE LA CONDUCTA DE LOS/AS EMPLEADOS/AS PÚBLICOS/AS:",
         "opciones": {
           "A": "Principios de eficacia y cooperación.",
           "B": "Principios de lealtad y buena fe con la Administración en la que presten sus servicios, y con sus superiores, compañeros, subordinados y con los ciudadanos.",
@@ -5412,7 +5412,7 @@ const QUIZZES = {
       {
         "num": 444,
         "idpregunta": 444,
-        "pregunta": "INDIQUE CUAL NO ES UN PRINCIPIO GENERAL RECOGIDO EN REAL DECRETO 203/2021, DE 30 DE MARZO, POR EL QUE SE APRUEBA EL REGLAMENTO DE ACTUACIÓN Y FUNCIONAMIENTO DEL SECTOR PÚBLICO POR MEDIOS ELECTRÓNICOS.",
+        "pregunta": "444.- INDIQUE CUAL NO ES UN PRINCIPIO GENERAL RECOGIDO EN REAL DECRETO 203/2021, DE 30 DE MARZO, POR EL QUE SE APRUEBA EL REGLAMENTO DE ACTUACIÓN Y FUNCIONAMIENTO DEL SECTOR PÚBLICO POR MEDIOS ELECTRÓNICOS.",
         "opciones": {
           "A": "Principios de tecnología privativa y de vigilancia al progreso de las tecnologías y sistemas de comunicaciones electrónicas.",
           "B": "Principio de accesibilidad.",
@@ -5424,7 +5424,7 @@ const QUIZZES = {
       {
         "num": 445,
         "idpregunta": 445,
-        "pregunta": "AL RESPECTO DE MUFACE, INDIQUE LA AFIRMACIÓN INCORRECTA:",
+        "pregunta": "445.- AL RESPECTO DE MUFACE, INDIQUE LA AFIRMACIÓN INCORRECTA:",
         "opciones": {
           "A": "Su ámbito de actuación de extiende al colectivo de Funcionarios Civiles y Militares del Estado y de otras Administraciones Públicas.",
           "B": "El reconocimiento de los derechos pasivos y la concesión de las pensiones de clases pasivas al personal funcionario, no es competencia de MUFACE.",
@@ -5436,7 +5436,7 @@ const QUIZZES = {
       {
         "num": 446,
         "idpregunta": 446,
-        "pregunta": "INDIQUE LA PRESTACIÓN QUE NO ES GESTIONADA POR MUFACE:",
+        "pregunta": "446.- INDIQUE LA PRESTACIÓN QUE NO ES GESTIONADA POR MUFACE:",
         "opciones": {
           "A": "Indemnizaciones por lesiones permanentes no invalidantes.",
           "B": "Prestación económica por gran invalidez.",
@@ -5448,7 +5448,7 @@ const QUIZZES = {
       {
         "num": 447,
         "idpregunta": 447,
-        "pregunta": "INDIQUE LA OPCIÓN CORRECTA:",
+        "pregunta": "447.- INDIQUE LA OPCIÓN CORRECTA:",
         "opciones": {
           "A": "Las personas adscritas al Régimen de MUFACE tienen derecho a la asistencia sanitaria prestada por los servicios autonómicos de salud.",
           "B": "MUFACE tiene una red propia de hospitales y profesionales de la sanidad repartidos por toda la geografía del Estado Español.",
@@ -5460,7 +5460,7 @@ const QUIZZES = {
       {
         "num": 448,
         "idpregunta": 448,
-        "pregunta": "INDIQUE LA AFIRMACIÓN INCORRECTA SEGÚN LO DISPUESTO EN EL MANUAL DE ARCHIVO DE GESTIÓN O ARCHIVO DE OFICINA DE LA EHU:",
+        "pregunta": "448.- INDIQUE LA AFIRMACIÓN INCORRECTA SEGÚN LO DISPUESTO EN EL MANUAL DE ARCHIVO DE GESTIÓN O ARCHIVO DE OFICINA DE LA EHU:",
         "opciones": {
           "A": "Los documentos generados por los Departamentos, Facultades, Escuelas e Institutos Universitarios en el desempeño de sus funciones forman parte del Patrimonio Documental de la Universidad.",
           "B": "Los documentos adquiridos por compraventa no forman parte del Patrimonio Documental de la Universidad, al no haber sido generados por ningún órgano de ésta.",
@@ -5472,7 +5472,7 @@ const QUIZZES = {
       {
         "num": 449,
         "idpregunta": 449,
-        "pregunta": "SEGÚN EL MANUAL DE ARCHIVO DE GESTIÓN O ARCHIVO DE OFICINA DE LA EHU, CUANDO PRESCRIBE EL VALOR ADMINISTRATIVO DEL DOCUMENTO ADMINISTRATIVO, ¿ES OBJETO DE EXPURGO EN TODO CASO?",
+        "pregunta": "449.- SEGÚN EL MANUAL DE ARCHIVO DE GESTIÓN O ARCHIVO DE OFICINA DE LA EHU, CUANDO PRESCRIBE EL VALOR ADMINISTRATIVO DEL DOCUMENTO ADMINISTRATIVO, ¿ES OBJETO DE EXPURGO EN TODO CASO?",
         "opciones": {
           "A": "Sí, siempre ya que ocupa lugar físico o electrónico.",
           "B": "No, si son documentos generados por los Órganos Superiores de la EHU (Consejo de Gobierno, Claustro y Gabinete del Rector/a.",
@@ -5484,7 +5484,7 @@ const QUIZZES = {
       {
         "num": 450,
         "idpregunta": 450,
-        "pregunta": "DE LOS SIGUIENTES, INDIQUE CUAL NO SE DEBERÍA CONSERVAR EN UN ARCHIVO DE GESTIÓN O DE OFICINA:",
+        "pregunta": "450.- DE LOS SIGUIENTES, INDIQUE CUAL NO SE DEBERÍA CONSERVAR EN UN ARCHIVO DE GESTIÓN O DE OFICINA:",
         "opciones": {
           "A": "Una solicitud no resuelta de una exención de matrícula.",
           "B": "Un expediente disciplinario a un funcionario fallecido hace tres años.",
@@ -5496,7 +5496,7 @@ const QUIZZES = {
       {
         "num": 451,
         "idpregunta": 451,
-        "pregunta": "SEGÚN EL MANUAL DE ARCHIVO DE GESTIÓN O ARCHIVO DE OFICINA DE LA EHU, SE CONSIDERA QUE UN GRUPO DE DOCUMENTOS ORIGINAN SERIES DOCUMENTALES CLARAS CUANDO:",
+        "pregunta": "451.- SEGÚN EL MANUAL DE ARCHIVO DE GESTIÓN O ARCHIVO DE OFICINA DE LA EHU, SE CONSIDERA QUE UN GRUPO DE DOCUMENTOS ORIGINAN SERIES DOCUMENTALES CLARAS CUANDO:",
         "opciones": {
           "A": "Los procedimientos en los que se han generado están muy normalizados, bien por la legislación o por la normativa propia.",
           "B": "Utilizan el mismo tipo y tamaño de papel, así como el mismo membrete institucional.",
@@ -5508,7 +5508,7 @@ const QUIZZES = {
       {
         "num": 452,
         "idpregunta": 452,
-        "pregunta": "INDIQUE LA CARACTERÍSTICA QUE NO ES PROPIA DE UN DOCUMENTO DE ARCHIVO:",
+        "pregunta": "452.- INDIQUE LA CARACTERÍSTICA QUE NO ES PROPIA DE UN DOCUMENTO DE ARCHIVO:",
         "opciones": {
           "A": "Son conjuntos orgánicos de documentos, que responden a la actividad de la oficina productora. El documento de archivo está relacionado con los que le preceden y los que le siguen, tiene carácter seriado.",
           "B": "Son ejemplares únicos que reflejan la actuación o actuaciones para la resolución de un asunto. Son originales, o tratados como tales.",
@@ -5520,7 +5520,7 @@ const QUIZZES = {
       {
         "num": 453,
         "idpregunta": 453,
-        "pregunta": "LAS ENTIDADES DEL SECTOR PÚBLICO VASCO INSPIRARÁN EL PROCESO DE NORMALIZACIÓN DEL USO DEL EUSKERA EN LOS SIGUIENTES PRINCIPIOS RECTORES:",
+        "pregunta": "453.- LAS ENTIDADES DEL SECTOR PÚBLICO VASCO INSPIRARÁN EL PROCESO DE NORMALIZACIÓN DEL USO DEL EUSKERA EN LOS SIGUIENTES PRINCIPIOS RECTORES:",
         "opciones": {
           "A": "Principio de no discriminación.",
           "B": "Principio de eficacia y eficiencia.",
@@ -5532,7 +5532,7 @@ const QUIZZES = {
       {
         "num": 454,
         "idpregunta": 454,
-        "pregunta": "INDIQUE LA QUE NO SE CORRESPONDE CON UNA TIPOLOGÍA DE DOCUMENTOS ADMINISTRATIVOS:",
+        "pregunta": "454.- INDIQUE LA QUE NO SE CORRESPONDE CON UNA TIPOLOGÍA DE DOCUMENTOS ADMINISTRATIVOS:",
         "opciones": {
           "A": "Documentos administrativos de decisiones.",
           "B": "Documentos administrativos de transmisión.",
@@ -5544,7 +5544,7 @@ const QUIZZES = {
       {
         "num": 455,
         "idpregunta": 455,
-        "pregunta": "INDIQUE EL DOCUMENTO QUE NO ES CONSIDERADO DE TRANSMISIÓN:",
+        "pregunta": "455.- INDIQUE EL DOCUMENTO QUE NO ES CONSIDERADO DE TRANSMISIÓN:",
         "opciones": {
           "A": "El oficio.",
           "B": "La instancia.",
@@ -5556,7 +5556,7 @@ const QUIZZES = {
       {
         "num": 456,
         "idpregunta": 456,
-        "pregunta": "INDIQUE DE LAS SIGUIENTES AFIRMACIONES LA QUE ES PROPIA DE LOS DOCUMENTOS DE APOYO INFORMATIVO.",
+        "pregunta": "456.- INDIQUE DE LAS SIGUIENTES AFIRMACIONES LA QUE ES PROPIA DE LOS DOCUMENTOS DE APOYO INFORMATIVO.",
         "opciones": {
           "A": "Serán destruidos en la propia oficina donde se generan.",
           "B": "Pasarán al Registro General (separadamente de los documentos de archivo) para su destrucción de forma segura y confidencial.",
@@ -5568,7 +5568,7 @@ const QUIZZES = {
       {
         "num": 457,
         "idpregunta": 457,
-        "pregunta": "INDIQUE LA OPCIÓN QUE NO SE CORRESPONDE CON LA ORGANIZACIÓN DE ARCHIVOS DE GESTIÓN:",
+        "pregunta": "457.- INDIQUE LA OPCIÓN QUE NO SE CORRESPONDE CON LA ORGANIZACIÓN DE ARCHIVOS DE GESTIÓN:",
         "opciones": {
           "A": "En el archivo de gestión se conservarán los documentos generados o recibidos por la unidad administrativa en el ejercicio de sus funciones, mientras dure la tramitación de los asuntos.",
           "B": "Es fundamental separar la documentación de archivo de la de apoyo informativo.",
@@ -5580,7 +5580,7 @@ const QUIZZES = {
       {
         "num": 458,
         "idpregunta": 458,
-        "pregunta": "EL PARÁMETRO CLASIFICADOR QUE SE TIENE EN CUENTA A LA HORA DE DISEÑAR UNA SERIE DOCUMENTAL ES:",
+        "pregunta": "458.- EL PARÁMETRO CLASIFICADOR QUE SE TIENE EN CUENTA A LA HORA DE DISEÑAR UNA SERIE DOCUMENTAL ES:",
         "opciones": {
           "A": "Su pertenencia a una línea de actividad concreta a desarrollar.",
           "B": "La fase del procedimiento administrativo.",
@@ -5592,7 +5592,7 @@ const QUIZZES = {
       {
         "num": 459,
         "idpregunta": 459,
-        "pregunta": "SEGÚN EL MANUAL DE ARCHIVO DE GESTIÓN O ARCHIVO DE OFICINA, LOS DOCUMENTOS DEPOSITADOS EN EL ARCHIVO CENTRAL (SEÑALE LA OPCIÓN CORRECTA):",
+        "pregunta": "459.- SEGÚN EL MANUAL DE ARCHIVO DE GESTIÓN O ARCHIVO DE OFICINA, LOS DOCUMENTOS DEPOSITADOS EN EL ARCHIVO CENTRAL (SEÑALE LA OPCIÓN CORRECTA):",
         "opciones": {
           "A": "Sólo se prestarán documentos a la unidad que los haya generado.",
           "B": "Se podrán prestar documentos a una unidad diferente a la que los ha generado, previa conformidad de ésta.",
@@ -5604,7 +5604,7 @@ const QUIZZES = {
       {
         "num": 460,
         "idpregunta": 460,
-        "pregunta": "¿QUÉ DURACIÓN TENDRÁ EL PRÉSTAMO DE UNA DOCUMENTACIÓN CUSTODIADA POR EL ARCHIVO GENERAL DE LA EHU?",
+        "pregunta": "460.- ¿QUÉ DURACIÓN TENDRÁ EL PRÉSTAMO DE UNA DOCUMENTACIÓN CUSTODIADA POR EL ARCHIVO GENERAL DE LA EHU?",
         "opciones": {
           "A": "Tendrá una duración máxima de un mes, prorrogable previa solicitud al Archivo General.",
           "B": "Tendrá una duración máxima de quince días, prorrogable previa solicitud al Archivo General.",
@@ -5616,7 +5616,7 @@ const QUIZZES = {
       {
         "num": 461,
         "idpregunta": 461,
-        "pregunta": "SEGÚN LA TIPOLOGÍA DE DOCUMENTOS ADMINISTRATIVOS EN LA EHU, ¿QUÉ ES UN CERTIFICADO?",
+        "pregunta": "461.- SEGÚN LA TIPOLOGÍA DE DOCUMENTOS ADMINISTRATIVOS EN LA EHU, ¿QUÉ ES UN CERTIFICADO?",
         "opciones": {
           "A": "El documento que se utiliza para la comunicación entre órganos o unidades pertenecientes a un mismo órgano superior o entidad.",
           "B": "El documento que acredita actos o situaciones de carácter administrativo, cuyo destinatario es una persona, órgano o entidad que pretende la producción de efectos en un procedimiento administrativo o en el marco de relaciones jurídicas privadas.",
@@ -5628,7 +5628,7 @@ const QUIZZES = {
       {
         "num": 462,
         "idpregunta": 462,
-        "pregunta": "LA TIPOLOGÍA DE DOCUMENTOS ADMINISTRATIVOS EN LA EHU ES:",
+        "pregunta": "462.- LA TIPOLOGÍA DE DOCUMENTOS ADMINISTRATIVOS EN LA EHU ES:",
         "opciones": {
           "A": "Decisiones, documentos de apoyo a la gestión administrativa, documentos administrativos de transmisión y documentos administrativos de constancia.",
           "B": "Decisiones, documentos de apoyo a la gestión administrativa y documentos administrativos de constancia.",
@@ -5640,7 +5640,7 @@ const QUIZZES = {
       {
         "num": 463,
         "idpregunta": 463,
-        "pregunta": "SEGÚN LA TIPOLOGÍA DE DOCUMENTOS ADMINISTRATIVOS EN LA EHU, ¿QUÉ ES UN ACTA?",
+        "pregunta": "463.- SEGÚN LA TIPOLOGÍA DE DOCUMENTOS ADMINISTRATIVOS EN LA EHU, ¿QUÉ ES UN ACTA?",
         "opciones": {
           "A": "El documento acreditativo de hechos, circunstancias, juicios o acuerdos.",
           "B": "El documento que acredita actos o situaciones de carácter administrativo, cuyo destinatario es una persona, órgano o entidad que pretende la producción de efectos en un procedimiento administrativo o en el marco de relaciones jurídicas privadas.",
@@ -5652,7 +5652,7 @@ const QUIZZES = {
       {
         "num": 464,
         "idpregunta": 464,
-        "pregunta": "LAS ENTIDADES DEL SECTOR PÚBLICO:",
+        "pregunta": "464.- LAS ENTIDADES DEL SECTOR PÚBLICO:",
         "opciones": {
           "A": "No podrán contratar verbalmente, salvo que el contrato tenga carácter de necesidad.",
           "B": "No podrán contratar verbalmente, salvo que el contrato tenga carácter de emergencia.",
@@ -5664,7 +5664,7 @@ const QUIZZES = {
       {
         "num": 465,
         "idpregunta": 465,
-        "pregunta": "LOS CONTRATOS DEL SECTOR PÚBLICO PODRÁN ESTAR SOMETIDOS A:",
+        "pregunta": "465.- LOS CONTRATOS DEL SECTOR PÚBLICO PODRÁN ESTAR SOMETIDOS A:",
         "opciones": {
           "A": "Solo a un régimen jurídico de derecho administrativo.",
           "B": "Solo a un régimen jurídico de derecho fiscal.",
@@ -5676,7 +5676,7 @@ const QUIZZES = {
       {
         "num": 466,
         "idpregunta": 466,
-        "pregunta": "SEGÚN LA TIPOLOGÍA DE DOCUMENTOS ADMINISTRATIVOS EN LA EHU, ¿QUÉ ES UN OFICIO?",
+        "pregunta": "466.- SEGÚN LA TIPOLOGÍA DE DOCUMENTOS ADMINISTRATIVOS EN LA EHU, ¿QUÉ ES UN OFICIO?",
         "opciones": {
           "A": "El documento que se utiliza para la comunicación entre órganos o unidades pertenecientes a un mismo órgano superior o entidad.",
           "B": "El documento que acredita actos o situaciones de carácter administrativo, cuyo destinatario es una persona, órgano o entidad que pretende la producción de efectos en un procedimiento administrativo o en el marco de relaciones jurídicas privadas",
@@ -5688,7 +5688,7 @@ const QUIZZES = {
       {
         "num": 467,
         "idpregunta": 467,
-        "pregunta": "SEGÚN LA LEY 9/2017, DE 8 DE NOVIEMBRE DE CONTRATOS DEL SECTOR PÚBLICO, ¿CUÁLES SON LOS TIPOS DE CONTRATOS DEL SECTOR PÚBLICO?",
+        "pregunta": "467.- SEGÚN LA LEY 9/2017, DE 8 DE NOVIEMBRE DE CONTRATOS DEL SECTOR PÚBLICO, ¿CUÁLES SON LOS TIPOS DE CONTRATOS DEL SECTOR PÚBLICO?",
         "opciones": {
           "A": "Contratos administrativos y privados.",
           "B": "Contratos administrativos, privados y mixtos.",
@@ -5700,7 +5700,7 @@ const QUIZZES = {
       {
         "num": 468,
         "idpregunta": 468,
-        "pregunta": "SEGÚN LA LEY 9/2017, DE 8 DE NOVIEMBRE DE CONTRATOS DEL SECTOR PÚBLICO, ENTRE LOS CONTRATOS QUE DEBEN REMITIRSE, EN LOS TRES MESES SIGUIENTES A SU FORMALIZACIÓN, AL TRIBUNAL DE CUENTAS U ÓRGANO DE FISCALIZACIÓN DE LA COMUNIDAD AUTÓNOMA, PARA EL EJERCICIO DE LA FUNCIÓN FISCALIZADORA, SE ENCUENTRAN:",
+        "pregunta": "468.- SEGÚN LA LEY 9/2017, DE 8 DE NOVIEMBRE DE CONTRATOS DEL SECTOR PÚBLICO, ENTRE LOS CONTRATOS QUE DEBEN REMITIRSE, EN LOS TRES MESES SIGUIENTES A SU FORMALIZACIÓN, AL TRIBUNAL DE CUENTAS U ÓRGANO DE FISCALIZACIÓN DE LA COMUNIDAD AUTÓNOMA, PARA EL EJERCICIO DE LA FUNCIÓN FISCALIZADORA, SE ENCUENTRAN:",
         "opciones": {
           "A": "Los contratos de obras, siempre que la cuantía del contrato exceda de 450.000 euros.",
           "B": "Los contratos de suministro, siempre que la cuantía del contrato exceda de 250.000 euros.",
@@ -5712,7 +5712,7 @@ const QUIZZES = {
       {
         "num": 469,
         "idpregunta": 469,
-        "pregunta": "SE CONSIDERAN CONTRATOS MENORES:",
+        "pregunta": "469.- SE CONSIDERAN CONTRATOS MENORES:",
         "opciones": {
           "A": "Los contratos de valor estimado inferior a 40.000 euros, cuando se trate de contratos de obras.",
           "B": "Los contratos de valor estimado inferior a 25.000 euros, cuando se trate de contratos de servicios.",
@@ -5724,7 +5724,7 @@ const QUIZZES = {
       {
         "num": 470,
         "idpregunta": 470,
-        "pregunta": "SEGÚN LA LEY 9/2017, DE 8 DE NOVIEMBRE DE CONTRATOS DEL SECTOR PÚBLICO, LOS CONTRATOS MENORES DEFINIDOS EN EL APARTADO PRIMERO DEL ARTÍCULO 118 NO PODRÁN TENER UNA DURACIÓN SUPERIOR A:",
+        "pregunta": "470.- SEGÚN LA LEY 9/2017, DE 8 DE NOVIEMBRE DE CONTRATOS DEL SECTOR PÚBLICO, LOS CONTRATOS MENORES DEFINIDOS EN EL APARTADO PRIMERO DEL ARTÍCULO 118 NO PODRÁN TENER UNA DURACIÓN SUPERIOR A:",
         "opciones": {
           "A": "Cinco años ni ser objeto de prórroga.",
           "B": "Un año ni ser objeto de prórroga.",
@@ -5736,7 +5736,7 @@ const QUIZZES = {
       {
         "num": 471,
         "idpregunta": 471,
-        "pregunta": "TENDRÁN LA CONSIDERACIÓN DE CONTRATOS PRIVADOS SEGÚN LO INDICADO EN LOS ARTÍCULOS 25 Y 26 DE LA LEY 9/2017, DE 8 DE NOVIEMBRE DE CONTRATOS DEL SECTOR PÚBLICO:",
+        "pregunta": "471.- TENDRÁN LA CONSIDERACIÓN DE CONTRATOS PRIVADOS SEGÚN LO INDICADO EN LOS ARTÍCULOS 25 Y 26 DE LA LEY 9/2017, DE 8 DE NOVIEMBRE DE CONTRATOS DEL SECTOR PÚBLICO:",
         "opciones": {
           "A": "Todos los que sean celebrados por entidades del sector público que siendo poder adjudicador no reúnan la condición de Administraciones públicas.",
           "B": "Los contratos de servicios celebrados por la administración pública que tengan por objeto la creación e interpretación artística y literaria o espectáculos.",
@@ -5748,7 +5748,7 @@ const QUIZZES = {
       {
         "num": 472,
         "idpregunta": 472,
-        "pregunta": "SEÑALE LA RESPUESTA INCORRECTA. CON RELACIÓN A LA TRAMITACIÓN URGENTE DE LOS EXPEDIENTES DE CONTRATACIÓN:",
+        "pregunta": "472.- SEÑALE LA RESPUESTA INCORRECTA. CON RELACIÓN A LA TRAMITACIÓN URGENTE DE LOS EXPEDIENTES DE CONTRATACIÓN:",
         "opciones": {
           "A": "Podrán ser objeto de tramitación urgente los expedientes de contratación correspondientes a los contratos cuya celebración responda a una necesidad inaplazable.",
           "B": "Podrán ser objeto de tramitación urgente los expedientes de contratación cuya adjudicación sea preciso acelerar por razones de interés público.",
@@ -5760,7 +5760,7 @@ const QUIZZES = {
       {
         "num": 473,
         "idpregunta": 473,
-        "pregunta": "EN TODA CONTRATACIÓN DEL SECTOR PÚBLICO:",
+        "pregunta": "473.- EN TODA CONTRATACIÓN DEL SECTOR PÚBLICO:",
         "opciones": {
           "A": "Se incorporarán de manera facultativa criterios sociales y medioambientales siempre que guarden relación con el objeto del contrato.",
           "B": "Se incorporarán de manera potestativa criterios sociales y medioambientales en la convicción de que su inclusión proporciona una mejor relación calidad-precio.",
@@ -5772,7 +5772,7 @@ const QUIZZES = {
       {
         "num": 474,
         "idpregunta": 474,
-        "pregunta": "SEÑALE LA RESPUESTA INCORRECTA. A LOS EFECTOS DE LA LEY DE CONTRATOS DEL SECTOR PÚBLICO, FORMAN PARTE DEL SECTOR PÚBLICO:",
+        "pregunta": "474.- SEÑALE LA RESPUESTA INCORRECTA. A LOS EFECTOS DE LA LEY DE CONTRATOS DEL SECTOR PÚBLICO, FORMAN PARTE DEL SECTOR PÚBLICO:",
         "opciones": {
           "A": "Las Entidades Gestoras y los Servicios Comunes de la Seguridad Social.",
           "B": "Las Universidades Públicas y Privadas.",
@@ -5784,7 +5784,7 @@ const QUIZZES = {
       {
         "num": 475,
         "idpregunta": 475,
-        "pregunta": "DE ACUERDO CON LA LEGISLACIÓN VIGENTE EN MATERIA DE CONTRATOS DEL SECTOR PÚBLICO, LOS CONTRATOS DE SERVICIOS:",
+        "pregunta": "475.- DE ACUERDO CON LA LEGISLACIÓN VIGENTE EN MATERIA DE CONTRATOS DEL SECTOR PÚBLICO, LOS CONTRATOS DE SERVICIOS:",
         "opciones": {
           "A": "No podrán ser objeto de estos contratos los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos.",
           "B": "Son aquellos en cuya virtud uno o varios poderes adjudicadores encomiendan a título oneroso a una o varias personas, naturales o jurídicas, la gestión de un servicio cuya prestación sea de su titularidad o competencia.",
@@ -5796,7 +5796,7 @@ const QUIZZES = {
       {
         "num": 476,
         "idpregunta": 476,
-        "pregunta": "DE ACUERDO CON LA LEGISLACIÓN VIGENTE EN MATERIA DE CONTRATOS DEL SECTOR PÚBLICO, LOS CONTRATOS DE SERVICIOS:",
+        "pregunta": "476.- DE ACUERDO CON LA LEGISLACIÓN VIGENTE EN MATERIA DE CONTRATOS DEL SECTOR PÚBLICO, LOS CONTRATOS DE SERVICIOS:",
         "opciones": {
           "A": "Podrán ser objeto de estos contratos los servicios que impliquen ejercicio de la autoridad inherente a los poderes públicos.",
           "B": "Es aquel en cuya virtud uno o varios poderes adjudicadores encomiendan a título oneroso a una o varias personas, naturales o jurídicas, la gestión de un servicio cuya prestación sea de su titularidad o competencia,",
@@ -5808,7 +5808,7 @@ const QUIZZES = {
       {
         "num": 477,
         "idpregunta": 477,
-        "pregunta": "SEÑALE LA RESPUESTA INCORRECTA. QUEDAN EXCLUIDOS DEL ÁMBITO DE LA LEY DE CONTRATOS DEL SECTOR PÚBLICO:",
+        "pregunta": "477.- SEÑALE LA RESPUESTA INCORRECTA. QUEDAN EXCLUIDOS DEL ÁMBITO DE LA LEY DE CONTRATOS DEL SECTOR PÚBLICO:",
         "opciones": {
           "A": "Las relaciones jurídicas consistentes en la prestación de un servicio público cuya utilización por los usuarios requiera el abono de una tarifa, tasa o precio público de aplicación general.",
           "B": "Los contratos regulados en la legislación laboral.",
@@ -5820,7 +5820,7 @@ const QUIZZES = {
       {
         "num": 478,
         "idpregunta": 478,
-        "pregunta": "SEÑALE LA OPCIÓN INCORRECTA. EN EL PERFIL DEL CONTRATANTE, EN EL CASO DE LA INFORMACIÓN RELATIVA A LOS CONTRATOS, DEBERÁ PUBLICARSE AL MENOS:",
+        "pregunta": "478.- SEÑALE LA OPCIÓN INCORRECTA. EN EL PERFIL DEL CONTRATANTE, EN EL CASO DE LA INFORMACIÓN RELATIVA A LOS CONTRATOS, DEBERÁ PUBLICARSE AL MENOS:",
         "opciones": {
           "A": "El objeto detallado del contrato.",
           "B": "Su duración.",
@@ -5832,7 +5832,7 @@ const QUIZZES = {
       {
         "num": 479,
         "idpregunta": 479,
-        "pregunta": "SOLO PODRÁN CONTRATAR CON EL SECTOR PÚBLICO:",
+        "pregunta": "479.- SOLO PODRÁN CONTRATAR CON EL SECTOR PÚBLICO:",
         "opciones": {
           "A": "Las personas jurídicas que tengan plena capacidad de obrar, no estén incursas en alguna prohibición de contratar, y acrediten su solvencia económica y financiera y técnica o profesional o, en los casos en que así lo exija esta Ley, se encuentren debidamente clasificadas.",
           "B": "Las personas naturales o jurídicas, españolas o extranjeras, que tengan plena capacidad de obrar, no estén incursas en alguna prohibición de contratar, y acrediten su solvencia económica y financiera y técnica o profesional o, en los casos en que así lo exija esta Ley, se encuentren debidamente clasificadas.",
@@ -5850,7 +5850,7 @@ const QUIZZES = {
       {
         "num": 480,
         "idpregunta": 480,
-        "pregunta": "NO PODRÁN CONTRATAR LAS PERSONAS EN QUIÉNES CONCURRA ALGUNA DE LAS SIGUIENTES CIRCUNSTANCIAS:",
+        "pregunta": "480.- NO PODRÁN CONTRATAR LAS PERSONAS EN QUIÉNES CONCURRA ALGUNA DE LAS SIGUIENTES CIRCUNSTANCIAS:",
         "opciones": {
           "A": "Haber sido condenadas civilmente mediante sentencia.",
           "B": "No cumplir el requisito de que al menos el 5 por ciento de sus empleados sean trabajadores con discapacidad.",
@@ -5862,7 +5862,7 @@ const QUIZZES = {
       {
         "num": 481,
         "idpregunta": 481,
-        "pregunta": "EL OBJETO DE LOS CONTRATOS DEL SECTOR PÚBLICO:",
+        "pregunta": "481.- EL OBJETO DE LOS CONTRATOS DEL SECTOR PÚBLICO:",
         "opciones": {
           "A": "Podrá fraccionarse con la finalidad de disminuir la cuantía del mismo.",
           "B": "Deberá ser determinado.",
@@ -5874,7 +5874,7 @@ const QUIZZES = {
       {
         "num": 482,
         "idpregunta": 482,
-        "pregunta": "DADAS LAS SIGUIENTES REFERENCIAS BIBLIOGRÁFICAS: 1. Manzanos Bilbao, C. (1998). Salir de prisión: la otra condena. Zerbitzuan, 35, 64-70. 2. Moix Martínez, M. (2006). Teoría del trabajo social. Madrid: Síntesis. 3. Rodríguez Martín, V. (2003). Los recursos sociales. En T. Fernández García y M.C. Alemán Bracho (Coords.), Introducción al trabajo social (pp. 373-393). Madrid: Alianza. IDENTIFIQUE LA CLASE DE DOCUMENTO A LA QUE CORRESPONDE CADA UNA:",
+        "pregunta": "482.- DADAS LAS SIGUIENTES REFERENCIAS BIBLIOGRÁFICAS: 1. Manzanos Bilbao, C. (1998). Salir de prisión: la otra condena. Zerbitzuan, 35, 64-70. 2. Moix Martínez, M. (2006). Teoría del trabajo social. Madrid: Síntesis. 3. Rodríguez Martín, V. (2003). Los recursos sociales. En T. Fernández García y M.C. Alemán Bracho (Coords.), Introducción al trabajo social (pp. 373-393). Madrid: Alianza. IDENTIFIQUE LA CLASE DE DOCUMENTO A LA QUE CORRESPONDE CADA UNA:",
         "opciones": {
           "A": "1.Libro; 2. Artículo de revista; 3. Capítulo de libro.",
           "B": "1. Artículo de revista; 2. Libro; 3. Capítulo de libro.",
@@ -5886,7 +5886,7 @@ const QUIZZES = {
       {
         "num": 483,
         "idpregunta": 483,
-        "pregunta": "EN EL MÓDULO DE CIRCULACIÓN DE UN SISTEMA INTEGRADO DE GESTIÓN BIBLIOTECARIA EL PRÉSTAMO DE UN LIBRO VINCULA:",
+        "pregunta": "483.- EN EL MÓDULO DE CIRCULACIÓN DE UN SISTEMA INTEGRADO DE GESTIÓN BIBLIOTECARIA EL PRÉSTAMO DE UN LIBRO VINCULA:",
         "opciones": {
           "A": "Un registro bibliográfico con un registro de persona usuaria.",
           "B": "Un registro de ejemplar con un registro de persona usuaria.",
@@ -5898,7 +5898,7 @@ const QUIZZES = {
       {
         "num": 484,
         "idpregunta": 484,
-        "pregunta": "COMO REGLA GENERAL, EN LA BIBLIOTECA DE LA EHU SE EXCLUYEN DEL PRÉSTAMO A DOMICILIO:",
+        "pregunta": "484.- COMO REGLA GENERAL, EN LA BIBLIOTECA DE LA EHU SE EXCLUYEN DEL PRÉSTAMO A DOMICILIO:",
         "opciones": {
           "A": "Los cómics.",
           "B": "Los videos.",
@@ -5910,7 +5910,7 @@ const QUIZZES = {
       {
         "num": 485,
         "idpregunta": 485,
-        "pregunta": "UNA BIBLIOTECA QUE RECOGE, TRATA Y DIFUNDE INFORMACIÓN RELATIVA A UN TEMA O GRUPO DE TEMAS AFINES, CUYA COLECCIÓN SE CENTRA EN UNA MATERIA O ÁREA CONCRETA DEL CONOCIMIENTO ES:",
+        "pregunta": "485.- UNA BIBLIOTECA QUE RECOGE, TRATA Y DIFUNDE INFORMACIÓN RELATIVA A UN TEMA O GRUPO DE TEMAS AFINES, CUYA COLECCIÓN SE CENTRA EN UNA MATERIA O ÁREA CONCRETA DEL CONOCIMIENTO ES:",
         "opciones": {
           "A": "Una biblioteca local.",
           "B": "Una biblioteca especializada.",
@@ -5922,7 +5922,7 @@ const QUIZZES = {
       {
         "num": 486,
         "idpregunta": 486,
-        "pregunta": "EN LA CDU, ¿QUÉ TIENEN EN COMÚN LOS AUXILIARES DE FORMA Y LUGAR?",
+        "pregunta": "486.- EN LA CDU, ¿QUÉ TIENEN EN COMÚN LOS AUXILIARES DE FORMA Y LUGAR?",
         "opciones": {
           "A": "Van entre paréntesis.",
           "B": "Van entre comillas.",
@@ -5934,7 +5934,7 @@ const QUIZZES = {
       {
         "num": 487,
         "idpregunta": 487,
-        "pregunta": "SEGÚN LA NORMATIVA DE PRÉSTAMO DE LA BIBLIOTECA DE LA EHU, LAS CONDICIONES DE PRÉSTAMO DE EJEMPLARES:",
+        "pregunta": "487.- SEGÚN LA NORMATIVA DE PRÉSTAMO DE LA BIBLIOTECA DE LA EHU, LAS CONDICIONES DE PRÉSTAMO DE EJEMPLARES:",
         "opciones": {
           "A": "Son las mismas para todas las categorías de personas usuarias de la biblioteca",
           "B": "Solo dependen del tipo de ejemplar.",
@@ -5946,7 +5946,7 @@ const QUIZZES = {
       {
         "num": 488,
         "idpregunta": 488,
-        "pregunta": "EN EL MARCO DEL ESPACIO EUROPEO DE ENSEÑANZA SUPERIOR, ¿CUÁL DE LAS SIGUIENTES DEFINICIONES CORRESPONDE AL MODELO DE BIBLIOTECA UNIVERSITARIA QUE INTRODUCE EL CONCEPTO DE CRAI Y QUEDA REFLEJADA EN EL ARTÍCULO 103 DE LOS ESTATUTOS DE LA EHU?",
+        "pregunta": "488.- EN EL MARCO DEL ESPACIO EUROPEO DE ENSEÑANZA SUPERIOR, ¿CUÁL DE LAS SIGUIENTES DEFINICIONES CORRESPONDE AL MODELO DE BIBLIOTECA UNIVERSITARIA QUE INTRODUCE EL CONCEPTO DE CRAI Y QUEDA REFLEJADA EN EL ARTÍCULO 103 DE LOS ESTATUTOS DE LA EHU?",
         "opciones": {
           "A": "Gran espacio multifuncional, con áreas de silencio, de ruido y para trabajo en grupo, así como con instalaciones tecnológicas de última generación y colecciones multidisciplinares, orientado al autoaprendizaje del alumnado.",
           "B": "Combinación de biblioteca digital y física, tal y como lo describe la línea 1 de REBIUN.",
@@ -5958,7 +5958,7 @@ const QUIZZES = {
       {
         "num": 489,
         "idpregunta": 489,
-        "pregunta": "SEGÚN EL ARTÍCULO 52 DEL REGLAMENTO DE LA BIBLIOTECA UNIVERSITARIA DE LA EHU, ÚNICAMENTE SERÁN PERSONAS USUARIAS DE PLENO DERECHO DE LA MISMA:",
+        "pregunta": "489.- SEGÚN EL ARTÍCULO 52 DEL REGLAMENTO DE LA BIBLIOTECA UNIVERSITARIA DE LA EHU, ÚNICAMENTE SERÁN PERSONAS USUARIAS DE PLENO DERECHO DE LA MISMA:",
         "opciones": {
           "A": "Profesorado y alumnado de la EHU.",
           "B": "Profesorado, alumnado, personal investigador y personal del servicio de seguridad de la EHU.",
@@ -5970,7 +5970,7 @@ const QUIZZES = {
       {
         "num": 490,
         "idpregunta": 490,
-        "pregunta": "EN EL CONTROL DE RECEPCIÓN DE DOCUMENTOS, EL \"KARDEX\" SE USA PARA EL:",
+        "pregunta": "490.- EN EL CONTROL DE RECEPCIÓN DE DOCUMENTOS, EL \"KARDEX\" SE USA PARA EL:",
         "opciones": {
           "A": "Registro de publicaciones monográficas en entornos automatizados.",
           "B": "Control de duplicados",
@@ -5982,7 +5982,7 @@ const QUIZZES = {
       {
         "num": 491,
         "idpregunta": 491,
-        "pregunta": "¿CUÁL DE LAS SIGUIENTES OPCIONES ES UNA VENTAJA DEL LIBRE ACCESO A LOS FONDOS DE LA BIBLIOTECA?",
+        "pregunta": "491.- ¿CUÁL DE LAS SIGUIENTES OPCIONES ES UNA VENTAJA DEL LIBRE ACCESO A LOS FONDOS DE LA BIBLIOTECA?",
         "opciones": {
           "A": "Los materiales se conservan mejor.",
           "B": "Se pueden hacer estadísticas sobre el nivel de lectura.",
@@ -5994,7 +5994,7 @@ const QUIZZES = {
       {
         "num": 492,
         "idpregunta": 492,
-        "pregunta": "LA BIBLIOTECA DE LA ESCUELA DE INGENIERÍA DE BILBAO-NÁUTICA RECIBE EN DONACIÓN UNA COLECCIÓN DE MAPAS Y CARTAS NÁUTICAS DEL SIGLO XIX. EN ATENCIÓN A SUS CARACTERÍSTICAS FÍSICAS, ¿CUÁL SERÍA LA FORMA MÁS ADECUADA DE CONSERVAR ESTE MATERIAL CARTOGRÁFICO?",
+        "pregunta": "492.- LA BIBLIOTECA DE LA ESCUELA DE INGENIERÍA DE BILBAO-NÁUTICA RECIBE EN DONACIÓN UNA COLECCIÓN DE MAPAS Y CARTAS NÁUTICAS DEL SIGLO XIX. EN ATENCIÓN A SUS CARACTERÍSTICAS FÍSICAS, ¿CUÁL SERÍA LA FORMA MÁS ADECUADA DE CONSERVAR ESTE MATERIAL CARTOGRÁFICO?",
         "opciones": {
           "A": "Plegados en archivadores.",
           "B": "Enrollados en tubos de cartón.",
@@ -6006,7 +6006,7 @@ const QUIZZES = {
       {
         "num": 493,
         "idpregunta": 493,
-        "pregunta": "¿CUÁL DE LOS SIGUIENTES MÉTODOS NO ES CONVENIENTE PARA LA PREVENCIÓN DE ROBOS EN EL FONDO ANTIGUO DE LA BIBLIOTECA, DESDE EL PUNTO DE VISTA DE LA CONSERVACIÓN?",
+        "pregunta": "493.- ¿CUÁL DE LOS SIGUIENTES MÉTODOS NO ES CONVENIENTE PARA LA PREVENCIÓN DE ROBOS EN EL FONDO ANTIGUO DE LA BIBLIOTECA, DESDE EL PUNTO DE VISTA DE LA CONSERVACIÓN?",
         "opciones": {
           "A": "Instalación de cámaras de seguridad.",
           "B": "Vigilancia directa en sala",
@@ -6018,7 +6018,7 @@ const QUIZZES = {
       {
         "num": 494,
         "idpregunta": 494,
-        "pregunta": "¿QUÉ SIGNIFICA QUE LA CDU ES EXTENSIBLE?",
+        "pregunta": "494.- ¿QUÉ SIGNIFICA QUE LA CDU ES EXTENSIBLE?",
         "opciones": {
           "A": "Que abarca todos los campos del conocimiento existentes.",
           "B": "Que cada categoría se subdivide en otras, presentando el conocimiento jerárquicamente.",
@@ -6030,7 +6030,7 @@ const QUIZZES = {
       {
         "num": 495,
         "idpregunta": 495,
-        "pregunta": "LA COMISIÓN DE CALIDAD ESTARÁ INTEGRADA, AL MENOS, POR:",
+        "pregunta": "495.- LA COMISIÓN DE CALIDAD ESTARÁ INTEGRADA, AL MENOS, POR:",
         "opciones": {
           "A": "Uno/a o varios/as representantes del Equipo Decanal/Dirección, varios representantes del PDI y un/a representante del personal técnico, de gestión y administración y servicios.",
           "B": "Uno/a o varios/as representantes del Equipo Decanal/Dirección, varios representantes del PDI y un/a representante del Alumnado.",
@@ -6048,7 +6048,7 @@ const QUIZZES = {
       {
         "num": 496,
         "idpregunta": 496,
-        "pregunta": "RESPECTO A LA EVALUACIÓN DEL DESEMPEÑO EN LA LEY 11/2022, DE 1 DE DICIEMBRE, DE EMPLEO PÚBLICO VASCO:",
+        "pregunta": "496.- RESPECTO A LA EVALUACIÓN DEL DESEMPEÑO EN LA LEY 11/2022, DE 1 DE DICIEMBRE, DE EMPLEO PÚBLICO VASCO:",
         "opciones": {
           "A": "Es voluntaria para las administraciones.",
           "B": "Solo afecta al personal interino.",
@@ -6060,7 +6060,7 @@ const QUIZZES = {
       {
         "num": 497,
         "idpregunta": 497,
-        "pregunta": "LOS PERFILES LINGÜÍSTICOS ACREDITADOS EN PROCESOS SELECTIVOS O DE PROVISIÓN POR AQUELLAS PERSONAS ASPIRANTES QUE, EN VIRTUD DE DICHOS PROCEDIMIENTOS, NO LLEGARAN A ACCEDER A LA CONDICIÓN DE PERSONA EMPLEADA AL SERVICIO DE LA ENTIDAD DEL SECTOR PÚBLICO VASCO",
+        "pregunta": "497.- LOS PERFILES LINGÜÍSTICOS ACREDITADOS EN PROCESOS SELECTIVOS O DE PROVISIÓN POR AQUELLAS PERSONAS ASPIRANTES QUE, EN VIRTUD DE DICHOS PROCEDIMIENTOS, NO LLEGARAN A ACCEDER A LA CONDICIÓN DE PERSONA EMPLEADA AL SERVICIO DE LA ENTIDAD DEL SECTOR PÚBLICO VASCO",
         "opciones": {
           "A": "Perderán su validez a los dos años.",
           "B": "La parte escrita mantendrá su validez por tiempo indefinido, mientras que la parte oral contará con tres llamamientos extraordinarios para ser superada.",
@@ -6072,7 +6072,7 @@ const QUIZZES = {
       {
         "num": 498,
         "idpregunta": 498,
-        "pregunta": "¿QUÉ COLECTIVO VE REFORZADA SU PARTICIPACIÓN EN ÓRGANOS COLEGIADOS SEGÚN LA LOSU?",
+        "pregunta": "498.- ¿QUÉ COLECTIVO VE REFORZADA SU PARTICIPACIÓN EN ÓRGANOS COLEGIADOS SEGÚN LA LOSU?",
         "opciones": {
           "A": "Empresas colaboradoras",
           "B": "Estudiantado.",
@@ -6084,7 +6084,7 @@ const QUIZZES = {
       {
         "num": 499,
         "idpregunta": 499,
-        "pregunta": "EN RELACIÓN CON LAS COMPETENCIAS DE LA ADMINISTRACIÓN DE LA COMUNIDAD AUTÓNOMA, SEÑALE LA AFIRMACIÓN INCORRECTA:",
+        "pregunta": "499.- EN RELACIÓN CON LAS COMPETENCIAS DE LA ADMINISTRACIÓN DE LA COMUNIDAD AUTÓNOMA, SEÑALE LA AFIRMACIÓN INCORRECTA:",
         "opciones": {
           "A": "Corresponde a la Administración autonómica la planificación y coordinación general, así como la elaboración de normas y directrices generales en materia de igualdad.",
           "B": "La Administración autonómica tiene competencia para la evaluación de las políticas de igualdad en el ámbito de la Comunidad Autónoma.",
@@ -6096,7 +6096,7 @@ const QUIZZES = {
       {
         "num": 500,
         "idpregunta": 500,
-        "pregunta": "EL IV PLAN DE IGUALDAD DE MUJERES Y HOMBRES DE LA EHU SE ALINEA CON:",
+        "pregunta": "500.- EL IV PLAN DE IGUALDAD DE MUJERES Y HOMBRES DE LA EHU SE ALINEA CON:",
         "opciones": {
           "A": "ODS 3",
           "B": "ODS 4",

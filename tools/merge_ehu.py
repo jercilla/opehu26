@@ -12,7 +12,7 @@ Uso: python3 tools/merge_ehu.py <dir_con_chunks>
      (por defecto busca chunk_*.json en el CWD)
 Salida: administrativo_c1.json (array de 500 preguntas ordenado por num).
 """
-import glob, json, os, sys
+import glob, json, os, re, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TOTAL = 500
@@ -62,10 +62,14 @@ def main():
         marcada = (q.get('marcada') or '').upper() or None
         if marcada and correcta and marcada != correcta:
             discrepancias.append((n, f'STEILAS={marcada} LAB={correcta}'))
+        enun = q.get('pregunta', '').strip()
+        # Prefijar el numero de pregunta al enunciado ("N.- ...") si no lo trae ya.
+        if not re.match(rf'^\s*{n}\s*[.\-]', enun):
+            enun = f'{n}.- {enun}'
         result.append({
             'num': n,
             'idpregunta': n,
-            'pregunta': q.get('pregunta', '').strip(),
+            'pregunta': enun,
             'opciones': {l: str(opts.get(l, '')).strip() for l in letters},
             'correcta': correcta,
         })
